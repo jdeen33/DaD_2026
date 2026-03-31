@@ -1,0 +1,11405 @@
+entity_text,label,count
+Alexander,pers,41047
+Antonius,pers,34440
+Pompeius,pers,28652
+Sulla,pers,20678
+Cicero,pers,20313
+Demetrius,pers,16929
+Lucullus,pers,15113
+Pelopidas,pers,13524
+Marius,pers,13441
+Pyrrhus,pers,12454
+Demosthenes,pers,12398
+Nikias,pers,10323
+Crassus,pers,10189
+Agesilaus,pers,8294
+Aristeides,pers,7745
+Kleomenes,pers,6564
+Aratus,pers,6479
+Sertorius,pers,6192
+Kimon,pers,5713
+Marcellus,pers,5708
+Galba,pers,5431
+Lysander,pers,5378
+Phokion,pers,5007
+Brutus,pers,4923
+ch.,work,4388
+"Dion,",pers,4053
+"Agis,",pers,3856
+Cato,work,3558
+Major,work,3428
+Artaxerxes,pers,2866
+Eumenes,pers,2851
+Cato Minor,pers,2791
+Flamininus,pers,2617
+Tib.,work,2507
+Gracchus,pers,2050
+Cæsar,pers,1836
+Philopoemen,pers,1555
+Gutenberg,pers,1264
+Footnote,work,1059
+Otho,pers,1047
+Rome,loc,855
+Cato,pers,779
+Project,work,576
+Plutarch,pers,513
+Athens,loc,465
+Alkibiades,pers,447
+Perikles,pers,445
+Themistokles,pers,425
+Greece,loc,367
+Romulus,pers,322
+Dion,pers,321
+Foundation,work,320
+Mithridates,pers,309
+Italy,loc,303
+Sparta,loc,303
+Dion Cassius,pers,291
+Theseus,pers,276
+Camillus,pers,269
+Lykurgus,pers,268
+Antigonus,pers,261
+Solon,pers,254
+iv,scope,251
+Timoleon,pers,246
+Project,pers,240
+iii,scope,239
+ch.,scope,225
+Sicily,loc,224
+Asia,loc,222
+Fabius,pers,207
+Philip,pers,202
+ii,scope,202
+Scipio,pers,200
+Dionysius,pers,200
+Tiberius,pers,193
+Metellus,pers,186
+Caius,pers,183
+Appian,pers,183
+B.C.,work,179
+Macedonia,loc,173
+iii.,scope,173
+Hannibal,pers,172
+Plato,pers,167
+Cassius,pers,167
+Æmilius,pers,166
+Numa,pers,165
+Cleopatra,pers,154
+iv.,scope,148
+Forum,work,146
+Syracuse,loc,146
+Egypt,loc,133
+Agis,pers,130
+Corinth,loc,129
+Lucius,pers,124
+Clodius,pers,120
+Marcius,pers,118
+Cyrus,pers,118
+Tigranes,pers,114
+Ptolemy,pers,110
+Coriolanus,pers,110
+Antipater,pers,106
+Poplicola,pers,102
+Titus,pers,99
+Appianus,pers,99
+Marcus,pers,96
+Strabo,pers,93
+Kaltwasser,pers,93
+Darius,pers,93
+Gaul,loc,92
+Syria,loc,91
+Philopœmen,pers,88
+Pausanias,pers,87
+Nero,pers,87
+Seleukus,pers,85
+Herakles,pers,83
+Theseus,loc,82
+U.S.,work,80
+Delphi,loc,79
+Drumann,pers,78
+Athenian,pers,78
+Spain,loc,78
+Antiochus,pers,76
+ch,scope,75
+B.C,work,75
+Capitol,work,74
+Sintenis,pers,73
+Libya,loc,73
+Livius,pers,73
+Iberia,loc,73
+Argos,loc,73
+Peloponnesus,loc,73
+Cyprus,loc,71
+Persia,loc,71
+31,scope,70
+Thebes,loc,69
+Epameinondas,pers,67
+Armenia,loc,67
+Aristotle,pers,66
+Aemilius,pers,66
+Octavius,pers,66
+Thessaly,loc,65
+Catulus,pers,65
+43,scope,65
+c.,scope,65
+1.F.3,scope,64
+Archelaus,pers,64
+Lepidus,pers,63
+29,scope,63
+",",scope,63
+Lentulus,pers,62
+Homer,pers,62
+Cilicia,loc,62
+22,scope,62
+27,scope,61
+Thucydides,pers,60
+Cinna,pers,60
+20,scope,60
+21,scope,60
+30,scope,60
+Augustus,pers,60
+Numa,work,59
+19,scope,59
+Salamis,loc,58
+Leonidas,pers,57
+Domitius,pers,57
+32,scope,57
+Attica,loc,57
+Cornelia,pers,56
+41,scope,56
+Lysimachus,pers,56
+42,scope,56
+Africa,loc,56
+Ptolemæus,pers,55
+L.,pers,55
+Cornelius,pers,54
+Herakleides,pers,54
+39,scope,54
+Civil Wars,work,54
+Quintus,pers,52
+Life,work,52
+Bœotia,loc,52
+Apollo,pers,52
+B.C.,scope,52
+25,scope,52
+Hortensius,pers,52
+.,work,51
+Samos,loc,51
+Valerius,pers,51
+Publius,pers,51
+26,scope,50
+Dolabella,pers,50
+(,scope,50
+18,scope,49
+17,scope,49
+33,scope,49
+36,scope,49
+44,scope,48
+35,scope,48
+Pharnabazus,pers,48
+Catilina,pers,48
+Carthage,loc,48
+37,scope,48
+38,scope,47
+M.,pers,47
+34,scope,47
+28,scope,46
+Herodotus,pers,45
+Euripides,pers,45
+24,scope,45
+Perseus,pers,45
+C.,pers,45
+Jupiter,pers,45
+Sikyon,loc,44
+Zeus,pers,44
+Suetonius,pers,44
+.,pers,44
+King,pers,44
+Pontus,loc,43
+ii.,scope,43
+45,scope,43
+23,scope,43
+Pompeius Magnus,pers,42
+Sokrates,pers,42
+Kraterus,pers,42
+40,scope,42
+Theseus,work,42
+Piso,pers,41
+Ephors,work,41
+Octavia,pers,40
+Xenophon,pers,40
+Epirus,loc,40
+52,scope,40
+Thrace,loc,40
+Alps,work,40
+M,pers,39
+Bithynia,loc,39
+Poplicola,work,39
+16,scope,39
+Xerxes,pers,38
+Carbo,pers,38
+Kassander,pers,38
+Q.,pers,37
+Fimbria,pers,37
+Sallustius,pers,37
+(40,scope,37
+.,scope,37
+Neoptolemus,pers,36
+14,scope,36
+C,pers,36
+Spartacus,pers,36
+46,scope,36
+53,scope,36
+Hiketes,pers,35
+9,scope,35
+Juba,pers,35
+Rostra,work,35
+Minor,loc,34
+Crete,loc,34
+Kallisthenes,pers,34
+Bibulus,pers,34
+Casaub.,pers,34
+Fulvia,pers,33
+Kleombrotus,pers,33
+49,scope,33
+Cappadocia,loc,33
+Kleopatra,pers,33
+Archidamus,pers,33
+Gylippus,pers,33
+54,scope,33
+48,scope,32
+12,scope,32
+Vitellius,pers,32
+1.E.9,scope,32
+Alexandria,loc,32
+Plain Vanilla,pers,32
+15,scope,32
+Laconia,loc,32
+Atticus,pers,32
+Servilia,pers,32
+Sulpicius,pers,32
+License,work,32
+Euphrates,work,32
+Philippi,loc,32
+Demades,pers,32
+paragraph,scope,32
+paragraph 1.E.1,scope,32
+Gracchi,work,31
+Megalopolis,loc,31
+Julia,pers,31
+Polybius,pers,31
+Minucius,pers,31
+_,scope,31
+Vinius,pers,31
+Theopompus,pers,31
+Tissaphernes,pers,31
+Fortune,pers,31
+Ktesias,pers,30
+Murena,pers,30
+Afranius,pers,30
+Kleon,pers,30
+Philopoemen,work,30
+Philippus,pers,30
+Cimbri,work,30
+Cato     Minor,pers,30
+Philotas,pers,30
+Fulvius,pers,30
+Archias,pers,30
+Maximus,pers,30
+51,scope,30
+Peisistratus,pers,29
+47,scope,29
+4,scope,29
+Julius,pers,29
+Flaccus,pers,29
+Megara,loc,29
+Appius,pers,29
+Hellespont,loc,29
+Manlius,pers,29
+Tullus,pers,29
+55,scope,29
+50,scope,29
+Hercules,pers,29
+Tarentum,loc,29
+Jugurtha,pers,28
+Theophrastus,pers,28
+Velleius,pers,28
+Gabinius,pers,28
+Athena,pers,28
+56,scope,28
+Africanus,pers,28
+Lacedæmon,loc,28
+Opimius,pers,28
+Cn.,pers,27
+Platæa,loc,27
+Hephæstion,pers,27
+War,work,27
+Harpalus,pers,27
+Achilles,pers,27
+Smith,pers,27
+Sea,loc,27
+Syracusan,loc,27
+10,scope,27
+Academy,work,26
+Favonius,pers,26
+Claudius,pers,26
+Civil,work,26
+58,scope,26
+Great,pers,26
+Kleitus,pers,26
+Klearchus,pers,26
+Horatius,pers,26
+Surena,pers,26
+66,scope,26
+Marathon,loc,26
+Rhodes,loc,26
+Teribazus,pers,25
+Terentia,pers,25
+Perdikkas,pers,25
+7,scope,25
+Leuktra,loc,25
+13,scope,25
+Paulus,pers,25
+Media,loc,25
+Sea,work,25
+Dyrrachium,loc,25
+Byzantium,loc,25
+Imperator,pers,25
+Troy,loc,25
+Munatius,pers,25
+Parysatis,pers,25
+Parmenio,pers,25
+Acropolis,loc,25
+Charon,pers,25
+Grote,pers,25
+Catiline,pers,24
+Tacitus,pers,24
+Dictator,work,24
+Aegeus,pers,24
+Cæcilius,pers,24
+Philistus,pers,24
+Kineas,pers,24
+11,scope,24
+57,scope,24
+Curio,pers,24
+Cæpio,pers,24
+Porsena,pers,24
+67,scope,24
+Eleusis,loc,24
+Cethegus,pers,23
+69,scope,23
+Reimarus,pers,23
+Manius,pers,23
+Sardinia,loc,23
+Mantinea,loc,23
+Paterculus,pers,23
+Metella,pers,23
+Boeotia,pers,23
+Olympia,loc,23
+Tiber,work,23
+Poseidonius,pers,23
+Messene,loc,23
+Vindex,pers,23
+Nymphidius,pers,23
+Ephesus,loc,22
+Ahenobarbus,pers,22
+Cyclopædia,work,22
+Tatius,pers,22
+Solon,work,22
+Temple,work,22
+Dionysus,pers,22
+Tarquin,pers,22
+Leotychides,pers,22
+Kleonymus,pers,22
+Miltiades,pers,22
+Canidius,pers,22
+Pythagoras,pers,22
+Mithridat,work,22
+Orchomenus,pers,22
+Labienus,pers,22
+Ionia,loc,22
+Hyrodes,pers,22
+Roscius,pers,22
+Porcia,pers,21
+Kallias,pers,21
+Babylon,loc,21
+Cæsar,work,21
+Aspasia,pers,21
+Artemis,pers,21
+Saturninus,pers,21
+Utica,loc,21
+Statira,pers,21
+3,scope,21
+Numitor,pers,21
+Messala,pers,21
+Chæronea,loc,21
+Actium,loc,21
+"8, 9",scope,21
+Etruria,loc,21
+Plinius,pers,21
+Antiquities,work,21
+Sardis,loc,21
+Perperna,pers,21
+6,scope,20
+Kyzikus,pers,20
+Sinope,loc,20
+Licinius,pers,20
+Lacedæmon,pers,20
+Servilius,pers,20
+Veii,loc,20
+Leontini,pers,20
+Senate,work,20
+c. 10,scope,20
+59,scope,20
+Perpenna,pers,20
+Apollonia,loc,20
+Lucretius,pers,20
+Caius Gracchus,pers,20
+Remus,pers,20
+8,scope,20
+Tiberius Gracchus,pers,20
+GUTENBERG,pers,20
+Sextus,pers,19
+Chios,loc,19
+Polysperchon,pers,19
+Anaxagoras,pers,19
+c. 26,scope,19
+Phalerum,loc,19
+c. 34,scope,19
+Bosporus,loc,19
+Euxine,work,19
+Sphodrias,pers,19
+Artavasdes,pers,19
+Mithridatic,work,19
+c. 35,scope,19
+Phrygia,loc,19
+Civil War,work,19
+Memmius,pers,19
+P.,pers,19
+Antalkidas,pers,19
+Varro,pers,19
+Gellius,pers,18
+61,scope,18
+Diogenes,pers,18
+73,scope,18
+Marcia,pers,18
+Verres,pers,18
+Tigellinus,pers,18
+Amazons,work,18
+_,work,18
+Trebonius,pers,18
+Metellus Pius,pers,18
+Minos,pers,18
+Amulius,pers,18
+62,scope,18
+Q,pers,18
+Bocchus,pers,18
+Stratonike,pers,18
+Leonnatus,pers,18
+Life of,work,18
+Mardonius,pers,18
+Kallippus,pers,18
+Megalopolis,pers,18
+Lives,work,18
+5,scope,18
+Chabrias,pers,18
+Æmilius Paulus,pers,17
+Celsus,pers,17
+Corinthian,loc,17
+Germany,loc,17
+P,pers,17
+Gallus,pers,17
+60,scope,17
+64,scope,17
+Olympias,pers,17
+Nikanor,pers,17
+Croesus,pers,17
+Nasica,pers,17
+Timotheus,pers,17
+Seleukeia,pers,17
+Scipio Africanus,pers,17
+Lydia,loc,17
+Arcadia,loc,17
+Macedonians,pers,17
+Megara,pers,17
+Demaratus,pers,17
+Campania,loc,17
+Mount,loc,17
+Ariadne,pers,17
+Ephorus,pers,17
+Areopagus,work,17
+B.C. 49,scope,17
+B.C. 50,scope,17
+Frontinus,pers,17
+Fabricius,pers,17
+Sophokles,pers,17
+Brundisium,loc,17
+Project Gutenberg,pers,16
+PARAGRAPH,work,16
+1.E.1 through,scope,16
+1.E.1,scope,16
+64-6221541,scope,16
+Thermopylæ,loc,16
+2001,scope,16
+63,scope,16
+Agamemnon,pers,16
+Prætor,pers,16
+North 1500 West,scope,16
+1.F.2,scope,16
+1.F.1,scope,16
+801,scope,16
+paragraphs,scope,16
+Europe,loc,16
+States,work,16
+Erginus,pers,16
+Brundusium,loc,16
+Simonides,pers,16
+3 and 4,scope,16
+Aristomachus,pers,16
+Aristippus,pers,16
+Amisus,pers,16
+596-1887,scope,16
+Cæcina,pers,16
+Miletus,loc,16
+Xenokrates,pers,16
+Virginius,pers,16
+U.S.,pers,16
+Vatinius,pers,16
+Section 3,scope,16
+Section 4,scope,16
+UT,scope,16
+Sections,scope,16
+Section,scope,16
+1.E.7,scope,16
+1.E.8 or,scope,16
+1.C,scope,16
+68,scope,16
+80,scope,16
+Kallikratidas,pers,16
+809,scope,16
+84116,scope,16
+paragraph 1.E.8,scope,16
+PGLAF,work,16
+1.E,scope,16
+Chalkis,loc,16
+1.E.8,scope,16
+72,scope,16
+1.E.1 through 1.E.7,scope,16
+ASCII,work,16
+Cotta,pers,16
+Pittheus,pers,16
+City,loc,16
+Lydiades,pers,16
+"5,000",scope,16
+Salt Lake,loc,16
+GUTENBERG,work,16
+Messenia,loc,16
+Damon,pers,16
+Arsakes,pers,16
+Lamia,pers,16
+Michael S. Hart,pers,16
+Mississippi,loc,16
+Fabius Maximus,pers,16
+Aristobulus,pers,15
+Pontus,pers,15
+"6,",scope,15
+65,scope,15
+History,work,15
+88,scope,15
+Pheidias,pers,15
+Timon,pers,15
+Attalus,pers,15
+Florus,pers,15
+India,loc,15
+Megakles,pers,15
+c. 1,scope,15
+Calpurnius,pers,15
+Dictionary,work,15
+Delos,loc,15
+Demeter,pers,15
+Lælius,pers,15
+Diokles,pers,15
+B.C. 43,scope,15
+Dict.,work,15
+Gracchi,pers,15
+71,scope,15
+Parthia,loc,15
+77,scope,15
+Peiræus,pers,15
+70,scope,15
+Pindar,pers,15
+Thales,pers,15
+Ad,work,15
+Æschines,pers,14
+Pheræ,pers,14
+Cnæus,pers,14
+Junius Brutus,pers,14
+Konon,pers,14
+Eurybiades,pers,14
+Jason,pers,14
+Memoirs,work,14
+c. 5,scope,14
+Postumius,pers,14
+Galatia,loc,14
+Nabis,pers,14
+c. 20,scope,14
+Peiræus,loc,14
+Polykrates,pers,14
+Caspian,work,14
+Phraates,pers,14
+79,scope,14
+Haliartus,pers,14
+Nepos,pers,14
+c. 12,scope,14
+Agrippa,pers,14
+Olympus,loc,14
+Aristophanes,pers,14
+Iliad,work,14
+Aristomache,pers,14
+Elpinike,pers,14
+Lacedaemon,pers,14
+Ephialtes,pers,14
+Euergetes,pers,14
+Stesimbrotus,pers,14
+Pharsalus,loc,14
+Lamachus,pers,14
+Manilius,pers,14
+Roms,work,14
+Livia,pers,14
+Macedon,loc,14
+Lucania,loc,14
+Tigris,work,14
+Mucius,pers,14
+Hermes,pers,14
+Milo,pers,14
+Deiotarus,pers,14
+Mesopotamia,loc,14
+Ægina,loc,13
+c. 16,scope,13
+c. 21,scope,13
+76,scope,13
+Gauls,work,13
+c. 31,scope,13
+Palatine,work,13
+Phila,pers,13
+81,scope,13
+Chæronea,pers,13
+Peloponnesian,work,13
+Rhegium,loc,13
+Red,work,13
+Helen,pers,13
+Capua,loc,13
+Proculus,pers,13
+Prætor,work,13
+Valeria,pers,13
+Douris,pers,13
+Cæsarion,pers,13
+c. 44,scope,13
+Archimedes,pers,13
+Diodorus,pers,13
+Annius,pers,13
+Mars,pers,13
+Hera,pers,13
+Hermippus,pers,13
+Troezen,loc,13
+Tusculum,loc,13
+Hyperbolus,pers,13
+Hypereides,pers,13
+Sikyon,pers,13
+Aristion,pers,13
+Silanus,pers,13
+Leosthenes,pers,13
+Aristodemus,pers,13
+Stratokles,pers,13
+Kardia,pers,13
+Fannius,pers,13
+Juno,pers,13
+Faustus,pers,13
+Isthmus,work,13
+Charikles,pers,13
+Plancus,pers,12
+Plancius,pers,12
+Phœbidas,pers,12
+sixth,scope,12
+Pharnakes,pers,12
+vol.,scope,12
+Didius,pers,12
+Antistius,pers,12
+Mamercus,pers,12
+Macedon,pers,12
+Penny,pers,12
+Flaminius,pers,12
+Pontifex,pers,12
+Pompeii,loc,12
+Gelon,pers,12
+B.C,date,12
+c. 9,scope,12
+Phrynichus,pers,12
+Athene,pers,12
+Athenians,pers,12
+Athenodorus,pers,12
+Bacchus,pers,12
+Antium,loc,12
+Volumnius,pers,12
+Magnesia,loc,12
+Katana,loc,12
+FOOTNOTES,work,12
+Peirithous,pers,12
+c. 14,scope,12
+Lesbos,pers,12
+Nikokles,pers,12
+Andokides,pers,12
+Arete,pers,12
+Mitylene,loc,12
+Hieronymus,pers,12
+Metrodorus,pers,12
+Diversos,work,12
+Xanthippus,pers,12
+Ariobarzanes,pers,12
+c. 29,scope,12
+Ochus,pers,12
+Cn.,work,12
+87,scope,12
+Casca,pers,12
+Tegea,loc,12
+Censorinus,pers,12
+Theophanes,pers,12
+Theodotus,pers,12
+Numantines,work,12
+i,scope,12
+"Numa,",pers,12
+c. 28,scope,12
+Horace,pers,12
+Skeiron,pers,12
+Poseidon,pers,12
+Thirty,work,12
+Nektanebis,pers,12
+Aristonikus,pers,12
+Nearchus,pers,12
+Zeno,pers,12
+Octavianus,pers,12
+Numantia,loc,12
+Tachos,pers,12
+Hist.,work,12
+Antonia,pers,12
+Drusus,pers,12
+Hill,work,12
+Flavius,pers,12
+Porus,pers,12
+B.C.,date,11
+Gaul,work,11
+Phokis,loc,11
+Ventidius,pers,11
+Pollio,pers,11
+Geminius,pers,11
+Brennus,pers,11
+Paphlagonia,loc,11
+Berenike,pers,11
+Karneades,pers,11
+Papirius,pers,11
+the,scope,11
+Macedonian,work,11
+74,scope,11
+Æschylus,pers,11
+Censor,work,11
+B.C. 55,scope,11
+Chares,pers,11
+Clusium,loc,11
+Lacedæmonians,loc,11
+Collatinus,pers,11
+c. 25,scope,11
+Hector,pers,11
+Taxiles,pers,11
+Naxos,loc,11
+Artaxata,pers,11
+Labeo,pers,11
+Brundisium,pers,11
+Campus Martius,work,11
+Ammon,pers,11
+c. 17,scope,11
+Rhone,work,11
+Licinia,pers,11
+Deinon,pers,11
+Lex,work,11
+Talasius,pers,11
+Agathokles,pers,11
+Erasistratus,pers,11
+Euboea,pers,11
+Footnote,pers,11
+Menelaus,pers,11
+B.C. 63,scope,11
+B.C. 44,scope,11
+Elis,loc,11
+Sacred,work,11
+Apollonius,pers,11
+Consul,work,11
+Auletes,pers,11
+Academ.,work,11
+Timæus,pers,11
+Achillas,pers,11
+Pompeia,pers,11
+King,work,11
+Quirinus,pers,11
+Messina,loc,11
+Pharsalus,pers,11
+82,scope,11
+Menon,pers,11
+89,scope,11
+Calpurnia,pers,11
+Samnites,pers,10
+"8, 13",scope,10
+Phylarchus,pers,10
+Pergamum,loc,10
+Apollodorus,pers,10
+Marcellinus,pers,10
+Caria,loc,10
+c. 8,scope,10
+chs,scope,10
+Faustulus,pers,10
+Sulla,loc,10
+Kadmeia,work,10
+part ii,scope,10
+Diophanes,pers,10
+Magnus,pers,10
+Vettius,pers,10
+Mancinus,pers,10
+Brasidas,pers,10
+King,loc,10
+Medes,pers,10
+Antiq.,pers,10
+Pacorus,pers,10
+Antiope,pers,10
+Terentius,pers,10
+Archilochus,pers,10
+Hesiod,pers,10
+M. Antonius,pers,10
+Arabia,loc,10
+Lutatius,pers,10
+Lucilius,pers,10
+Boeotia,loc,10
+Eurotas,work,10
+Spinther,pers,10
+Hippokrates,pers,10
+Gallia,loc,10
+Tarquinius,pers,10
+B.C. 76,scope,10
+Megistonous,pers,10
+T.,pers,10
+Caius Marius,pers,10
+106,scope,10
+B.C. 58,scope,10
+Euboea,loc,10
+Taurus,pers,10
+Deidameia,pers,10
+Argolis,loc,10
+c. 37,scope,10
+Orelli,pers,10
+Asia,pers,10
+Pytheas,pers,10
+Ulysses,pers,10
+Leontidas,pers,10
+105,scope,10
+Mucius Scævola,pers,10
+Amphares,pers,10
+Mummius,pers,10
+Neapolis,loc,10
+Shakspere,pers,10
+c. 18,scope,10
+Albinus,pers,10
+Sextilius,pers,10
+Thirlwall,pers,10
+Leptines,pers,10
+Brutus,work,10
+Lacedæmonians,pers,10
+"11, 12",scope,10
+Artabazus,pers,10
+Thrasybulus,pers,10
+Crassus,loc,10
+Numidicus,pers,10
+Smyrna,loc,10
+Idomeneus,pers,10
+Akrotatus,pers,10
+Petreius,pers,10
+Thespiæ,loc,10
+Philo,pers,10
+86,scope,10
+Clodia,pers,10
+Isauricus,pers,10
+Ion,pers,10
+Clough,pers,10
+Philochorus,pers,9
+Æakides,pers,9
+Philometor,pers,9
+78,scope,9
+Ismenias,pers,9
+(xlvii,scope,9
+Clinton,pers,9
+83,scope,9
+Skyros,loc,9
+Arrhidæus,pers,9
+Lake,work,9
+Balbus,pers,9
+Hellanikus,pers,9
+Granius,pers,9
+Thessalonica,loc,9
+Caucasus,loc,9
+84,scope,9
+Peukestas,pers,9
+Susa,loc,9
+Alba,loc,9
+B.C. 54,scope,9
+Caspian,loc,9
+Hamilton,pers,9
+Corinthian,work,9
+Aristander,pers,9
+138,scope,9
+Tyre,loc,9
+Anaxarchus,pers,9
+Equites,work,9
+C. Julius Cæsar,pers,9
+Sellasia,loc,9
+c. 45,scope,9
+Mucia,pers,9
+Amphipolis,loc,9
+Aeneas,pers,9
+Ariston,pers,9
+Servius,pers,9
+Ariarathes,pers,9
+Servilius Cæpio,pers,9
+Asinius,pers,9
+Latium,loc,9
+Naples,loc,9
+Nemesis,pers,9
+Reiske,pers,9
+Quintilis,pers,9
+Mæotis,loc,9
+Munychia,loc,9
+Curius,pers,9
+Alkibiades,work,9
+Tellus,pers,9
+Herennius,pers,9
+Areus,pers,9
+Mithridat,pers,9
+North,loc,9
+c. 11,scope,9
+c. 22,scope,9
+Cyrene,loc,9
+Pythia,work,9
+Gall.,pers,9
+Crispinus,pers,9
+c. 6,scope,9
+Sossius,pers,9
+Autolykus,pers,9
+Livy,pers,9
+Arcadia,work,9
+Lænas,pers,9
+Karia,loc,9
+Axius,pers,9
+Pelops,pers,9
+Pelusium,loc,9
+Rutilius,pers,9
+Plebs,work,9
+Apollo,work,9
+133,scope,9
+Appius Claudius,pers,9
+Phokis,pers,9
+Penny,work,9
+Paterc.,pers,9
+Speusippus,pers,9
+Sosis,pers,9
+c. 52,scope,9
+Marcus Antonius,pers,9
+75,scope,9
+Mauritania,loc,9
+Andromachus,pers,9
+Herodes,pers,9
+Antigenes,pers,9
+Pergamum,pers,9
+Kratinus,pers,9
+Pallas,pers,9
+Onesikritus,pers,9
+Eubœa,loc,9
+Pyrenees,work,9
+Pantauchus,pers,9
+Teutones,pers,9
+Kleinias,pers,9
+Tolmides,pers,9
+Aufidius,pers,9
+Kratippus,pers,9
+Ajax,pers,9
+Hiero,pers,9
+Flora,pers,9
+Agesipolis,pers,9
+Hagnonides,pers,9
+c. 36,scope,9
+Gulf,work,9
+Dacier,pers,9
+Miletus,pers,9
+Deinokrates,pers,9
+Technon,pers,9
+Taurus,work,9
+109,scope,9
+Charilaus,pers,8
+Catos,pers,8
+B.C. 45,scope,8
+Cæcilia,pers,8
+146,scope,8
+c. 48,scope,8
+400,scope,8
+Monæses,pers,8
+Mount,work,8
+101,scope,8
+c. 42,scope,8
+Mithridatic War,work,8
+Tyrannio,pers,8
+103,scope,8
+c. 15,scope,8
+Numidia,pers,8
+Aristokrates,pers,8
+154,scope,8
+Hyrkania,loc,8
+C.,work,8
+Lampsakus,loc,8
+Thermodon,work,8
+Nasica,loc,8
+Nikagoras,pers,8
+Thessalus,pers,8
+Artagerses,pers,8
+Lathyrus,pers,8
+Euryptolemus,pers,8
+Larissa,loc,8
+162,scope,8
+Aeschylus,pers,8
+Iberia,pers,8
+Hostilius,pers,8
+Illyricum,loc,8
+Heraklea,pers,8
+Thessalia,loc,8
+197,scope,8
+Theodorus,pers,8
+202,scope,8
+Caucasus,work,8
+Circus,work,8
+96,scope,8
+Pharsalia,loc,8
+Philokles,pers,8
+"8,",scope,8
+"8, 10",scope,8
+91,scope,8
+Ægean,work,8
+Chæroneia,loc,8
+Ægium,loc,8
+"1,",scope,8
+Chersonese,work,8
+Phanias,pers,8
+i.,scope,8
+Bandius,pers,8
+B.C. 46,scope,8
+Geschichte Roms,work,8
+163,scope,8
+Tullia,pers,8
+Carrhæ,loc,8
+c. 30,scope,8
+Eratosthenes,pers,8
+Troad,work,8
+Kyzikus,loc,8
+Milesian,pers,8
+Cannæ,loc,8
+Andros,pers,8
+Admetus,pers,8
+Galba,loc,8
+Gaul,pers,8
+Tegyra,loc,8
+322,scope,8
+Fannia,pers,8
+Menander,pers,8
+Rhine,work,8
+Timophanes,pers,8
+Hipponikus,pers,8
+Tarchetius,pers,8
+B.C. 62,scope,8
+Antyllus,pers,8
+Roxana,pers,8
+Peloponnesus,work,8
+Boukephalus,pers,8
+Olthakus,pers,8
+Solon,loc,8
+B.C. 83,scope,8
+235,scope,8
+Hipparchus,pers,8
+B.C. 59,scope,8
+Meton,pers,8
+Kritias,pers,8
+Carthage,pers,8
+Pamphylia,loc,8
+Vindicius,pers,8
+110,scope,8
+125,scope,8
+Antigone,pers,8
+Areius,pers,8
+Mellon,pers,8
+Paris,loc,8
+Panætius,pers,8
+Panteus,pers,8
+Spithridates,pers,8
+Spurius,pers,8
+Straits,work,8
+Statyllius,pers,8
+Kaphis,pers,8
+Dekeleia,pers,8
+Kallimachus,pers,8
+480,scope,8
+Arcadian,work,8
+Apollonides,pers,8
+Tiro,pers,8
+Timokrates,pers,8
+Timaeus,pers,8
+Picenum,loc,8
+Pomponius,pers,8
+Peloponnesians,work,8
+Peloponnesian,loc,8
+299,scope,8
+Venus,loc,8
+Aphrodite,pers,8
+Samnites,work,8
+Vesta,loc,8
+Venus,pers,8
+Apelles,pers,8
+Dion Cass.,pers,8
+Saturnalia,work,8
+"5,",scope,8
+Claudius Marcellus,pers,8
+Philippides,pers,8
+Philotis,pers,7
+eighth,scope,7
+Phillidas,pers,7
+195,scope,7
+Band,work,7
+Phokus,pers,7
+203,scope,7
+"8, 12",scope,7
+Phlius,pers,7
+Pherekydes,pers,7
+Cic.,work,7
+of,loc,7
+Gisco,pers,7
+Castor,pers,7
+Platæa,pers,7
+Strato,pers,7
+Chilonis,pers,7
+Cominius,pers,7
+304,scope,7
+Poppæa,pers,7
+Patroklus,pers,7
+Pollux,pers,7
+300,scope,7
+Apuleius,pers,7
+Livius Drusus,pers,7
+Hermokrates,pers,7
+Lykomedes,pers,7
+Lucius Domitius,pers,7
+Virgil,pers,7
+Virginius Rufus,pers,7
+Victory,pers,7
+Volumnia,pers,7
+Demetrias,pers,7
+Arbela,loc,7
+Antistia,pers,7
+123,scope,7
+Calvinus,pers,7
+Mannert,pers,7
+Polyeuktus,pers,7
+Achæa,loc,7
+Pompeius Strabo,pers,7
+Blossius,pers,7
+Evander,pers,7
+177,scope,7
+Kleonæ,loc,7
+Atossa,pers,7
+Kratesiklea,pers,7
+Sparta,pers,7
+Roma,pers,7
+Fidenae,loc,7
+Furius,pers,7
+Liv.,work,7
+230,scope,7
+Caius Julius Cæsar,pers,7
+Hirtius,pers,7
+Massalia,loc,7
+Rufus,pers,7
+Antiphon,pers,7
+Sabinus,pers,7
+Gaius,pers,7
+Thasos,pers,7
+Thapsus,loc,7
+Gate,work,7
+c. 33,scope,7
+Coræs,pers,7
+Kolophon,pers,7
+Ktesiphon,pers,7
+Korkyra,loc,7
+167,scope,7
+Kyzikeni,work,7
+Erechtheus,pers,7
+Sosibius,pers,7
+Priam,pers,7
+Proconsul,work,7
+Procleius,pers,7
+c. 32,scope,7
+c. 43,scope,7
+Pontius,pers,7
+Potheinus,pers,7
+Babylonia,loc,7
+Terracina,loc,7
+c. 40,scope,7
+Agesistrata,pers,7
+Agrippina,pers,7
+Odysseus,pers,7
+c. 58,scope,7
+143,scope,7
+Bellona,pers,7
+Black,loc,7
+191,scope,7
+Tigranocerta,loc,7
+"11, 13",scope,7
+115,scope,7
+117,scope,7
+Metellus Nepos,pers,7
+December,scope,7
+Deinarchus,pers,7
+236,scope,7
+B.C. 82,scope,7
+Orchomenus,loc,7
+Adriatic,loc,7
+Præneste,loc,7
+Orodes,pers,7
+Ostia,loc,7
+Orestes,pers,7
+Aethra,pers,7
+Ateius,pers,7
+Butas,pers,7
+Hypsæus,pers,7
+365,scope,7
+Androkleides,pers,7
+Amyntas,pers,7
+Septimius,pers,7
+c. 13,scope,7
+Ambrones,pers,7
+Anacharsis,pers,7
+Mnestheus,pers,7
+Licinius Crassus,pers,7
+Liddell,pers,7
+Argos,pers,7
+Archipelago,work,7
+426,scope,7
+Domitian,pers,7
+Valerius Maximus,pers,7
+Scott,pers,7
+c. 2,scope,7
+B.C. 56,scope,7
+Aruns,pers,7
+Sinope,pers,7
+Ides,work,7
+Laco,pers,7
+Tarsus,pers,7
+Tib,pers,7
+Hekatæus,pers,7
+Nile,work,7
+220,scope,7
+Amazon,work,7
+Xenokles,pers,7
+Cæsar,loc,7
+Albani,work,7
+183,scope,7
+Amazons,pers,7
+Artasyras,pers,7
+Laurentia,pers,7
+Epidaurus,loc,7
+Sextilis,pers,7
+Urbanus,pers,7
+Aristeas,pers,7
+Petra,pers,7
+98,scope,7
+90,scope,7
+Feretrius,pers,7
+92,scope,7
+168,scope,7
+Timokreon,pers,7
+B.C,scope,7
+182,scope,7
+134,scope,7
+Salonius,pers,7
+Marseilles,loc,7
+Mallius,pers,7
+Magnesia,pers,7
+Macer,pers,7
+Vibius,pers,7
+Mago,pers,7
+Machanidas,pers,7
+Celer,pers,7
+"1, 2",scope,7
+Philoxenus,pers,6
+Cloelia,pers,6
+85,scope,6
+Ceres,pers,6
+Petronius,pers,6
+Phaeax,pers,6
+seventh,scope,6
+seventy-five,scope,6
+vi.,scope,6
+vii.,scope,6
+Scaurus,pers,6
+Schaefer,pers,6
+Lysandridas,pers,6
+120,scope,6
+136,scope,6
+Diomedes,pers,6
+Vell.,work,6
+130,scope,6
+132,scope,6
+Saturn,pers,6
+440,scope,6
+Hersilia,pers,6
+B.C. 66,scope,6
+Placentia,loc,6
+Aulus Gabinius,pers,6
+Fabia,pers,6
+301,scope,6
+431,scope,6
+Lycia,loc,6
+441,scope,6
+Lucanus,pers,6
+Lucius Lucullus,pers,6
+Arcadians,work,6
+Aquinius,pers,6
+Ligurians,work,6
+Achaia,loc,6
+Popilius,pers,6
+Pomaxathres,pers,6
+122,scope,6
+124,scope,6
+Calvisius,pers,6
+Dellius,pers,6
+Aquilius,pers,6
+Eupolis,pers,6
+Triarius,pers,6
+Achradina,pers,6
+Pella,loc,6
+Plutarchus,pers,6
+Pleistoanax,pers,6
+Pasiphae,pers,6
+Peiraeus,pers,6
+"_,",scope,6
+Alketas,pers,6
+Nicomedes,pers,6
+Niebuhr,pers,6
+Nikomedes,pers,6
+225,scope,6
+226,scope,6
+229,scope,6
+Lanassa,pers,6
+Latium,work,6
+Lamia,loc,6
+Quæstor,pers,6
+Myronides,pers,6
+Neokles,pers,6
+Munychion,pers,6
+N.H.,work,6
+Arkesilaus,pers,6
+Aristoxenus,pers,6
+Epaphroditus,pers,6
+395,scope,6
+372,scope,6
+Arsaces,pers,6
+Lartius,pers,6
+Arsames,pers,6
+151,scope,6
+153,scope,6
+Equites,pers,6
+Bœotarchs,work,6
+Tyndareus,pers,6
+Tyrrhenia,loc,6
+Larissa,pers,6
+Aristratus,pers,6
+100,scope,6
+Alba,pers,6
+102,scope,6
+104,scope,6
+Cyrene,pers,6
+Capitolinus,pers,6
+c. 19,scope,6
+Nisibis,pers,6
+B.C. 47,scope,6
+B.C. 48,scope,6
+Ilia,pers,6
+B.C. 53,scope,6
+Iacchus,pers,6
+Synalus,pers,6
+273,scope,6
+277,scope,6
+Arpinum,pers,6
+Sinis,pers,6
+354,scope,6
+Ilium,loc,6
+Ascalis,pers,6
+268,scope,6
+269,scope,6
+281,scope,6
+206,scope,6
+224,scope,6
+222,scope,6
+Alkander,pers,6
+Telekleides,pers,6
+Hagnon,pers,6
+Helenus,pers,6
+Helvetii,work,6
+364,scope,6
+355,scope,6
+L. Domitius,pers,6
+L,pers,6
+374,scope,6
+375,scope,6
+367,scope,6
+Briges,pers,6
+Amphiaraus,pers,6
+Aristogeiton,pers,6
+390,scope,6
+Lacedaemonians,pers,6
+369,scope,6
+331,scope,6
+363,scope,6
+336,scope,6
+Senate-house,work,6
+Ariminum,pers,6
+107,scope,6
+c. 49,scope,6
+Mutina,loc,6
+Amompharetus,pers,6
+Molo,pers,6
+Mons Sacer,work,6
+Alesia,pers,6
+358,scope,6
+423,scope,6
+416,scope,6
+Varus,pers,6
+Argives,pers,6
+438,scope,6
+439,scope,6
+126,scope,6
+140,scope,6
+184,scope,6
+Oppius,pers,6
+Pylos,loc,6
+Numerius,pers,6
+Old,work,6
+Barsine,pers,6
+Minerva,pers,6
+Menyllus,pers,6
+119,scope,6
+111,scope,6
+113,scope,6
+116,scope,6
+Calpurnius Piso,pers,6
+Voconius,pers,6
+Andromache,pers,6
+Rhine,loc,6
+231,scope,6
+216,scope,6
+239,scope,6
+240,scope,6
+Micipsa,pers,6
+Mindarus,pers,6
+Britain,loc,6
+Eukleidas,pers,6
+Eurypon,pers,6
+Porcius Cato,pers,6
+Olorus,pers,6
+Oratore,work,6
+Prusias,pers,6
+Præcia,pers,6
+c. 65,scope,6
+212,scope,6
+208,scope,6
+Gauls,pers,6
+Germanicus,pers,6
+Teutamus,pers,6
+Teos,pers,6
+Tertia,pers,6
+311,scope,6
+341,scope,6
+315,scope,6
+Astura,loc,6
+Sornatius,pers,6
+Acron,pers,6
+Pansa,pers,6
+Bestia,pers,6
+Propontis,loc,6
+P. Cornelius Scipio,pers,6
+Turpillius,pers,6
+147,scope,6
+149,scope,6
+Epitome,work,6
+Soloeis,pers,6
+348,scope,6
+Basilica,work,6
+Bacchides,pers,6
+c. 7,scope,6
+c. 38,scope,6
+c. 3,scope,6
+Padus,work,6
+Carrhæ,pers,6
+Cappadocia,work,6
+339,scope,6
+318,scope,6
+176,scope,6
+178,scope,6
+159,scope,6
+Tubero,pers,6
+179,scope,6
+170,scope,6
+187,scope,6
+"18, 20",scope,6
+Hippolytus,pers,6
+Road,work,6
+Menekrates,pers,6
+Knidus,pers,6
+Kitium,loc,6
+338,scope,6
+Antæus,pers,6
+Caius Cæsar,pers,6
+Ekdelus,pers,6
+Epikurus,pers,6
+Ligarius,pers,6
+Tarpeia,pers,6
+259,scope,6
+B.C. 42,scope,6
+Antimachus,pers,6
+Antioch,loc,6
+Melissus,pers,6
+Marius Celsus,pers,6
+Antony,pers,6
+Megabacchus,pers,6
+Marcus Brutus,pers,6
+Mars,loc,6
+Gonatas,pers,6
+Philostratus,pers,6
+Glaucia,pers,6
+198,scope,6
+Great,work,6
+Philopator,pers,6
+Cornelii,pers,6
+Saone,work,6
+Kalanus,pers,6
+Kalauria,loc,6
+i. 86,scope,6
+Theramenes,pers,6
+Ægias,pers,6
+Æmilius Lepidus,pers,6
+Gorgidas,pers,6
+Gorgias,pers,6
+Chalkis,pers,6
+xlvii,scope,6
+Glaukias,pers,6
+Glabrio,pers,6
+c. 53,scope,6
+fifty,scope,6
+Phœnicia,loc,6
+93,scope,6
+303,scope,6
+Stilpon,pers,6
+Kallimedon,pers,6
+Aurelius,pers,6
+Spurinna,pers,6
+Statilius,pers,6
+284,scope,6
+Sucro,work,6
+99,scope,6
+Septimuleius,pers,6
+391,scope,6
+392,scope,6
+407,scope,6
+399,scope,6
+Erythræan,work,6
+139,scope,6
+Jerusalem,loc,6
+Sura,pers,6
+94,scope,6
+Pharos,pers,6
+Iphikrates,pers,6
+Isokrates,pers,6
+Pessinus,pers,6
+97,scope,6
+169,scope,6
+Titus Flamininus,pers,6
+296,scope,6
+260,scope,6
+295,scope,6
+290,scope,6
+292,scope,6
+Judæa,loc,6
+Marcus Octavius,pers,6
+Delium,loc,6
+Julius Cæsar,pers,6
+Aurelia,pers,6
+Tithraustes,pers,6
+Titianus,pers,6
+"18, 22",scope,6
+181,scope,6
+xlix.,scope,5
+Ædepsus,pers,5
+xlix,scope,5
+xlii.,scope,5
+Soli,pers,5
+345,scope,5
+346,scope,5
+Kleomedes,pers,5
+Artemidorus,pers,5
+Astyochus,pers,5
+Kithæron,loc,5
+Kleidemus,pers,5
+L. Lucullus,pers,5
+Kythera,loc,5
+Asinius Pollio,pers,5
+Persis,loc,5
+Pergamus,pers,5
+Philip,loc,5
+Pharnakia,pers,5
+Patron,pers,5
+Philistius,pers,5
+Phormio,pers,5
+95,scope,5
+Corfinium,loc,5
+Corfinius,pers,5
+Comitium,work,5
+i. 5,scope,5
+i. 19,scope,5
+Cocles,pers,5
+Sophax,pers,5
+340,scope,5
+343,scope,5
+344,scope,5
+316,scope,5
+347,scope,5
+Kilikia,loc,5
+Kenchreæ,loc,5
+320,scope,5
+310,scope,5
+312,scope,5
+313,scope,5
+314,scope,5
+307,scope,5
+302,scope,5
+Keos,loc,5
+Keos,pers,5
+Kephisus,pers,5
+309,scope,5
+306,scope,5
+Corvinus,pers,5
+Corcyra,loc,5
+i. 12,scope,5
+c. 55,scope,5
+c. 50,scope,5
+fourth,scope,5
+Pellene,pers,5
+Peloponnesians,loc,5
+Phæax,pers,5
+Abouletes,pers,5
+Pleistarchus,pers,5
+Phœnix,pers,5
+Pentheus,pers,5
+Peisander,pers,5
+Peleus,pers,5
+356,scope,5
+357,scope,5
+Artemon,pers,5
+Lachares,pers,5
+Laconia,pers,5
+305,scope,5
+308,scope,5
+359,scope,5
+360,scope,5
+361,scope,5
+362,scope,5
+337,scope,5
+366,scope,5
+368,scope,5
+330,scope,5
+332,scope,5
+333,scope,5
+334,scope,5
+335,scope,5
+381,scope,5
+376,scope,5
+377,scope,5
+Spain,work,5
+327,scope,5
+328,scope,5
+Kallikrates,pers,5
+Cossinus,pers,5
+c. 68,scope,5
+c. 57,scope,5
+c. 66,scope,5
+Paullinus,pers,5
+c. 4,scope,5
+Carmenta,pers,5
+Cramer,pers,5
+Polemon,pers,5
+Pnyx,work,5
+Po,loc,5
+Po,work,5
+Achradina,loc,5
+Pontifex Maximus,pers,5
+Pontus,work,5
+Pompeius Rufus,pers,5
+Pompilius,pers,5
+Zopyrus,pers,5
+Adonis,pers,5
+Adrastus,pers,5
+Acrocorinthus,work,5
+Achæans,pers,5
+Parthians,loc,5
+Creticus,pers,5
+Crixus,pers,5
+c. 46,scope,5
+c. 23,scope,5
+c. 24,scope,5
+Campus,work,5
+286,scope,5
+Stratagem,work,5
+289,scope,5
+282,scope,5
+383,scope,5
+Aristomenes,pers,5
+Lampsakus,pers,5
+283,scope,5
+285,scope,5
+351,scope,5
+378,scope,5
+379,scope,5
+387,scope,5
+388,scope,5
+353,scope,5
+Laomedon,pers,5
+Arrian,pers,5
+393,scope,5
+385,scope,5
+386,scope,5
+112,scope,5
+118,scope,5
+108,scope,5
+Zarbienus,pers,5
+Dardanus,pers,5
+Padus,loc,5
+Wyttenbach,pers,5
+Xenares,pers,5
+Proprætor,work,5
+Proserpine,pers,5
+P.,work,5
+Damascus,loc,5
+Damochares,pers,5
+Cælius,pers,5
+Cape,loc,5
+Proconsul,pers,5
+Pompædius,pers,5
+397,scope,5
+398,scope,5
+"4,",scope,5
+373,scope,5
+370,scope,5
+371,scope,5
+Latinus,pers,5
+Sestos,pers,5
+Sextius,pers,5
+394,scope,5
+Sthenis,pers,5
+Azoff,loc,5
+Sestos,loc,5
+Artabanus,pers,5
+264,scope,5
+294,scope,5
+291,scope,5
+293,scope,5
+266,scope,5
+127,scope,5
+Diana,pers,5
+Demo,pers,5
+Demochares,pers,5
+Demon,pers,5
+Olympias,loc,5
+128,scope,5
+121,scope,5
+Ovidius,pers,5
+Ad Diversos,work,5
+Caninius,pers,5
+114,scope,5
+Orobazus,pers,5
+Orontes,work,5
+Arimnestus,pers,5
+267,scope,5
+297,scope,5
+298,scope,5
+270,scope,5
+261,scope,5
+262,scope,5
+263,scope,5
+Ares,pers,5
+Lesbos,loc,5
+424,scope,5
+425,scope,5
+411,scope,5
+Ariovistus,pers,5
+Aristoteles,pers,5
+Irtius,pers,5
+265,scope,5
+Strymon,loc,5
+135,scope,5
+"12,",scope,5
+Diopeithes,pers,5
+Vespasianus,pers,5
+137,scope,5
+Onomarchus,pers,5
+Dictator,pers,5
+Caligula,pers,5
+Calends,work,5
+Calenus,pers,5
+Agis IV.,pers,5
+Agora,work,5
+Præneste,pers,5
+Olympiad,work,5
+Aidoneus,pers,5
+Agave,pers,5
+Ionian,loc,5
+Iphitus,pers,5
+Issus,loc,5
+Judæa,pers,5
+Seleukeia,loc,5
+Scythia,loc,5
+Scipios,pers,5
+402,scope,5
+"4, 7",scope,5
+408,scope,5
+Archestratus,pers,5
+409,scope,5
+401,scope,5
+403,scope,5
+404,scope,5
+405,scope,5
+406,scope,5
+389,scope,5
+150,scope,5
+141,scope,5
+142,scope,5
+144,scope,5
+"13, 15",scope,5
+Dorylaus,pers,5
+Doson,pers,5
+Valens,pers,5
+Valerius Flaccus,pers,5
+Officiis,work,5
+Ocean,work,5
+157,scope,5
+Dioscuri,work,5
+Pydna,loc,5
+Araxes,loc,5
+London,loc,5
+Satyrus,pers,5
+Sarpedon,pers,5
+Archytas,pers,5
+428,scope,5
+412,scope,5
+413,scope,5
+Ardea,pers,5
+Iberians,pers,5
+414,scope,5
+415,scope,5
+419,scope,5
+420,scope,5
+421,scope,5
+422,scope,5
+III,scope,5
+278,scope,5
+280,scope,5
+271,scope,5
+272,scope,5
+Icelus,pers,5
+Cadiz,loc,5
+Bœotarch,pers,5
+Alkmaeon,pers,5
+Nypsius,pers,5
+Ebro,work,5
+Eckhel,pers,5
+Douro,work,5
+Nonius,pers,5
+Norbanus,pers,5
+Nikogenes,pers,5
+Caius Antonius,pers,5
+Q.,work,5
+Pythian,work,5
+275,scope,5
+276,scope,5
+279,scope,5
+"28,",scope,5
+252,scope,5
+253,scope,5
+248,scope,5
+Lusitania,loc,5
+Lucretia,pers,5
+249,scope,5
+410,scope,5
+Iberi,work,5
+Hundred,work,5
+History of,work,5
+454,scope,5
+417,scope,5
+418,scope,5
+Scribonius Curio,pers,5
+Bætica,loc,5
+158,scope,5
+Eudamidas,pers,5
+Eretria,loc,5
+Tydeus,pers,5
+152,scope,5
+155,scope,5
+156,scope,5
+Umbria,loc,5
+Nikator,pers,5
+Nikomachus,pers,5
+Nola,pers,5
+Alkmæon,pers,5
+Allobroges,work,5
+New,work,5
+Nikeratus,pers,5
+250,scope,5
+254,scope,5
+255,scope,5
+256,scope,5
+257,scope,5
+258,scope,5
+237,scope,5
+238,scope,5
+Tarentines,pers,5
+430,scope,5
+434,scope,5
+435,scope,5
+Araxes,work,5
+436,scope,5
+437,scope,5
+442,scope,5
+161,scope,5
+166,scope,5
+160,scope,5
+Bruttii,work,5
+Eunomus,pers,5
+Eunus,pers,5
+165,scope,5
+148,scope,5
+Turpilianus,pers,5
+Bursa,pers,5
+164,scope,5
+Alykus,pers,5
+Amantius,pers,5
+Rhenus,work,5
+Quirites,pers,5
+Apollonia,pers,5
+Malea,loc,5
+Macedonicus,pers,5
+"5, 6",scope,5
+432,scope,5
+Lysippus,pers,5
+Lævinus,pers,5
+Macedonians,loc,5
+Hippias,pers,5
+Sutrium,loc,5
+Hippo,pers,5
+Tegea,pers,5
+Tauromenium,loc,5
+Tanagra,loc,5
+"24, 30",scope,5
+Eurykles,pers,5
+Eukleides,pers,5
+Bosporus,work,5
+Murena,loc,5
+Moselle,work,5
+Brundusium,pers,5
+Munda,loc,5
+Minotaur,work,5
+Marcius Philippus,pers,5
+233,scope,5
+234,scope,5
+246,scope,5
+247,scope,5
+219,scope,5
+Mamertines,pers,5
+Manius Acilius,pers,5
+Manius Curius,pers,5
+March,work,5
+244,scope,5
+245,scope,5
+213,scope,5
+214,scope,5
+215,scope,5
+217,scope,5
+218,scope,5
+Fasti,work,5
+Boeotians,pers,5
+Timagoras,pers,5
+Trebatius,pers,5
+174,scope,5
+171,scope,5
+172,scope,5
+173,scope,5
+175,scope,5
+15th,scope,5
+Tralles,pers,5
+"6, 7",scope,5
+Minoa,loc,5
+B.C. 81,scope,5
+B.C. 60,scope,5
+Herodorus,pers,5
+227,scope,5
+Tempe,loc,5
+Hermolaus,pers,5
+Antikrates,pers,5
+Marphadates,pers,5
+Marsyas,pers,5
+Marsh,work,5
+Marcus Marius,pers,5
+223,scope,5
+221,scope,5
+Sabaco,pers,5
+Samothrace,loc,5
+494,scope,5
+Middleton,pers,5
+Ancient Italy,work,5
+188,scope,5
+189,scope,5
+Black,work,5
+Mithras,pers,5
+180,scope,5
+Titinius,pers,5
+Fregellæ,pers,5
+Fidenae,pers,5
+Masistius,pers,5
+Massilia,loc,5
+Antyllius,pers,5
+Anytus,pers,5
+Sabines,pers,5
+Tarquinius Superbus,pers,5
+Tarsus,loc,5
+Tatia,pers,5
+Rubico,work,5
+Antium,pers,5
+211,scope,5
+209,scope,5
+B.C. 78,scope,5
+210,scope,5
+Thames,work,5
+205,scope,5
+Halikarnassus,pers,5
+Gulf,loc,5
+199,scope,5
+193,scope,5
+194,scope,5
+196,scope,5
+Melanthius,pers,5
+Medea,pers,5
+Amphiktyons,work,5
+Merula,pers,5
+Anio,work,5
+Midas,pers,5
+Metrobius,pers,5
+Thermodon,pers,5
+Meyer,pers,5
+190,scope,5
+Gallic War,work,5
+Fulvius Flaccus,pers,5
+Timonides,pers,5
+192,scope,5
+Gordyene,loc,5
+Gigis,pers,5
+201,scope,5
+Goat,work,5
+Genthius,pers,5
+185,scope,5
+186,scope,5
+Thurium,loc,5
+Meidias,pers,5
+Chrysogonus,pers,5
+xlviii,scope,5
+Chesney,pers,5
+Censors,work,5
+Cisalpine,work,5
+City,work,5
+s.v.,scope,5
+thirteenth,scope,5
+sixteenth,scope,5
+317,scope,5
+319,scope,5
+321,scope,5
+323,scope,5
+324,scope,5
+325,scope,5
+326,scope,5
+Kleandrides,pers,5
+Phalereus,pers,5
+ix,scope,5
+8-11,scope,5
+Persephone,pers,5
+Casaubon,pers,5
+Clausus,pers,5
+i. 16,scope,5
+Phernakia,pers,5
+twenty-five,scope,5
+tenth,scope,5
+Æsopus,pers,4
+Claudia,pers,4
+Cinna,work,4
+Centaurs,work,4
+viii.,scope,4
+Cato Major,work,4
+Casaub,pers,4
+"1, 22",scope,4
+Philomelus,pers,4
+"8, 9, 10",scope,4
+"8, 9, 11, 13, 15, 18, 23, 29",scope,4
+Philadelphus,pers,4
+Pharax,pers,4
+Phanodemus,pers,4
+Persæus,pers,4
+"8, 17, 20",scope,4
+Pharsalia,work,4
+Charimenes,pers,4
+Charidemus,pers,4
+Philosopher,work,4
+Phoenice,loc,4
+Philocyprus,pers,4
+Plancio,pers,4
+Periander,pers,4
+Abantidas,pers,4
+Phokian,work,4
+Peticius,pers,4
+ix.,scope,4
+i. 6,scope,4
+Client,pers,4
+p. 527,scope,4
+li,scope,4
+Cneius,pers,4
+Coele-Syria,pers,4
+Coponius,pers,4
+Aulus,pers,4
+Sphettus,pers,4
+Kings,work,4
+Athos,loc,4
+Athenian,work,4
+349,scope,4
+342,scope,4
+L. Licinius Murena,pers,4
+eleventh,scope,4
+chs,work,4
+Corsica,loc,4
+i. 110,scope,4
+"3,",scope,4
+"3, 10,",scope,4
+Sphærus,pers,4
+Kerameikus,pers,4
+568,scope,4
+569,scope,4
+520,scope,4
+Rhœsakes,pers,4
+Rhadamanthus,pers,4
+Granikus,work,4
+Antiphilus,pers,4
+Anthemokritus,pers,4
+Thermus,pers,4
+Thrasea,pers,4
+Annius Gallus,pers,4
+Annals,work,4
+Miltas,pers,4
+Anaximenes,pers,4
+Androgeus,pers,4
+Amphikrates,pers,4
+204,scope,4
+Gades,loc,4
+Tib.,pers,4
+Batalus,pers,4
+Geradas,pers,4
+Gellianus,pers,4
+Gauls,loc,4
+Thorax,pers,4
+Glaucus,pers,4
+Bias,pers,4
+Berœa,loc,4
+Gordyene,pers,4
+Geschichte Roms_,work,4
+Glaukus,pers,4
+Gibraltar,loc,4
+Theophilus,pers,4
+Rubrius,pers,4
+Rullus,pers,4
+515,scope,4
+STAMFORD,work,4
+Romulus,work,4
+Romus,pers,4
+504,scope,4
+518,scope,4
+Hanno,pers,4
+Gæsatæ,work,4
+B.C. 87,scope,4
+Herippidas,pers,4
+Hekatombeion,pers,4
+Hegemon,pers,4
+Hekatombæon,loc,4
+Telemachus,pers,4
+Thessalians,loc,4
+Themiskyra,loc,4
+Granikus,pers,4
+Bedriacum,loc,4
+Terentius Varro,pers,4
+Telesinus,pers,4
+Gæsylus,pers,4
+Thapsus,pers,4
+Medius,pers,4
+Antiochis,pers,4
+564,scope,4
+Anticato,pers,4
+Anticato,work,4
+Anthesterion,pers,4
+Therykion,pers,4
+Thespis,pers,4
+Amyklas,pers,4
+Amestris,pers,4
+Ambitus,pers,4
+483,scope,4
+484,scope,4
+486,scope,4
+Marcus Valerius,pers,4
+"5, 6,",scope,4
+Thrasyllus,pers,4
+Bell.,work,4
+560,scope,4
+565,scope,4
+567,scope,4
+556,scope,4
+Misenum,loc,4
+Mikion,pers,4
+Timagenes,pers,4
+Timandra,pers,4
+Floras,pers,4
+Fufidius,pers,4
+Boedromion,work,4
+Furnius,pers,4
+France,loc,4
+Thurii,loc,4
+509,scope,4
+"51,",scope,4
+Masinissa,pers,4
+Matius,pers,4
+501,scope,4
+Titius,pers,4
+Timodemus,pers,4
+Timaea,pers,4
+Fenestella,pers,4
+Falerii,pers,4
+Fabius Valens,pers,4
+Field of,work,4
+Fausta,pers,4
+Tithorea,pers,4
+499,scope,4
+468,scope,4
+588,scope,4
+582,scope,4
+583,scope,4
+"16,     17",scope,4
+Tribunus Plebis,work,4
+Euthymus,pers,4
+Fear,pers,4
+Felix,pers,4
+Hipparete,pers,4
+Hipparinus,pers,4
+B.C. 57,scope,4
+Titus Vinius,pers,4
+546,scope,4
+596,scope,4
+599,scope,4
+587,scope,4
+Antiocheia,pers,4
+228,scope,4
+207,scope,4
+200,scope,4
+Hermon,pers,4
+Heræa,pers,4
+Herakleitus,pers,4
+B.C. 80,scope,4
+Munatius Plancus,pers,4
+Munatius Rufus,pers,4
+Munda,pers,4
+Amathus,pers,4
+Alexas,pers,4
+Myrtilus,pers,4
+Mæcenas,pers,4
+Bruti,pers,4
+Modena,loc,4
+Molon,pers,4
+Ambrones,work,4
+Ameinias,pers,4
+Monime,pers,4
+Morius,pers,4
+Mosa,pers,4
+Munychia,pers,4
+Aphidnae,loc,4
+Aphidnae,pers,4
+Antisthenes,pers,4
+March,pers,4
+241,scope,4
+Mithrobarzanes,pers,4
+Mitylene,pers,4
+Mnemon,pers,4
+469,scope,4
+493,scope,4
+496,scope,4
+498,scope,4
+Mandrokleidas,pers,4
+Mamurius,pers,4
+Mantinea,pers,4
+Manilia,work,4
+605,scope,4
+Rhamnus,pers,4
+Ravenna,loc,4
+586,scope,4
+Narbonensis,pers,4
+Triumvir,work,4
+Triumviri,work,4
+Troezene,loc,4
+Lucumo,pers,4
+Macrobius,pers,4
+Madeira,loc,4
+Apollokrates,pers,4
+Salvius,pers,4
+"5, 24",scope,4
+Ericius,pers,4
+Eros,pers,4
+232,scope,4
+B.C. 41,scope,4
+Hispania,loc,4
+Hippitas,pers,4
+B.C. 64,scope,4
+B.C. 65,scope,4
+Lynkeus,pers,4
+Lykortas,pers,4
+Britomartus,pers,4
+Eurydike,pers,4
+Eurykleidas,pers,4
+Bocchoris,pers,4
+Euphrates,loc,4
+242,scope,4
+243,scope,4
+Hermione,pers,4
+Alkmena,pers,4
+Alban,work,4
+Nicopolis,pers,4
+Alkæus,pers,4
+Akarnania,loc,4
+Python,pers,4
+Upper,work,4
+Utica,pers,4
+Tac.,work,4
+Tarentum,pers,4
+Hoplites,pers,4
+Hordeonius,pers,4
+251,scope,4
+Ialysus,pers,4
+Iarbas,pers,4
+Alkman,pers,4
+479,scope,4
+470,scope,4
+472,scope,4
+Lykus,pers,4
+Tarpeia,loc,4
+Tarpeius,pers,4
+Tarquinia,pers,4
+Syrians,loc,4
+Trophonius,pers,4
+Tullii_,work,4
+Tuscany,loc,4
+Byzant.,pers,4
+Tullus Hostilius,pers,4
+Bruttius,pers,4
+Euphrantides,pers,4
+433,scope,4
+Quadrantaria,work,4
+615,scope,4
+619,scope,4
+Nikolaus,pers,4
+Agricola,pers,4
+Agrigentum,loc,4
+Numidia,loc,4
+Nymphidia,pers,4
+Lucian,pers,4
+"25, 26",scope,4
+Sybaris,pers,4
+Sulpicius Rufus,pers,4
+274,scope,4
+Domitius Calvinus,pers,4
+Vergentorix,pers,4
+"6, 10,",scope,4
+Scævola,pers,4
+446,scope,4
+450,scope,4
+451,scope,4
+Luca,loc,4
+Luca,pers,4
+Lucanians,pers,4
+Lycaonia,loc,4
+15-18,scope,4
+"14, 15",scope,4
+Upper,loc,4
+Epirotes,pers,4
+Epicharmus,pers,4
+Eudemus,pers,4
+Eualkus,pers,4
+Scæva,pers,4
+635,scope,4
+OEdipus,pers,4
+October,work,4
+C. Marius,pers,4
+CHARING CROSS,work,4
+Dioskuri,work,4
+Velia,pers,4
+Vaccæi,work,4
+Lokris,loc,4
+Archon,pers,4
+Div.,work,4
+602,scope,4
+Publicola,pers,4
+Publilia,pers,4
+6-9,scope,4
+634,scope,4
+B.C. 52,scope,4
+Indian,work,4
+Iberians,loc,4
+427,scope,4
+Liris,work,4
+Limnus,pers,4
+Libyssa,pers,4
+Aras,loc,4
+Edessa,loc,4
+Egeria,pers,4
+Egesta,pers,4
+England,loc,4
+Elis,pers,4
+Tænarus,pers,4
+Brutus Albinus,pers,4
+Epidamnus,pers,4
+Agnus,pers,4
+Aemilia,pers,4
+Prytanis,pers,4
+Prokles,pers,4
+Prometheus,pers,4
+Onomastic,work,4
+131,scope,4
+Veturius,pers,4
+Iolaus,pers,4
+Italus,pers,4
+Olympiodorus,pers,4
+Omestes,pers,4
+Od.,work,4
+Orator,work,4
+Aithra,pers,4
+Agiatis,pers,4
+Argyraspids,work,4
+429,scope,4
+Sempronius,pers,4
+Scotussa,loc,4
+Libyan,work,4
+B.C. 40,scope,4
+Illyrians,loc,4
+Islands,loc,4
+Valentia,loc,4
+145,scope,4
+Velitrae,loc,4
+Drakon,pers,4
+September,scope,4
+Archidamia,pers,4
+Seneca,pers,4
+Argyraspids,pers,4
+Ostanes,pers,4
+Aegina,pers,4
+Demaretus,pers,4
+Decimus,pers,4
+129,scope,4
+Volscians,pers,4
+Caius Octavius,pers,4
+"13,",scope,4
+Daisius,pers,4
+Danube,work,4
+628,scope,4
+Publius Clodius,pers,4
+636,scope,4
+"Otho,",pers,4
+Oudendorp,pers,4
+Oricum,loc,4
+League,work,4
+Leake,pers,4
+Leo,pers,4
+Leokrates,pers,4
+Leon,pers,4
+Areopagus,pers,4
+Libo,pers,4
+Segontia,loc,4
+Dion Cassius,work,4
+Vespasian,pers,4
+Islands,work,4
+Sun,pers,4
+Junius,pers,4
+July,scope,4
+July,work,4
+Ariaspes,pers,4
+Zakynthus,loc,4
+Zakynthus,pers,4
+Westphal,pers,4
+Cape,work,4
+"11,",scope,4
+Daimachus,pers,4
+Lacedæmonian,loc,4
+Artemisium,pers,4
+Daedalus,pers,4
+Pro Lege Manilia,work,4
+Oxyartes,pers,4
+P. Cornelius,pers,4
+Propontis,work,4
+Paccianus,pers,4
+Palatium,work,4
+Palestine,loc,4
+Arsikas,pers,4
+Silenus,pers,4
+Sillakes,pers,4
+Shield,work,4
+Sicinius,pers,4
+Sicinnius,pers,4
+396,scope,4
+"11, 19",scope,4
+Demokles,pers,4
+Deukalion,pers,4
+B.C. 131,scope,4
+Kabeira,loc,4
+Kabeira,pers,4
+Stolo,pers,4
+Stephanus,pers,4
+Sequani,work,4
+Pomponia,pers,4
+Polykleitus,pers,4
+acropolis,loc,4
+"11, 15",scope,4
+Crassianus,pers,4
+Corinthians,loc,4
+Coriolanus,work,4
+Corioli,pers,4
+Pan,pers,4
+Adrianus,pers,4
+Achaicus,pers,4
+Academia,work,4
+Patara,loc,4
+Patrobius,pers,4
+Part,scope,4
+Pompilia,pers,4
+Katana,pers,4
+Kallinikus,pers,4
+c. 27,scope,4
+Curule,pers,4
+Adria,loc,4
+Acilius,pers,4
+Acilius Glabrio,pers,4
+Papiria,pers,4
+350,scope,4
+352,scope,4
+382,scope,4
+384,scope,4
+Lauron,pers,4
+Lamponius,pers,4
+"3, 21",scope,4
+288,scope,4
+Perioeki,pers,4
+Pindarus,pers,4
+Phthia,pers,4
+ch,work,4
+c. 61,scope,4
+c. 62,scope,4
+c. 51,scope,4
+fifth,scope,4
+Kaunus,pers,4
+380,scope,4
+Arpinum,loc,4
+Patron,work,4
+Patræ,loc,4
+Acarnania,loc,4
+Peninsula,loc,4
+Pella,pers,4
+Crassinius,pers,4
+Cossus,pers,4
+Cumæ,loc,4
+c. 59,scope,4
+Cyclades,work,4
+Kaphisias,pers,4
+Kallistratus,pers,4
+Kantharus,pers,4
+Pixodarus,pers,4
+Pontifex,work,4
+Polyxenus,pers,4
+Polygnotus,pers,4
+Achæa,pers,4
+Ad Atticum,work,4
+c. 72,scope,4
+c. 39,scope,4
+xv,scope,4
+xiv.,scope,4
+thirty-three,scope,4
+thirty,scope,4
+Ædiles,pers,4
+Æakus,pers,4
+xvi,scope,4
+Charmion,pers,4
+Korrhagus,pers,4
+Sophocles,pers,4
+Soranus,pers,4
+Skedasus,pers,4
+Spartans,pers,4
+Attius,pers,4
+329,scope,4
+Chalkedon,loc,4
+Kleonike,pers,4
+Knakion,pers,4
+Knidos,pers,4
+Kleander,pers,4
+Atilia,pers,4
+Atilius,pers,4
+Kunaxa,pers,4
+Koronea,loc,4
+Periphoretus,pers,4
+Pharos,work,4
+Kychreus,pers,4
+Kylon,pers,4
+Asiaticus,pers,4
+Askalon,pers,4
+Asklepiades,pers,4
+Artemisium,loc,4
+524,scope,4
+526,scope,4
+Merivale,pers,4
+Menas,pers,4
+Menedemus,pers,4
+Thurii,pers,4
+Thyrsus,pers,4
+Thêbê,pers,4
+. 83,scope,4
+Chaldæans,pers,4
+505,scope,4
+Romans,pers,4
+Rhodes,pers,4
+542,scope,4
+Menekleides,pers,4
+536,scope,4
+Ænus,pers,4
+Chæroneia,pers,4
+Cilicia,work,4
+1,scope,4
+palæstra,work,4
+Chalkedon,pers,4
+Chalkidike,pers,4
+Celeres,pers,4
+Chersonese,loc,4
+ninth,scope,4
+i. 87,scope,4
+Kleisthenes,pers,4
+Kleitomachus,pers,4
+Chalkus,pers,4
+Æsculapius,pers,4
+Æneas,pers,4
+", 4",scope,3
+Ædiles,work,3
+Ægeus,pers,3
+Ædile,pers,3
+x. 28,scope,3
+xlv.,scope,3
+xv.,scope,3
+xiv,scope,3
+xliv.,scope,3
+xlvii.,scope,3
+. 63,scope,3
+.,date,3
+Chalkaspides,work,3
+Ceninetes,work,3
+Censor,pers,3
+Chlidon,pers,3
+Chrysippus,pers,3
+s.v,scope,3
+prytaneum,work,3
+sixteenth day,scope,3
+phalanx,work,3
+Cato,loc,3
+Cato Minor,loc,3
+City-taker,work,3
+Circæum,loc,3
+Cinna,loc,3
+Cingonius,pers,3
+Chersonesus,loc,3
+Chersonesus,pers,3
+Chersonesus,work,3
+Cermalus,pers,3
+", iii.",scope,3
+"9, 10",scope,3
+Pharsalia,pers,3
+Phaselis,pers,3
+Phasis,work,3
+Pheidon,pers,3
+Phaia,pers,3
+Colline,work,3
+p. 316,scope,3
+notes,scope,3
+li.,scope,3
+lib.,scope,3
+i. Numa,scope,3
+Chæron,pers,3
+Charybdis,pers,3
+Catana,loc,3
+Comitia,work,3
+Concord,work,3
+Constantinople,loc,3
+Cnæus Cornelius,pers,3
+Considius,pers,3
+Colchis,loc,3
+Colchis,pers,3
+Abas,work,3
+Abdera,pers,3
+Phokians,pers,3
+Phorbas,pers,3
+Philippi,pers,3
+Philippics,pers,3
+Philippics,work,3
+Cassius Longinus,pers,3
+Arybas,pers,3
+Lacedæmonium,work,3
+Laius,pers,3
+Labyrinth,loc,3
+L. Valerius Flaccus,pers,3
+Labici,pers,3
+Labyrinth,work,3
+Lacedaemon,loc,3
+Kebalinus,pers,3
+Keramicus,pers,3
+Keraunus,pers,3
+Kephisus,work,3
+Kerasus,pers,3
+"3, 13",scope,3
+Sphragitides,pers,3
+Arrhenides,pers,3
+Kreon,pers,3
+Krimesus,pers,3
+Sophanes,pers,3
+Augur,work,3
+Augurs,pers,3
+Kirrha,pers,3
+Kenchreæ,pers,3
+Kephisodorus,pers,3
+Kleokritus,pers,3
+Athenæus,pers,3
+Kleophantus,pers,3
+Asopus,pers,3
+Artaxas,pers,3
+L. Julius Cæsar,pers,3
+L. Antonius,pers,3
+Kyniske,pers,3
+Sisymithres,pers,3
+Sikinnus,pers,3
+Lacedaemonius,pers,3
+Lemnos,loc,3
+Lektum,loc,3
+Laodike,pers,3
+Laphystius,pers,3
+Arruntius,pers,3
+Lampon,pers,3
+Langobritæ,work,3
+Lachartus,pers,3
+Skepsis,pers,3
+Socrates,pers,3
+Skirus,pers,3
+Skotussa,loc,3
+Sisenna,pers,3
+Justitium,work,3
+"3, 4",scope,3
+287,scope,3
+Suetonius Paullinus,pers,3
+Staphylus,pers,3
+Stesilaus,pers,3
+Statianus,pers,3
+Lanarius,pers,3
+Lacedaemonian,pers,3
+Sosistratus,pers,3
+Soter,pers,3
+Aulus Gellius,pers,3
+Kallibius,pers,3
+Kallikles,pers,3
+Kallipides,pers,3
+Kapaneus,pers,3
+Lentulus Spinther,pers,3
+Leontis,pers,3
+Leontiades,pers,3
+Lavinium,pers,3
+Arnold,pers,3
+Ariminum,loc,3
+Ariphron,pers,3
+Ariamnes,pers,3
+B.C. 137,scope,3
+B.C. 143,scope,3
+September,work,3
+Serapion,pers,3
+Serranus,pers,3
+Leptus,pers,3
+Leukas,pers,3
+Lentulus Crus,pers,3
+Augustus Cæsar,pers,3
+Kadmeia,pers,3
+Jura,work,3
+Juvenal,pers,3
+Kabeiri,pers,3
+Kalendar,work,3
+Julius Proculus,pers,3
+Jugurthine,work,3
+Sikyonian,loc,3
+Sestius,pers,3
+Aristophon,pers,3
+Artabazes,pers,3
+Aristænetus,pers,3
+Steiria,pers,3
+Stertinius,pers,3
+B.C. 100,scope,3
+Sentius,pers,3
+Second,work,3
+Savigny,pers,3
+Architeles,pers,3
+Archonides,pers,3
+Arar,work,3
+"Livy,",work,3
+Long,pers,3
+Selymbria,pers,3
+Argas,pers,3
+Ariamenes,pers,3
+Argius,pers,3
+Archidamidas,pers,3
+Archeptolis,pers,3
+Lexicon,work,3
+Leukus,pers,3
+Isis,pers,3
+Isodike,pers,3
+B.C. 31,scope,3
+B.C. 38,scope,3
+Iras,pers,3
+Ioxus,pers,3
+Iphikles,pers,3
+Indus,work,3
+Lebadeia,loc,3
+Susiana,loc,3
+Susa,pers,3
+Janus,pers,3
+Judicia,work,3
+Istrus,pers,3
+January,scope,3
+Isidorus,pers,3
+449,scope,3
+452,scope,3
+453,scope,3
+Scævola,work,3
+Hypates,pers,3
+Hæmon,pers,3
+Homoloichus,pers,3
+Honoratus,pers,3
+Lothronus,pers,3
+Lower,loc,3
+Lucan,pers,3
+Livy,work,3
+456,scope,3
+444,scope,3
+445,scope,3
+448,scope,3
+B.C. 51,scope,3
+Symposium,work,3
+Syracusan,work,3
+Syracusans,loc,3
+Syracuse,pers,3
+Lupercalia,work,3
+Lucania,pers,3
+Longinus Verus,pers,3
+Limnæus,pers,3
+Liv.,pers,3
+Libyan,loc,3
+Iberica,pers,3
+Iberus,pers,3
+Idas,pers,3
+Ignatius,pers,3
+III.,scope,3
+Satyrs,pers,3
+"5, 20",scope,3
+"5, 28",scope,3
+488,scope,3
+489,scope,3
+Malaca,loc,3
+Appian,work,3
+Aphepsion,pers,3
+471,scope,3
+473,scope,3
+476,scope,3
+477,scope,3
+443,scope,3
+Archedemus,pers,3
+Apulia,loc,3
+Lutatius Catulus,pers,3
+475,scope,3
+462,scope,3
+463,scope,3
+464,scope,3
+465,scope,3
+466,scope,3
+467,scope,3
+481,scope,3
+Hoplites,work,3
+Taroutius,pers,3
+Syrtis,loc,3
+Tagonius,work,3
+Tagus,work,3
+Lykus,loc,3
+Satrap,work,3
+474,scope,3
+491,scope,3
+492,scope,3
+497,scope,3
+460,scope,3
+461,scope,3
+457,scope,3
+458,scope,3
+459,scope,3
+Hierapolis,pers,3
+Hilarus,pers,3
+Taylor,pers,3
+510,scope,3
+511,scope,3
+Aphidnus,pers,3
+Marcianus,pers,3
+490,scope,3
+Lykophron,pers,3
+Hippomedon,pers,3
+B.C. 70,scope,3
+B.C. 77,scope,3
+B.C. 68,scope,3
+B.C. 74,scope,3
+Hirtuleius,pers,3
+Hippolyte,pers,3
+Apama,pers,3
+Malaga,loc,3
+Mamerci,pers,3
+Machiavelli,pers,3
+Aquillii,work,3
+Aquinus,pers,3
+Lysidike,pers,3
+Lykon,pers,3
+Rustius,pers,3
+Maso,pers,3
+500,scope,3
+502,scope,3
+503,scope,3
+507,scope,3
+512,scope,3
+513,scope,3
+Samos,pers,3
+Sardis,pers,3
+Sarmentus,pers,3
+Sandauke,pers,3
+Sandon,pers,3
+Sardinia,pers,3
+Salonianus,pers,3
+Sabbas,pers,3
+Marcus Caedicius,pers,3
+Marcus Minucius,pers,3
+Manutius,pers,3
+Apemantus,pers,3
+495,scope,3
+482,scope,3
+485,scope,3
+487,scope,3
+Himera,loc,3
+Hermagoras,pers,3
+B.C. 89,scope,3
+B.C. 61,scope,3
+Bagoas,pers,3
+Bacchæ,pers,3
+Telamon,pers,3
+Marcus Crassus,pers,3
+Barca,pers,3
+Barcas,pers,3
+Barinus,pers,3
+Basilicæ,work,3
+Babyka,pers,3
+Haliartus,loc,3
+Hadrumetum,loc,3
+Halikarnassus,loc,3
+Tharrhypas,pers,3
+Theano,pers,3
+Thearides,pers,3
+Termerus,pers,3
+Terpander,pers,3
+Teukrus,pers,3
+Teireus,pers,3
+Teius,pers,3
+Baiæ,loc,3
+Herakleidae,pers,3
+Hereas,pers,3
+Helikon,pers,3
+Hamilcar,pers,3
+Hasdrubal,pers,3
+"21, 22",scope,3
+21-23,scope,3
+514,scope,3
+516,scope,3
+Romulus,loc,3
+Rufinus,pers,3
+Anton,pers,3
+Tarracina,loc,3
+Taygetus,loc,3
+Tarraconensis,pers,3
+Marullus,pers,3
+Masabates,pers,3
+Theodektes,pers,3
+Thargelion,loc,3
+"21, 24",scope,3
+Great,loc,3
+Gomphi,pers,3
+Gongylus,pers,3
+Mazæus,pers,3
+Mede,work,3
+Antioch,pers,3
+Antiq.,work,3
+Antiphanes,pers,3
+Anthemion,pers,3
+Annius Milo,pers,3
+Mediterranean,work,3
+Androkottus,pers,3
+Androkrates,pers,3
+Melanippus,pers,3
+Melanthus,pers,3
+Melesias,pers,3
+Melesippides,pers,3
+Meliteia,loc,3
+Mediolanum,pers,3
+Guadalquivir,work,3
+Gouras,pers,3
+Gortyna,loc,3
+Belgium,loc,3
+Menestheus,pers,3
+Melas,pers,3
+Melas,work,3
+Androkles,pers,3
+563,scope,3
+529,scope,3
+Rhodians,work,3
+Rex,pers,3
+592,scope,3
+593,scope,3
+Anaxilaus,pers,3
+Anaxo,pers,3
+532,scope,3
+533,scope,3
+534,scope,3
+537,scope,3
+538,scope,3
+539,scope,3
+506,scope,3
+Rhodanus,work,3
+Memphis,loc,3
+Menippus,pers,3
+535,scope,3
+523,scope,3
+528,scope,3
+543,scope,3
+530,scope,3
+531,scope,3
+Bessus,pers,3
+"2, 4",scope,3
+1836,date,3
+Thoinon,pers,3
+Theste,pers,3
+Mercury,pers,3
+Messala,loc,3
+Melos,loc,3
+Anakreon,pers,3
+Amykla,pers,3
+Ambiorix,pers,3
+Mithradates,pers,3
+Minturnæ,loc,3
+Milan,loc,3
+551,scope,3
+552,scope,3
+Galepsus,pers,3
+Timoxenus,pers,3
+"18, 19",scope,3
+Tigris,loc,3
+Tigennis,loc,3
+Tigranocerta,pers,3
+Tillius,pers,3
+Amphissa,loc,3
+Thrason,pers,3
+Thonis,pers,3
+Thoranius,pers,3
+Thracians,loc,3
+Beaufort,pers,3
+Germanus,pers,3
+Garigliano,work,3
+Gaulish,loc,3
+Milto,pers,3
+Metageitnion,pers,3
+Metilius,pers,3
+Metelli,pers,3
+Metellus Pius Scipio,pers,3
+Annal.,work,3
+Androtion,pers,3
+Anius,pers,3
+Timolaus,pers,3
+Boeotian,pers,3
+Bona,pers,3
+Fimbria,loc,3
+Fasti_,work,3
+Faunus,pers,3
+Euthydemus,pers,3
+Borysthenes,loc,3
+Fusco,pers,3
+Fregellans,pers,3
+Four,work,3
+Fragmenta,work,3
+Formiæ,loc,3
+18-21,scope,3
+Timanthes,pers,3
+Timokleides,pers,3
+521,scope,3
+522,scope,3
+566,scope,3
+Tillius Cimber,pers,3
+2,scope,3
+"2, 10",scope,3
+Biography,work,3
+Furies,work,3
+553,scope,3
+554,scope,3
+555,scope,3
+570,scope,3
+571,scope,3
+559,scope,3
+561,scope,3
+562,scope,3
+Minor,pers,3
+Anab.,work,3
+Titus Quintius,pers,3
+Titus Quintius Flamininus,pers,3
+Torquatus,pers,3
+Tolumnius,pers,3
+Topography,work,3
+Tithora,pers,3
+557,scope,3
+558,scope,3
+544,scope,3
+545,scope,3
+547,scope,3
+548,scope,3
+549,scope,3
+578,scope,3
+589,scope,3
+590,scope,3
+591,scope,3
+550,scope,3
+594,scope,3
+595,scope,3
+597,scope,3
+598,scope,3
+Trebizond,loc,3
+"17, 18",scope,3
+Tribune,work,3
+Molossians,loc,3
+Molossians,pers,3
+580,scope,3
+581,scope,3
+584,scope,3
+Moerokles,pers,3
+Brixellum,loc,3
+Eumelus,pers,3
+Ethiopia,loc,3
+Euphemides,pers,3
+Buteo,pers,3
+Tullius,pers,3
+Tuscans,loc,3
+Amasis,pers,3
+Mædike,pers,3
+Myrto,pers,3
+Ammianus Marcellinus,pers,3
+Amintius,pers,3
+Amoebeus,pers,3
+Amanus,pers,3
+Mnesiptolema,pers,3
+Euripus,loc,3
+Euripus,pers,3
+Eurymedon,pers,3
+Eurysakes,pers,3
+Eumolpidae,work,3
+Eukleia,pers,3
+Britannia,loc,3
+Amarsyas,pers,3
+Tinnius,pers,3
+Boutes,pers,3
+Brazen House,work,3
+Evius,pers,3
+Fabii,work,3
+Eupolia,pers,3
+Eurylochus,pers,3
+Eurymedon,loc,3
+607,scope,3
+608,scope,3
+609,scope,3
+Etruscan,work,3
+Euchidas,pers,3
+Epipolæ,loc,3
+Equitum,work,3
+Ephetai,work,3
+575,scope,3
+576,scope,3
+577,scope,3
+Rhamnus,loc,3
+Rhea,pers,3
+Quintus Cæcilius,pers,3
+617,scope,3
+606,scope,3
+Narbo,pers,3
+Myron,pers,3
+579,scope,3
+"6, 9,",scope,3
+585,scope,3
+572,scope,3
+573,scope,3
+574,scope,3
+Tusculanum,loc,3
+Troas,loc,3
+Troja,loc,3
+Bribery,pers,3
+Albania,loc,3
+Nealkes,pers,3
+Nemea,loc,3
+Neon,pers,3
+Ephor,pers,3
+Ephor,work,3
+Epimenides,pers,3
+Epicurus,pers,3
+Epidaurus,pers,3
+Epikrates,pers,3
+Elea,pers,3
+Enyo,pers,3
+Nikonides,pers,3
+Nestor,pers,3
+Nisæa,loc,3
+Niger,pers,3
+Nikephorium,loc,3
+Nausithous,pers,3
+Alkimus,pers,3
+Albani,pers,3
+Pulcher,pers,3
+641,scope,3
+642,scope,3
+630,scope,3
+Alexander the Great,pers,3
+Alesia,loc,3
+Akademus,pers,3
+Nikomedia,loc,3
+15-17,scope,3
+Umbricius,pers,3
+Tutula,pers,3
+Tyrtæus,pers,3
+Typhon,pers,3
+Tyrants,work,3
+Tyrrhenian,loc,3
+Pæonians,pers,3
+Queen,loc,3
+Pythopolis,loc,3
+Pythodorus,pers,3
+Pythokles,pers,3
+Dromichætes,pers,3
+Durazzo,loc,3
+Durius,work,3
+Caius Fabricius,pers,3
+Nikokreon,pers,3
+621,scope,3
+622,scope,3
+611,scope,3
+612,scope,3
+613,scope,3
+614,scope,3
+620,scope,3
+Echekrates,pers,3
+Eagle,work,3
+Earth,work,3
+Ahala,pers,3
+Nymphidius Sabinus,pers,3
+Nymphæum,work,3
+Nikæa,pers,3
+Nikodemus,pers,3
+Elephenor,pers,3
+Eleius,pers,3
+Elmsley,pers,3
+Egnatius,pers,3
+Ekphanes,pers,3
+Eighth,scope,3
+Elateia,loc,3
+Elatea,loc,3
+Puteoli,pers,3
+Akastus,pers,3
+Akouphis,pers,3
+Dioskorides,pers,3
+Divinatione,work,3
+Diphilus,pers,3
+Dodona,loc,3
+Dodona,pers,3
+643,scope,3
+644,scope,3
+645,scope,3
+646,scope,3
+647,scope,3
+648,scope,3
+600,scope,3
+601,scope,3
+631,scope,3
+632,scope,3
+633,scope,3
+638,scope,3
+639,scope,3
+640,scope,3
+603,scope,3
+604,scope,3
+Vergilio,pers,3
+Varius,pers,3
+Velesius,pers,3
+Velia,loc,3
+"150,000",scope,3
+Dioskuri,pers,3
+Odyssey,work,3
+Octavianus Cæsar,pers,3
+Callisthenes,pers,3
+Caesar,pers,3
+Demophoon,pers,3
+Demostratus,pers,3
+Campaign,work,3
+"11, 34",scope,3
+Vulcan,pers,3
+Vulturnus,pers,3
+Agraulos,pers,3
+Olympian,loc,3
+Agylæus,pers,3
+Agatharchus,pers,3
+Olympian,work,3
+On,work,3
+Ofella,pers,3
+Odeum,work,3
+Vercingetorix,pers,3
+Vento,pers,3
+Venusia,loc,3
+Diagoras,pers,3
+Psyttaleia,loc,3
+Prudent,work,3
+Onomasticon,work,3
+Onomastus,pers,3
+Dikæarchus,pers,3
+Diakrii,work,3
+"13, 21",scope,3
+13-16,scope,3
+"12, 15",scope,3
+Vestals,work,3
+Vibo,loc,3
+Vibo,pers,3
+626,scope,3
+627,scope,3
+Publius,work,3
+Publius Licinius,pers,3
+Psylli,work,3
+Dandarii,work,3
+Deinias,pers,3
+Damophantus,pers,3
+Oromasdes,pers,3
+Orneus,pers,3
+Opheltas,pers,3
+Orosius,pers,3
+629,scope,3
+637,scope,3
+623,scope,3
+624,scope,3
+Decius,pers,3
+Aegina,loc,3
+Aemilius Paulus,pers,3
+Aeschines,pers,3
+Afidius,pers,3
+Ad Brutum,work,3
+Oschophoria,work,3
+Ouliades,pers,3
+War,pers,3
+Virgilia,pers,3
+Victory,work,3
+Vitellii,work,3
+Vindius,pers,3
+Vipsanius,pers,3
+Virgins,work,3
+Delphinium,loc,3
+Pro,work,3
+Postumus,pers,3
+Pothinus,pers,3
+Postumius Albinus,pers,3
+Porcius,pers,3
+Portugal,loc,3
+Poseidonia,loc,3
+Canopus,loc,3
+Oxathres,pers,3
+P. Servilius,pers,3
+Osca,loc,3
+"7,",scope,3
+Protagoras,pers,3
+Priapus,pers,3
+Priene,pers,3
+Priscus,pers,3
+Xuthus,pers,3
+Younger,work,3
+Xanthus,pers,3
+"12, 18",scope,3
+Paccius,pers,3
+Paches,pers,3
+Pacianus,pers,3
+Padua,loc,3
+Damoteles,pers,3
+Danaus,pers,3
+Dandamis,pers,3
+Daochus,pers,3
+Daphne,pers,3
+Cæsar_,work,3
+Cannae,loc,3
+Zachariæ,pers,3
+Pollis,pers,3
+Patavium,work,3
+Parthia,pers,3
+Parnassus,loc,3
+Parthenon,work,3
+Panopeus,loc,3
+Paralus,pers,3
+Adeimantus,pers,3
+Zeus Ammon,pers,3
+Zeuxidamus,pers,3
+Xenophilus,pers,3
+[,scope,3
+Xypete,pers,3
+c. 41,scope,3
+Pompey,pers,3
+Pompeia,loc,3
+Cæsar.,pers,3
+Curia,work,3
+_Tullii_,work,3
+"10, 11",scope,3
+"10, 17",scope,3
+ambitus,pers,3
+Zelea,pers,3
+Zeugma,pers,3
+Canusium,loc,3
+Cambyses,pers,3
+Damastes,pers,3
+D. Junius Silanus,pers,3
+Dalmatia,loc,3
+Dalmaticus,pers,3
+Cyrus,work,3
+Cyropædia,work,3
+Polemarchus,pers,3
+Poliorketes,pers,3
+Plataea,loc,3
+700,scope,3
+Popillius,pers,3
+Cornelius Sulla,pers,3
+Cornelii,work,3
+Cornelius Balbus,pers,3
+"7, 20",scope,3
+Polydektes,pers,3
+Polydorus,pers,3
+Polyzelus,pers,3
+Polykritus,pers,3
+Pliny,pers,3
+Polystratus,pers,3
+Plin.,pers,3
+Culeo,pers,3
+Carm.,work,3
+Cotylon,pers,3
+Peirithois,pers,3
+Paseas,pers,3
+Pasikrates,pers,3
+Acro-Corinthus,loc,3
+Actium,pers,3
+Paciacus,pers,3
+Cappadocian,work,3
+Cappadocians,work,3
+Cyclops,pers,3
+Cydnus,loc,3
+Croton,pers,3
+Cremona,loc,3
+Culleo,pers,3
+Philipp.,work,3
+Philides,pers,3
+Phaselis,loc,3
+"9,",scope,3
+Persia,pers,3
+A. Gabinius,pers,3
+Peteus,pers,3
+Petelia,pers,3
+Phoenicians,pers,3
+Abriorix,pers,3
+Perpenna,loc,3
+Pellene,loc,3
+Patronus,pers,3
+Acerræ,pers,3
+Achæan,pers,3
+Acharnæ,pers,3
+c. 54,scope,3
+"1, 7",scope,3
+Pinarius,pers,3
+Pissuthnes,pers,3
+Pictor,pers,3
+Phrearri,pers,3
+Phthiotis,pers,3
+Physcon,pers,3
+Cornelius Nepos,pers,3
+Cornificius,pers,3
+Cornutus,pers,3
+i. 28,scope,3
+five-and-twenty,scope,3
+citadel,work,3
+c. 81,scope,3
+c. 78,scope,3
+Ægæ,pers,3
+Ælius Tubero,pers,3
+Ætolia,loc,3
+Ægina,pers,3
+Æsop,pers,3
+",",loc,3
+Æropus,pers,3
+Æsepus,work,3
+Circeii,loc,3
+viii,scope,3
+thirty-seven,scope,3
+twenty,scope,3
+three,scope,3
+sixty,scope,3
+twenty-fifth,scope,3
+Æmilianus,pers,3
+"1, 3,",scope,3
+"1, 4",scope,3
+. Julius Cæsar,pers,3
+Cato Minor,work,3
+Clodianus,pers,3
+Claudius Appius,pers,3
+Claros,pers,3
+Clepsydra,pers,3
+Phalinus,pers,3
+Philogonus,pers,3
+Philologus,pers,3
+Pherenikus,pers,3
+"8, 9,",scope,3
+i. 24,scope,3
+i. 25,scope,3
+i. 18,scope,3
+Asculum,loc,3
+Krobylus,pers,3
+Kraugis,pers,3
+Krause,pers,3
+Koalemus,pers,3
+Kleomedon,pers,3
+Kleonæ,pers,3
+Kleodæus,pers,3
+Sparton,pers,3
+Attilius,pers,3
+Athenion,pers,3
+Sophene,loc,3
+Sophene,pers,3
+Skarphia,pers,3
+Athamanes,pers,3
+Athanis,pers,3
+August,scope,3
+33-35,scope,3
+"3, 7",scope,3
+Soul,work,3
+Soüs,pers,3
+Spercheius,pers,3
+Sparamixes,pers,3
+Spartan,pers,3
+Æneid,work,3
+Ænobarbus,pers,3
+Æmilia,pers,3
+Kleanthes,pers,3
+Kleitarchus,pers,3
+Kerkyon,pers,3
+Kerykes,pers,3
+Attica,pers,3
+Ægle,pers,2
+Ælia,pers,2
+", 15",scope,2
+Æthra,pers,2
+Œneadæ,loc,2
+",",pers,2
+&,scope,2
+. 32,scope,2
+Ægialea,loc,2
+xxix.,scope,2
+xxxi.,scope,2
+Ædui,work,2
+Ægean,loc,2
+Ægeis,pers,2
+Cheiron,pers,2
+Chariklo,pers,2
+Charinus,pers,2
+Chelidonian,pers,2
+Charonitæ,pers,2
+Charops,pers,2
+Cevennes,work,2
+Cheirones,pers,2
+", 20",scope,2
+xi,scope,2
+xi.,scope,2
+xii,scope,2
+x. 17,scope,2
+x. 4,scope,2
+v. 8,scope,2
+. 75,scope,2
+", vii.",scope,2
+vi,scope,2
+twenty-sixth,scope,2
+twenty-two,scope,2
+v. 1.,scope,2
+v. 18,scope,2
+v. 24,scope,2
+three hundred,scope,2
+twelfth,scope,2
+thirty-seventh,scope,2
+Chrysermas,pers,2
+Chilon,pers,2
+Celer,work,2
+Choiac,work,2
+Charicatani,pers,2
+Chrysermes,pers,2
+Chrysis,pers,2
+twenty-eight,scope,2
+sixty-four,scope,2
+the 1st,scope,2
+the fifth,scope,2
+s. 99,scope,2
+third,scope,2
+seven,scope,2
+seventeen,scope,2
+p. 668,scope,2
+p. 671,scope,2
+p. 60,scope,2
+p. 747,scope,2
+p. 455,scope,2
+"1, 12",scope,2
+1 Sat.,scope,2
+. 54,scope,2
+. 51,scope,2
+p. 545,scope,2
+p. 49,scope,2
+p. 555.,scope,2
+p. 556,scope,2
+p. 25,scope,2
+p. 37,scope,2
+p. 183,scope,2
+lake,work,2
+Chæronea,work,2
+Cimbri,pers,2
+Chileon,pers,2
+Chaeronea,loc,2
+Chalastra,loc,2
+i. 93,scope,2
+i. Solon,scope,2
+i. 96,scope,2
+i. 47,scope,2
+isthmus,work,2
+i. 58,scope,2
+i. 60,scope,2
+i. 68,scope,2
+i. 71,scope,2
+i. 8,scope,2
+i. 80,scope,2
+"1, 3",scope,2
+"1, 3, 4,",scope,2
+. Servilius Isauricus,pers,2
+"1, 4,",scope,2
+. Licinius,pers,2
+i. 29,scope,2
+i. 3,scope,2
+i. 20,scope,2
+i. 36,scope,2
+i. 1,scope,2
+i. 32,scope,2
+i. 101,scope,2
+i. 103,scope,2
+i.     Numa,scope,2
+i. 116,scope,2
+i. 118,scope,2
+i. 10,scope,2
+Cercina,pers,2
+Censorship,work,2
+Catilin,pers,2
+Catilin.,pers,2
+Catilina,work,2
+Cisalpine,loc,2
+Circeo,loc,2
+Circus Flaminius,work,2
+Citerior,work,2
+i. 13,scope,2
+five,scope,2
+forty-three,scope,2
+forty-two,scope,2
+eighth year,scope,2
+hundred,scope,2
+eighty-three,scope,2
+eighteenth,scope,2
+fifth book,scope,2
+eighty,scope,2
+fifty-four,scope,2
+fifty-six,scope,2
+fifty-two,scope,2
+eleven,scope,2
+ch.15,scope,2
+eight,scope,2
+"chs,",work,2
+c. 80,scope,2
+c. 82,scope,2
+dorodokia,pers,2
+c. 88,scope,2
+c. 91,scope,2
+c. 77,scope,2
+century B.C.,date,2
+c. 83,scope,2
+c. 56,scope,2
+1-4,scope,2
+"1, 6",scope,2
+Cleanthes,pers,2
+Circe,pers,2
+Circeii,pers,2
+c. 76,scope,2
+c. 63,scope,2
+c. 64,scope,2
+c. 67,scope,2
+c. 60,scope,2
+c. 71,scope,2
+c. 75,scope,2
+c. 47,scope,2
+"10, 14",scope,2
+"10, 16",scope,2
+"10, 25",scope,2
+"10, 26",scope,2
+"1, 9",scope,2
+"11, 12, 13,",scope,2
+"11, 23",scope,2
+"11, 14",scope,2
+c. 104,scope,2
+c,scope,2
+_ viii.,scope,2
+"_,",work,2
+c. 103,scope,2
+Zela,pers,2
+Zenodotium,loc,2
+Zenodotus,pers,2
+Zoroaster,pers,2
+Zosime,pers,2
+Zumalacarregui,pers,2
+Zeuxis,pers,2
+Zoilus,pers,2
+Xenodochus,pers,2
+Xenophantus,pers,2
+1124,scope,2
+Caulonia,work,2
+Clodius Macer,pers,2
+Carystus,pers,2
+Clœlius,pers,2
+Cn,scope,2
+Civitas,work,2
+Cluverius,pers,2
+"11,     13",scope,2
+Xucar,work,2
+Xylander,pers,2
+Zaleukus,pers,2
+Zama,loc,2
+Xenagoras,pers,2
+Xenarchus,pers,2
+Vitruvius,pers,2
+Vitæ et,work,2
+Volsci,work,2
+Xanthippides,pers,2
+"12, 16",scope,2
+"12, 24",scope,2
+Vopiscus,pers,2
+"11, 24",scope,2
+"11, 28",scope,2
+Wars,work,2
+WILLIAM CLOWES,pers,2
+Victories,work,2
+Walls,work,2
+Coblenz,loc,2
+Cocceius,pers,2
+Coele,loc,2
+Coelius,pers,2
+Cloelius,pers,2
+Clients,work,2
+Cato Major,pers,2
+Virginia,loc,2
+"13, 25",scope,2
+Verrucosus,pers,2
+"13, 28",scope,2
+Vestals,pers,2
+12-14,scope,2
+11; iii,scope,2
+"12, 13",scope,2
+Via,work,2
+Vestal,work,2
+Vestal Virgins,work,2
+Ventidius Bassus,pers,2
+Vellutus,pers,2
+Verr.,work,2
+Verrem,work,2
+Verania,pers,2
+Vercelli,pers,2
+Vercellæ,loc,2
+Vargunteius,pers,2
+"14, 16",scope,2
+Vatia Isauricus,pers,2
+Comana,loc,2
+Commagene,loc,2
+Commagene,pers,2
+Commentaries,work,2
+Consta,pers,2
+Concord,loc,2
+Concord,pers,2
+Cnaeus,pers,2
+"13, 18",scope,2
+Vatia,pers,2
+"13, 14",scope,2
+VIII.,scope,2
+Valencia,loc,2
+Ubii,work,2
+Ulixes,pers,2
+Ulpian,pers,2
+"15,",scope,2
+"15, 16,",scope,2
+15-19,scope,2
+Usipes,pers,2
+"14, 17",scope,2
+Usipetes,pers,2
+Tyre,pers,2
+Tutola,pers,2
+Tuttia,loc,2
+Tullii,work,2
+Tyrus,loc,2
+Tænarus,loc,2
+Tuder,pers,2
+Tudertia,loc,2
+Tuditanus,pers,2
+"16, 19",scope,2
+Castulo,work,2
+Castus,pers,2
+Catana,pers,2
+Carinna,pers,2
+Carinnas,pers,2
+Copillius,pers,2
+Coraes,pers,2
+Corfu,loc,2
+Corinth,pers,2
+Corcyra,pers,2
+Tunnondas,pers,2
+Tullius Cicero,pers,2
+Tusculum,pers,2
+Tunis,loc,2
+Tristia,work,2
+Tritæa,loc,2
+Troglodytes,work,2
+Trojans,loc,2
+Trebonianus,pers,2
+Tubertus,pers,2
+"17, 23",scope,2
+Trebia,work,2
+"17, 27",scope,2
+"17, 19",scope,2
+"16, 25",scope,2
+"16, 26",scope,2
+"16,",scope,2
+Tribunus Plebis,pers,2
+Triopian,work,2
+Tripylus,pers,2
+Trajanus,pers,2
+Trallians,work,2
+Trebellius,pers,2
+Translation,work,2
+Trapezus,loc,2
+Treatise,work,2
+Tityos,pers,2
+Cornelius Cossus,pers,2
+Cornelius Gallus,pers,2
+Corinthians,work,2
+Cornelius Laco,pers,2
+Consulship,work,2
+Cassivelaunus,pers,2
+Castlo,loc,2
+Castlo,pers,2
+Cassii,pers,2
+Tinge,pers,2
+Tiribazus,pers,2
+"18, 21",scope,2
+Tisiphonus,pers,2
+"17,     19",scope,2
+Tisamenus,pers,2
+Tisander,pers,2
+Tisias,pers,2
+Titurius,pers,2
+Titurius Sabinus,pers,2
+Timæa,pers,2
+Timoklea,pers,2
+Timesitheos,pers,2
+Tifata,pers,2
+Tibareni,pers,2
+Tibareni,work,2
+Timonassa,pers,2
+1841,date,2
+Carthage,work,2
+Carthaginians,pers,2
+Carthago,loc,2
+Cappadocia,pers,2
+Capenates,loc,2
+Cotta,work,2
+Crassus Dives,pers,2
+Tiberius Sempronius,pers,2
+Tidius,pers,2
+17th,scope,2
+Tigurini,pers,2
+Tigurini,work,2
+Tigranes,loc,2
+Three,work,2
+Tigris,pers,2
+Thurian,pers,2
+"2, 36",scope,2
+"2, 14",scope,2
+"2, 18",scope,2
+Thyestes,pers,2
+Thriasia,loc,2
+Thuc.,pers,2
+Thuro,pers,2
+Thimbron,pers,2
+Thyrea,loc,2
+Thousand,work,2
+Thoas,pers,2
+Thodippus,pers,2
+Thermodon,loc,2
+Thersippus,pers,2
+Thracian,loc,2
+"20, 25",scope,2
+"20,",scope,2
+"20, 21",scope,2
+Thessalian,loc,2
+Thessalonike,loc,2
+Thessalus,loc,2
+Theseus',pers,2
+Crœsus,pers,2
+Cuma,loc,2
+Crimea,loc,2
+Crassus.,pers,2
+Cumæi,pers,2
+Cunaxa,loc,2
+Crown,work,2
+Cos,pers,2
+Cosconius,pers,2
+Carpus,pers,2
+Theodotes,pers,2
+Theokritus,pers,2
+Thebe,pers,2
+Thebes,pers,2
+Themistocles,pers,2
+Thermaic,loc,2
+Theomnestus,pers,2
+Thallus,pers,2
+Thalæa,pers,2
+Theorus,pers,2
+Thargelia,pers,2
+Thais,pers,2
+"2, c. 41",scope,2
+Thargelion,pers,2
+Thasian,pers,2
+Thasos,loc,2
+Teratius,pers,2
+Thearidas,pers,2
+Caraca,pers,2
+Curtius,pers,2
+Camurius,pers,2
+Cydnus,work,2
+Curtius,loc,2
+Crastinus,pers,2
+Cratippus,pers,2
+Cretan,pers,2
+Tenos,loc,2
+Tetrapolis,loc,2
+Telesippa,pers,2
+Tegeans,work,2
+Tethys,pers,2
+"23, 26",scope,2
+"22, 23",scope,2
+"20, 30",scope,2
+Telestus,pers,2
+Teleutias,pers,2
+Telmessus,pers,2
+Telephus,pers,2
+Temple,loc,2
+Tenedos,loc,2
+Tenedos,pers,2
+Tarrutius,pers,2
+Tarquins,pers,2
+Tarquins,work,2
+Taygetus,pers,2
+Teanum,loc,2
+Tectosages,work,2
+Taurion,pers,2
+Taurus,loc,2
+26-28,scope,2
+Cytheris,pers,2
+Cyzicus,loc,2
+Cæsar Octavianus,pers,2
+Cybele,loc,2
+Caprarii,pers,2
+Capitoline,work,2
+Tanusius,pers,2
+"23, 27",scope,2
+Tarpeian,work,2
+Tarcondemus,pers,2
+Syrian,work,2
+Syrmus,pers,2
+Tacita,pers,2
+Talasio,pers,2
+Symbolum,pers,2
+Sybarites,pers,2
+Symbolum,loc,2
+Syracusans,pers,2
+Symposiaca,work,2
+Suevi,pers,2
+29th of May,scope,2
+"29, 30",scope,2
+Supplement,work,2
+Susamithres,pers,2
+"3, 16",scope,2
+"3, 24",scope,2
+"3, 4,",scope,2
+Sucro,pers,2
+Stratonikus,pers,2
+Sueton,pers,2
+Strymon,work,2
+Sueton,loc,2
+Canutius,pers,2
+D. Junius,pers,2
+Camden,pers,2
+Calpus,pers,2
+Damokrates,pers,2
+Damonides,pers,2
+Cyrnus,pers,2
+Cyrnus,work,2
+Cyrus,loc,2
+Damippus,pers,2
+Damokleides,pers,2
+Stephan,pers,2
+Sphairus,pers,2
+Sphakteria,loc,2
+"31, 36",scope,2
+31-33,scope,2
+Spurius Carvilius,pers,2
+Spinther,work,2
+Sporus,pers,2
+Springs,work,2
+Sossius Senecio,pers,2
+Spurius Cassius,pers,2
+Spurius Postumius,pers,2
+"3, 5,",scope,2
+"3, 6",scope,2
+"3, 9, 14",scope,2
+Spanos,pers,2
+Soli,loc,2
+"Soli,",pers,2
+Spartan,work,2
+Spartans,loc,2
+Spendon,pers,2
+Solonium,pers,2
+Sokles,pers,2
+Dardanelles,loc,2
+Days,work,2
+Darius Nothus,pers,2
+Daskylitis,pers,2
+Davis,pers,2
+Canus,pers,2
+Cannicius,pers,2
+"Cæsar_,",work,2
+"320,000",scope,2
+Sophrosyne,pers,2
+Skiraphidas,pers,2
+Skellius,pers,2
+Skillustis,pers,2
+Skione,pers,2
+Sinnaca,pers,2
+Sippius,pers,2
+Sinora,pers,2
+Skandeia,loc,2
+Sinuessa,loc,2
+37-39,scope,2
+Sikyonians,loc,2
+Silanion,pers,2
+Simnus,pers,2
+Simylus,pers,2
+Silicius,pers,2
+Silo,pers,2
+Shakespere,pers,2
+Silvium,pers,2
+Simmias,pers,2
+Demeas,pers,2
+De Legibus,work,2
+Decimus Junius Brutus,pers,2
+Deianeira,pers,2
+Dechas,pers,2
+Deimachus,pers,2
+Decimus Brutus,pers,2
+Sibyrtius,pers,2
+Shakespeare,pers,2
+Sibylline,work,2
+Sidon,pers,2
+Sica,pers,2
+Servius Sulpicius,pers,2
+Seuthas,pers,2
+Seven,work,2
+Sextus Julius Cæsar,pers,2
+Senatus,pers,2
+Senecio,pers,2
+Serpent,work,2
+Sertorins,pers,2
+Serapis,pers,2
+Sergius,pers,2
+Seguntum,loc,2
+"43,",scope,2
+Selinus,pers,2
+Sella Curulis,work,2
+Sempronius Gracchus,pers,2
+Senate,pers,2
+455,scope,2
+447,scope,2
+Second Book,work,2
+Second Philippic,work,2
+Scribonia,pers,2
+Sat.,work,2
+Satibarzanes,pers,2
+Satiphernes,pers,2
+Satria,pers,2
+4to,scope,2
+478,scope,2
+Camerinum,pers,2
+Camerium,loc,2
+Campagna,work,2
+Campania,work,2
+Delos,pers,2
+Caius Memmius,pers,2
+Caius Oppius,pers,2
+Delphian,work,2
+Delphians,loc,2
+Demaenetus,pers,2
+Demagoras,pers,2
+"5, 10",scope,2
+Scanderoon,loc,2
+Schæfer,pers,2
+Salvenius,pers,2
+"5, 22",scope,2
+Samon,pers,2
+Samosata,loc,2
+"5, 7",scope,2
+Sapiens,pers,2
+Sappho,pers,2
+Saguntia,loc,2
+Saguntum,loc,2
+Sais,pers,2
+Salovius,pers,2
+Salinæ,pers,2
+Salius,pers,2
+Sallust,pers,2
+Rutilius Rufus,pers,2
+Saloniki,loc,2
+517,scope,2
+519,scope,2
+508,scope,2
+Demonax,pers,2
+Demophilus,pers,2
+Demiurgi,pers,2
+Demokleides,pers,2
+Demopolis,pers,2
+Demus,pers,2
+Demokritus,pers,2
+Demoleon,pers,2
+Densus,pers,2
+Derketæus,pers,2
+Derkyllidas,pers,2
+Calvisius Sabinus,pers,2
+SONS,work,2
+STREET,scope,2
+STREET,work,2
+Sacred War,work,2
+Sadalas,pers,2
+Roscia,work,2
+Rostra,pers,2
+525,scope,2
+527,scope,2
+Riccia,work,2
+5-9,scope,2
+540,scope,2
+541,scope,2
+Caius Acilius,pers,2
+Callaicus,pers,2
+Callimachus,pers,2
+Callistus,pers,2
+Dicomes,pers,2
+Caesar Augustus,pers,2
+Caieta,pers,2
+Dictionary of,work,2
+Didymus,pers,2
+Dig.,work,2
+Dikaearchus,pers,2
+Romanus,pers,2
+Roman,pers,2
+Rhodon,pers,2
+Rome,pers,2
+56-58,scope,2
+Rhodogoune,pers,2
+Rhoeteum,loc,2
+Rhone,loc,2
+Rhus,loc,2
+Rhodian,loc,2
+Rhymnitalkes,pers,2
+"6, 17",scope,2
+"6, 26",scope,2
+"6, 28",scope,2
+Rhamnenses,pers,2
+Quæstiones,work,2
+Quæstor,work,2
+Rapax,pers,2
+Rasche,pers,2
+Quirinalis,work,2
+Quintum Fratrem,work,2
+Rein,pers,2
+Remonium,pers,2
+Ravenna,pers,2
+610,scope,2
+616,scope,2
+Quintio,pers,2
+Quintius,pers,2
+Dion Cassias,pers,2
+Dindymene,pers,2
+Dialogue,work,2
+Dionysodorus,pers,2
+Calaici,pers,2
+Dexithea,pers,2
+Diadematus,pers,2
+618,scope,2
+Quintus Metellus,pers,2
+Quirinal,work,2
+Q. Lutatius Catulus,pers,2
+Q. Metellus,pers,2
+Q,work,2
+Quadrans,work,2
+Q. Cæcilius,pers,2
+Questions,work,2
+Quinda,loc,2
+Q. Pedius,pers,2
+Pythagoreans,work,2
+Quadrata,work,2
+Pytholaus,pers,2
+Pythian Apollo,pers,2
+Pupius Piso,pers,2
+Pæania,loc,2
+649,scope,2
+Pydna,pers,2
+Dioscuri,pers,2
+Doris,loc,2
+Diphridas,pers,2
+Dipylum,loc,2
+Diophantus,pers,2
+Divorce,work,2
+Diphilides,pers,2
+Dindymus,pers,2
+Diogeiton,pers,2
+Diokleides,pers,2
+Doctrina Num.,work,2
+Pylus,loc,2
+Pyanepsion,pers,2
+Pyrenees,loc,2
+Pyrilampes,pers,2
+Pyrrha,pers,2
+Pyrrhus,loc,2
+Pylius,pers,2
+Publius Cornelius,pers,2
+Publicola,work,2
+669,scope,2
+670,scope,2
+658,scope,2
+659,scope,2
+660,scope,2
+661,scope,2
+662,scope,2
+675,scope,2
+676,scope,2
+677,scope,2
+678,scope,2
+665,scope,2
+666,scope,2
+667,scope,2
+668,scope,2
+671,scope,2
+672,scope,2
+673,scope,2
+674,scope,2
+Publius Scipio,pers,2
+Caius Flaminius,pers,2
+CLOWES,pers,2
+C. Gracchus,pers,2
+Don,work,2
+Prætor Urbanus,pers,2
+Prætors,work,2
+Prætorship,work,2
+Ptolemais,pers,2
+Psammon,pers,2
+Psenophis,pers,2
+Psiltukis,pers,2
+Psyche,pers,2
+Ptoiodorus,pers,2
+Proteus,pers,2
+Prothous,pers,2
+Prothytes,pers,2
+Protis,pers,2
+Protogenes,pers,2
+Ptolemäis,pers,2
+Providence,pers,2
+Province,work,2
+Proxenus,pers,2
+Protector,pers,2
+Præsiæ,pers,2
+Prytaneum,work,2
+Præfect,work,2
+Præfectus,work,2
+Prometheus,work,2
+Proculeius,pers,2
+697,scope,2
+698,scope,2
+699,scope,2
+686,scope,2
+687,scope,2
+688,scope,2
+689,scope,2
+690,scope,2
+Drakontides,pers,2
+Dyme,loc,2
+Duellona,pers,2
+Dunmore,pers,2
+Caius Aurelius,pers,2
+Dokimus,pers,2
+Doliola,pers,2
+693,scope,2
+695,scope,2
+696,scope,2
+653,scope,2
+654,scope,2
+655,scope,2
+656,scope,2
+657,scope,2
+7,work,2
+Prolyta,pers,2
+Promachus,pers,2
+663,scope,2
+664,scope,2
+650,scope,2
+651,scope,2
+652,scope,2
+Prokroustes,pers,2
+Dyrrachium,pers,2
+Dædalus,pers,2
+Dæmon,pers,2
+Dymæ,loc,2
+Eburones,work,2
+Ecbatana,loc,2
+Echedemia,pers,2
+Eclogue,work,2
+Priscus,work,2
+Priéne,loc,2
+Priapus,loc,2
+Potamon,pers,2
+Postuma,pers,2
+Potidæa,loc,2
+Potidæa,pers,2
+Potitus,pers,2
+Pozzuoli,pers,2
+Pranichus,pers,2
+Preface,work,2
+Potidaea,pers,2
+Populus,pers,2
+Porto Santo,loc,2
+Porcii_,work,2
+Pontic,work,2
+"7, 8",scope,2
+Pompædius Sillo,pers,2
+Pontes,work,2
+Pontic,loc,2
+"70,000",scope,2
+70-72,scope,2
+Cadmea,work,2
+Egyptians,pers,2
+Eilakes,pers,2
+Eion,loc,2
+Bœotarch,loc,2
+Byzantine,work,2
+Eiresione,pers,2
+Ekbatana,loc,2
+Ekbatana,pers,2
+Ekdemus,pers,2
+Eknomon,pers,2
+704,scope,2
+705,scope,2
+707,scope,2
+681,scope,2
+682,scope,2
+683,scope,2
+684,scope,2
+685,scope,2
+701,scope,2
+702,scope,2
+703,scope,2
+Pontifices,pers,2
+691,scope,2
+692,scope,2
+679,scope,2
+680,scope,2
+Popilius Lænas,pers,2
+C. Piso,pers,2
+Pometia,pers,2
+Pomponii,work,2
+Pompeius.,pers,2
+Polyalkes,pers,2
+Pompo,pers,2
+726,scope,2
+727,scope,2
+714,scope,2
+715,scope,2
+716,scope,2
+717,scope,2
+718,scope,2
+719,scope,2
+731,scope,2
+732,scope,2
+720,scope,2
+721,scope,2
+722,scope,2
+723,scope,2
+725,scope,2
+728,scope,2
+729,scope,2
+730,scope,2
+Polygnotus,loc,2
+Polytion,pers,2
+Polyænus,pers,2
+Polykrite,pers,2
+Polymedes,pers,2
+Pleistinus,pers,2
+Plemmyrium,loc,2
+Plotinus,pers,2
+Polyperchon,pers,2
+Pollichus,pers,2
+Poliarchus,pers,2
+742,scope,2
+743,scope,2
+744,scope,2
+745,scope,2
+Plancus Bursa,pers,2
+Empiricus,pers,2
+Empylus,pers,2
+Enarsphorus,pers,2
+Elymæi,work,2
+Engyion,loc,2
+Empedokles,pers,2
+Eperatus,pers,2
+Endymion,pers,2
+Elatus,pers,2
+Elders,pers,2
+Elders,work,2
+Elea,loc,2
+749,scope,2
+750,scope,2
+751,scope,2
+752,scope,2
+753,scope,2
+740,scope,2
+741,scope,2
+713,scope,2
+754,scope,2
+755,scope,2
+758,scope,2
+759,scope,2
+748,scope,2
+Plancio,work,2
+708,scope,2
+709,scope,2
+710,scope,2
+711,scope,2
+712,scope,2
+Plataea,pers,2
+Platæans,pers,2
+Epilykus,pers,2
+Epidamnus,loc,2
+Ephors,loc,2
+Ephors,pers,2
+Epigonus,pers,2
+Epikles,pers,2
+Epikydes,pers,2
+Epikydides,pers,2
+Pinus,pers,2
+Pisa,loc,2
+Pisis,pers,2
+Phænarete,pers,2
+Pitane,pers,2
+Pittakus,pers,2
+Picenum,pers,2
+Pierion,pers,2
+Pigres,pers,2
+Pinarii,pers,2
+Phrixus,pers,2
+Phrygia,pers,2
+Phyle,loc,2
+Phyle,pers,2
+Phyllius,pers,2
+Phrygians,work,2
+Phrynis,pers,2
+Phthia,loc,2
+Phædimus,pers,2
+Phylakion,pers,2
+Phokaeans,work,2
+Physkon,pers,2
+Epirus,pers,2
+Epitimus,pers,2
+Epixyes,pers,2
+Ephemeris,pers,2
+Ephesus,pers,2
+Eques,work,2
+Bætica,pers,2
+Bætis,loc,2
+Bætis,work,2
+Bœdromion,pers,2
+"8, 17",scope,2
+"8, 11, 15",scope,2
+736,scope,2
+737,scope,2
+738,scope,2
+739,scope,2
+"8, 15",scope,2
+746,scope,2
+747,scope,2
+733,scope,2
+734,scope,2
+Phrasikles,pers,2
+"Phokis,",work,2
+Phokæa,loc,2
+Phokæa,pers,2
+Phokæans,work,2
+Eresus,pers,2
+Eretrieus,pers,2
+Eubœans,loc,2
+Ergoteles,pers,2
+Erianthus,pers,2
+Eridanus,pers,2
+Eridanus,work,2
+Erigyius,pers,2
+Epipolæ,pers,2
+Epirot,pers,2
+Epirot,work,2
+Phlius,loc,2
+Philostephanus,pers,2
+Phraata,loc,2
+Phraata,work,2
+Phlogius,pers,2
+Phoebidas,pers,2
+Phoebis,pers,2
+Philombrotus,pers,2
+Philoneikus,pers,2
+Philonicus,pers,2
+Philocrates,pers,2
+Philokrates,pers,2
+Philoktetes,pers,2
+Philarus,pers,2
+Philathenæus,pers,2
+Pherendates,pers,2
+Pheristus,pers,2
+Pheræ,loc,2
+"8, 25",scope,2
+7th,scope,2
+Burgundy,loc,2
+Burmann,pers,2
+Busiris,pers,2
+Butler,pers,2
+Etruscans,loc,2
+Brettius,pers,2
+Eudamus,pers,2
+Eudoxus,pers,2
+Philaeus,pers,2
+Philagrus,pers,2
+Philetas,pers,2
+Philinna,pers,2
+Philip II.,pers,2
+Pharyges,pers,2
+Pharnapates,pers,2
+Philip III,pers,2
+85 and 84,scope,2
+"8, 21",scope,2
+"9, 10,",scope,2
+"9, 13",scope,2
+"9, 15, 16",scope,2
+"8, 65",scope,2
+"8, 20",scope,2
+Phereboea,pers,2
+Pherekles,pers,2
+Phereklus,pers,2
+Petrachus,pers,2
+Petro,pers,2
+Phaedra,pers,2
+Phalerean,work,2
+Persians,loc,2
+Phanippus,pers,2
+900,scope,2
+A.D,work,2
+A.D.,work,2
+9th,scope,2
+Euktus,pers,2
+Eulæus,pers,2
+Bottiæans,pers,2
+Euphorion,pers,2
+Euphranor,pers,2
+Eumolpus,pers,2
+Eupator,pers,2
+Essence,pers,2
+Bubulci,pers,2
+Bulimia,pers,2
+Etymokles,pers,2
+Persis,pers,2
+Petinus,pers,2
+Petra,loc,2
+Persians,pers,2
+Periboea,pers,2
+Perigoune,pers,2
+Perikleides,pers,2
+Perinthus,loc,2
+Petilius,pers,2
+Aboeokritus,pers,2
+Pergamus,loc,2
+Abrotonon,pers,2
+"9, 26",scope,2
+Abydos,pers,2
+Perinthus,pers,2
+Periphemus,pers,2
+Periphetes,pers,2
+Peripoltas,pers,2
+Peritas,pers,2
+Eurysthenes,pers,2
+Eurytus,pers,2
+Eurykleides,pers,2
+Eur.,pers,2
+Eurotas,pers,2
+Euius,pers,2
+Brixellum,pers,2
+Penelope,pers,2
+Peneus,work,2
+Peninsula,work,2
+Penny Cyclopædia,work,2
+Penteleum,pers,2
+Peiræus,work,2
+Peparethos,pers,2
+Peparethus,pers,2
+Pelopidæ,work,2
+Pelagon,work,2
+Pelasgi,work,2
+Pelasgus,pers,2
+Pelias,pers,2
+Pausanius,pers,2
+Patronis,pers,2
+Patræ,pers,2
+Pauli,work,2
+Peloponnesians,pers,2
+Acharnians,pers,2
+Achilles',pers,2
+Achæan,loc,2
+Boukephalia,pers,2
+Eutyches,pers,2
+Euxine,loc,2
+Evagoras,pers,2
+Boeotia,work,2
+Fabii,pers,2
+Evangelus,pers,2
+Evanthes,pers,2
+Euphrates,pers,2
+Euphronius,pers,2
+Eupolemus,pers,2
+Exathres,pers,2
+Exposure,work,2
+Paulus Æmilius,pers,2
+Pedia,pers,2
+Pasiphæ,pers,2
+Pegæ,pers,2
+Patavium,pers,2
+Pasiphon,pers,2
+Acropolis,work,2
+Act,work,2
+Actio,work,2
+Pataikos,pers,2
+Achaia,pers,2
+Patrokles,pers,2
+Pater,pers,2
+Pariskas,pers,2
+Parium,loc,2
+Parma,loc,2
+Parmenides,pers,2
+Patrae,loc,2
+Patricians,pers,2
+Parrhasius,pers,2
+Paris,pers,2
+Part II,scope,2
+Parthenon,loc,2
+Parthenon,pers,2
+Panopeus,pers,2
+Falerii,loc,2
+Fabri,pers,2
+Bosphorus,work,2
+Panthoides,pers,2
+Parallel Lives,work,2
+Paphos,pers,2
+Pallantium,loc,2
+Pallene,pers,2
+Parali,work,2
+Adiabeni,pers,2
+Adiabeni,work,2
+Panaitios,pers,2
+Palladium,work,2
+Adranus,pers,2
+Adramyttium,loc,2
+Aciris,pers,2
+Aconite,pers,2
+Adranum,loc,2
+Adranum,pers,2
+Panathenaic,work,2
+Pandion,pers,2
+Pandosia,pers,2
+Pammenes,pers,2
+Pamphilus,pers,2
+Pannonians,pers,2
+Panope,loc,2
+February,work,2
+Faustus Sulla,pers,2
+Fabius Ambustus,pers,2
+Fabius Pictor,pers,2
+PLUTARCH'S LIVES,pers,2
+Pachynus,loc,2
+Pangæus,pers,2
+Pannonia,loc,2
+Paidaretus,pers,2
+Padua,work,2
+Palace,work,2
+Paestum,loc,2
+P. Licinius,pers,2
+Oxus,loc,2
+P. Clodius,pers,2
+Oryssus,pers,2
+PLUTARCH'S,pers,2
+Aelius Tubero,pers,2
+Orthagoras,pers,2
+Orthias,pers,2
+Orthopagus,work,2
+Aesop,pers,2
+Aegle,pers,2
+Adige,work,2
+Ad.,work,2
+Ada,pers,2
+Osca,pers,2
+Osiris,pers,2
+Ovatio,work,2
+Otacilius,pers,2
+Ornis,pers,2
+Ornytus,pers,2
+Oroandes,pers,2
+Orexartes,pers,2
+Orfidius,pers,2
+Orontes,pers,2
+Oropus,pers,2
+Orpheus,pers,2
+Orsodates,pers,2
+Age,work,2
+Agesias,pers,2
+Or,pers,2
+Agraulai,pers,2
+Agias,pers,2
+Agis II.,pers,2
+Bona Dea,pers,2
+Boeotian,work,2
+Bilecha,work,2
+Biog.,work,2
+Five,work,2
+Flamen,work,2
+Field of Mars,work,2
+First,work,2
+Aeakus,pers,2
+Orat,work,2
+Orat.,work,2
+Oracle,work,2
+Olympian,pers,2
+Aix,pers,2
+Agariste,pers,2
+Agathoklea,pers,2
+Olynthus,pers,2
+Omphale,work,2
+Onatius,pers,2
+Formianum,loc,2
+Fortune,work,2
+Forum Romanum,work,2
+Fidentia,pers,2
+Fides,pers,2
+Bola,pers,2
+Boedromion,loc,2
+Boedromion,pers,2
+Boeorix,pers,2
+Oenopion,pers,2
+Olbius,pers,2
+Olizon,pers,2
+Oarses,pers,2
+October,scope,2
+Numantia,pers,2
+Numantines,pers,2
+Akte,loc,2
+Akestodorus,pers,2
+Akontium,loc,2
+Agrionius,pers,2
+Numidian,loc,2
+Agraulæ,pers,2
+Agricola,work,2
+Nones,work,2
+Nonnius,pers,2
+Nora,loc,2
+Novum Comum,loc,2
+North,pers,2
+Numa Pompilius,pers,2
+Notes,scope,2
+Notes,work,2
+Nothus,pers,2
+Nova,loc,2
+Novum Comum,work,2
+Frag.,work,2
+Fulcinia,pers,2
+Fonteius,pers,2
+Fonteius Capito,pers,2
+Alexandria,pers,2
+Nikon,pers,2
+Nisibin,pers,2
+Nisibis,loc,2
+Nervii,work,2
+New,loc,2
+Neptune,pers,2
+Nikarchus,pers,2
+Nicostrate,pers,2
+Naupaktus,loc,2
+Nauplia,loc,2
+Nausikrates,pers,2
+Navarre,loc,2
+Allobrogicus,pers,2
+Albanians,loc,2
+Allia,work,2
+Nektanebis,loc,2
+Neleus,pers,2
+Nemea,pers,2
+Neander,pers,2
+Nemetocenna,loc,2
+Neochorus,pers,2
+Neodamodes,pers,2
+Neon,loc,2
+Narbo,loc,2
+Napoleon,pers,2
+Narthakius,pers,2
+Narbonensis,loc,2
+Myriandrus,pers,2
+Alsæa,pers,2
+Biton,pers,2
+Black Sea,work,2
+Birds,work,2
+Birkenna,loc,2
+Bellerophon,pers,2
+Bellinus,pers,2
+Bellona,loc,2
+Bithys,pers,2
+Furius Camillus,pers,2
+Alexippus,pers,2
+Amazoneum,work,2
+Amazonia,loc,2
+Alkimenes,pers,2
+Alexandristes,pers,2
+Alexikrates,pers,2
+Mytilene,loc,2
+Mædi,pers,2
+Mysteries,work,2
+Muses,work,2
+Mycenæi,loc,2
+Mykale,loc,2
+Musæus,pers,2
+Mother,work,2
+Amnæus,pers,2
+Amida,pers,2
+Ammianus,pers,2
+Alopekæ,pers,2
+Alphenus Varus,pers,2
+Mucianus,pers,2
+Mounychus,pers,2
+Galate,loc,2
+Gallia,pers,2
+Bithynian,loc,2
+Monarchy,work,2
+Mucianus Dives,pers,2
+Mucianus Dives,work,2
+Monte Circello,work,2
+Molus,pers,2
+Moon,pers,2
+Mitra,pers,2
+Mosa,work,2
+Mnesikles,pers,2
+Mnesiphilus,pers,2
+Mnesitheus,pers,2
+Mithropaustes,pers,2
+Molossians,work,2
+Molossus,pers,2
+Molpadia,pers,2
+Mnestra,pers,2
+Moesia,loc,2
+Moesia,pers,2
+Amphissa,pers,2
+Amphitheus,pers,2
+Anakes,pers,2
+Amyot,pers,2
+Anab,work,2
+Ambrakia,loc,2
+Ambrakia,pers,2
+Misenum,pers,2
+Mithra,pers,2
+Milesiaca,pers,2
+Anaxandrides,pers,2
+Anaxenor,pers,2
+Middle,work,2
+Gargettus,loc,2
+Geranea,pers,2
+Gergithus,pers,2
+Gerlach,pers,2
+"Gaul,",work,2
+Ganges,work,2
+Gelanor,pers,2
+Geleontes,pers,2
+Gaza,loc,2
+Gedrosia,loc,2
+Gades,pers,2
+Gaeta,loc,2
+Gaeta,work,2
+Gela,loc,2
+Ancona,loc,2
+Ancus,pers,2
+Ancus Marcius,pers,2
+Ancharia,pers,2
+Ancharius,pers,2
+Amphitrope,pers,2
+Amphitryon,pers,2
+Amphiktyonic,work,2
+Miliarium Aureum,work,2
+Milesians,loc,2
+Mimallones,pers,2
+Mimnermus,pers,2
+Mimus,pers,2
+Metellus Celer,pers,2
+Metagenes,pers,2
+Metellus Scipio,pers,2
+Andron,pers,2
+Andronikus,pers,2
+Merope,pers,2
+Menoetius,pers,2
+Anienus,pers,2
+Annal,work,2
+Annalius,pers,2
+Berenice,pers,2
+Berlin,loc,2
+Beluris,pers,2
+Bathykles,pers,2
+Baton,pers,2
+Geneva,loc,2
+Batakes,pers,2
+Gerandas,pers,2
+Anapus,loc,2
+Annibal,pers,2
+Anaxidamus,pers,2
+Analius,pers,2
+Mestrius Florus,pers,2
+Mesopotamia,work,2
+Messala Corvinus,pers,2
+Messalina,pers,2
+Mende,pers,2
+Melos,pers,2
+Memnon,pers,2
+Messene,pers,2
+Menemachus,pers,2
+Memphis,pers,2
+Mende,loc,2
+Megellus,pers,2
+Menenius,pers,2
+Menexenus,pers,2
+Meninx,pers,2
+Antemnæ,loc,2
+Antemnæ,pers,2
+Antenor,pers,2
+Anthedon,pers,2
+Glaber,work,2
+Geræstus,pers,2
+Glaukippus,pers,2
+Gelæ,pers,2
+Glykon,pers,2
+Bema,pers,2
+Angelus,pers,2
+Androkydes,pers,2
+Meleager,pers,2
+Melikerta,pers,2
+Melanopus,pers,2
+Melantas,pers,2
+Medea,work,2
+Melite,loc,2
+Antiorus,pers,2
+May,scope,2
+Antagoras,pers,2
+Antiphates,pers,2
+Megabazus,pers,2
+Medes,loc,2
+Medes,work,2
+Megaleas,pers,2
+Megalophanes,pers,2
+Medise,pers,2
+Martialis,pers,2
+Martianus,pers,2
+Martigues,pers,2
+Greek,loc,2
+Greeks,pers,2
+Goats',work,2
+Gobryas,pers,2
+Gordius,pers,2
+Golden,work,2
+Gonatas,work,2
+Getæ,work,2
+Gordyeni,pers,2
+Gordyeni,work,2
+Gorgo,pers,2
+Gorgoleon,pers,2
+Masius,pers,2
+Martha,pers,2
+Massinissa,pers,2
+Margiana,pers,2
+Antoninus,pers,2
+Antikleides,pers,2
+Antikyra,loc,2
+Antikyra,pers,2
+Marikas,pers,2
+Antigonis,pers,2
+Marocco,loc,2
+Marrucini,pers,2
+Marica,pers,2
+Marcus Cato,pers,2
+Marcus Claudius,pers,2
+Marcus Lucullus,pers,2
+Marcus Otho,pers,2
+Marathus,pers,2
+Aphrodité,pers,2
+Apellikon,pers,2
+Apennines,work,2
+Belbina,loc,2
+Battle,work,2
+Battus,pers,2
+Bekker,pers,2
+Balinus,pers,2
+Balissus,pers,2
+Bambyke,pers,2
+Belgæ,pers,2
+Bardanes,pers,2
+March,scope,2
+Antonias,pers,2
+Antonii,pers,2
+Marcus Aurelius,pers,2
+Marcii,pers,2
+Marcius Rex,pers,2
+Mania,pers,2
+Marcus Antoninus,pers,2
+Manthes,pers,2
+Mantineans,pers,2
+Apparel,work,2
+Magnetes,pers,2
+April,scope,2
+Apsephion,pers,2
+Apollothemis,pers,2
+Apameia,loc,2
+Appuleius,pers,2
+April,pers,2
+Makaria,pers,2
+Malchus,pers,2
+Malea,pers,2
+Maia,pers,2
+M. Tullii,pers,2
+Malkitus,pers,2
+Grove,work,2
+Grypus,pers,2
+Gylon,pers,2
+Gymnasium,work,2
+Gymnopædia,work,2
+Gymnosophists,work,2
+Bay,work,2
+Granikus,loc,2
+Gorgus,pers,2
+Machares,pers,2
+Macrinus,pers,2
+Macedonia,pers,2
+M. Licinius Crassus,pers,2
+Magaeus,pers,2
+Magister,work,2
+Machairones,pers,2
+Aquillius,pers,2
+Aquæ,work,2
+Aquæ Sextiæ,pers,2
+Aquæ Sextiæ,work,2
+Apollophanes,pers,2
+Arabian,work,2
+Arabs,work,2
+Arachosia,loc,2
+Lysias,pers,2
+Lysikles,pers,2
+Apollonias,pers,2
+M. Junius Brutus,pers,2
+Lycæum,work,2
+Lydia,pers,2
+Bacchiadæ,pers,2
+Bassus,pers,2
+Hadrianus,pers,2
+Bacillus,pers,2
+Halonesus,pers,2
+Hagnothemis,pers,2
+Halimus,pers,2
+Halkyoneus,pers,2
+Lygdamis,pers,2
+Lycia,pers,2
+Lykurgus',pers,2
+Lykus,work,2
+Lykæa,work,2
+Lykius,pers,2
+Lusitani,pers,2
+Luculli,pers,2
+Archedamus,pers,2
+Arbakes,pers,2
+Arcadian,pers,2
+Apulia,work,2
+Apsus,pers,2
+Lyceum,work,2
+Lusius,pers,2
+Lucius Cornelius Sulla,pers,2
+Lucius Manlius,pers,2
+Lucius Cornelius,pers,2
+Lucius Philippus,pers,2
+Lucius Quintius,pers,2
+Lucius Furius,pers,2
+Lucius Mummius,pers,2
+Love,pers,2
+Harbour,work,2
+Harmodius,pers,2
+Barbius,pers,2
+H.N.,work,2
+Bardyllis,pers,2
+Basilica,pers,2
+Basilica Porcia,work,2
+Bar,loc,2
+Archon Eponymus,pers,2
+Archilochi,pers,2
+Lokrians,loc,2
+Ardea,loc,2
+Ardettus,pers,2
+Archippus,pers,2
+Araxes,pers,2
+Aragon,loc,2
+Arakus,pers,2
+Aras,work,2
+Lollius,pers,2
+London Geog.,work,2
+Long,work,2
+Long Walls,work,2
+Longinus,pers,2
+Lokrians,work,2
+Likymnius,pers,2
+Lissus,pers,2
+Little,work,2
+Lingones,work,2
+Lion's Head,work,2
+Argileonis,pers,2
+Libya,pers,2
+Libyans,loc,2
+Argive,work,2
+Argo,pers,2
+Hekale,pers,2
+Hedylium,loc,2
+Hekatompedon,loc,2
+Hekuba,pers,2
+Hegesistratus,pers,2
+Halæae,pers,2
+Halæ,pers,2
+Lichas,pers,2
+Archippe,pers,2
+Archibiades,pers,2
+Archibius,pers,2
+Licinius Lucullus,pers,2
+Leuktridæ,pers,2
+Licinius Stolo,pers,2
+Aristagoras,pers,2
+Aristeides',pers,2
+Aristides,pers,2
+Ariomandes,pers,2
+Arethusa,loc,2
+Aretæus,pers,2
+Aristodikus,pers,2
+Aristokleitus,pers,2
+Lex Cassia,work,2
+Lex Julia,work,2
+Arginusæ,loc,2
+Lib.,work,2
+Libera,work,2
+Letters,work,2
+Leucaria,pers,2
+Lerna,loc,2
+Leukas,loc,2
+Less,work,2
+Leto,pers,2
+Leukon,pers,2
+Leukonoe,pers,2
+Leukothea,pers,2
+Lentuli,pers,2
+Lentuli,work,2
+Heliopolis,loc,2
+Helius,pers,2
+Hellas,loc,2
+Hellas,pers,2
+Helots,pers,2
+Helots,work,2
+Helvia,pers,2
+Helvidius,pers,2
+Helvius Cinna,pers,2
+Hemathion,pers,2
+Hegesipyle,pers,2
+Henioche,pers,2
+Lepida,pers,2
+Leontines,pers,2
+Leobotes,pers,2
+Leochares,pers,2
+Lavinia,pers,2
+Lavinium,loc,2
+Leos,pers,2
+Arkissus,pers,2
+Arles,loc,2
+Lecanius,pers,2
+Laverna,pers,2
+Arnakes,pers,2
+Arpates,pers,2
+Balearicus,pers,2
+Bactria,loc,2
+B.C. 79,scope,2
+Balbus,work,2
+Heraklea,loc,2
+Herakleidæ,pers,2
+Herakleidæ,work,2
+Hercynian,pers,2
+Herald,work,2
+Aricia,pers,2
+Armenians,loc,2
+Legatus,pers,2
+Lechæum,loc,2
+Arsacidæ,work,2
+Aristonous,pers,2
+Arta,loc,2
+Arsanias,pers,2
+Arsanias,work,2
+Laurentum,pers,2
+Aristus,pers,2
+Laurium,loc,2
+Lauron,loc,2
+Latona,pers,2
+Lakratides,pers,2
+Lakritus,pers,2
+Lamprias,pers,2
+Lamptra,loc,2
+Lampito,pers,2
+Lampra,loc,2
+Arthmias,pers,2
+Lacedæmonian,pers,2
+Ascanius,pers,2
+Aruveni,pers,2
+B.C. 57,work,2
+Hermæus,pers,2
+Hero,pers,2
+Herodianus,pers,2
+Hera,loc,2
+Herophytus,pers,2
+Herostratus,pers,2
+Heræum,loc,2
+Bacchæ,work,2
+Hephæus,pers,2
+Arsakidæ,pers,2
+Arras,pers,2
+Arymbas,pers,2
+Laconian,pers,2
+Lacedæmonium,loc,2
+Lacedæmonius,pers,2
+Laertes,pers,2
+Lais,pers,2
+Lake,loc,2
+LIMITED,scope,2
+LIVES,work,2
+Lacedaemonian,loc,2
+Lacedaemonians,loc,2
+Lacedaemonians,work,2
+Asopia,loc,2
+L. Cassius Longinus,pers,2
+Artemisia,pers,2
+Aspetus,pers,2
+L. Cassius,pers,2
+L. Licinius Lucullus,pers,2
+L. Cornelius Cinna,pers,2
+Kybisthus,pers,2
+Kydnus,work,2
+Kyknus,pers,2
+Hiempsal,loc,2
+Hermus,pers,2
+Hermae,work,2
+Herminius,pers,2
+Hermione,loc,2
+Hills,work,2
+Himeræus,pers,2
+B.C. 85,scope,2
+Hermotimus,pers,2
+B.C. 99,scope,2
+B.C. 99,work,2
+B.C. 88,scope,2
+B.C. 90,scope,2
+B.C. 91,scope,2
+Kyme,loc,2
+Kynosarges,loc,2
+Kyrnus,pers,2
+Kynoskephalæ,loc,2
+Kroton,loc,2
+Kroton,pers,2
+Krenides,pers,2
+Kreophylus,pers,2
+Krito,pers,2
+Kritolaidas,pers,2
+Asylus,pers,2
+Asterie,pers,2
+Asteropus,pers,2
+Hippomachus,pers,2
+B.C. 431,scope,2
+Hispalis,pers,2
+Hispania,pers,2
+Hispaniens,loc,2
+Hesychia,pers,2
+Hexapylon,pers,2
+Astypalaea,loc,2
+Astyphilus,pers,2
+Asinaria,pers,2
+Asinarus,pers,2
+Ktesibius,pers,2
+Ktesippus,pers,2
+Kritolaus,pers,2
+Krommyon,loc,2
+Krommyon,pers,2
+Kronion,pers,2
+Kurbeis,pers,2
+Kyanean,work,2
+Krypteia,work,2
+Korkyra,pers,2
+Koroebus,pers,2
+Koronea,pers,2
+Korrhabus,pers,2
+Korynetes,pers,2
+Krates,pers,2
+Kratesipolis,pers,2
+Kotys,pers,2
+Krannon,loc,2
+Knights,work,2
+Kodrus,pers,2
+Hippodameia,pers,2
+Hippokles,pers,2
+Horat.,pers,2
+B.C. 72,scope,2
+B.C. 73,scope,2
+B.C. 75,scope,2
+B.C. 67,scope,2
+Konnidas,pers,2
+Kolias,pers,2
+Kleopater,pers,2
+Kleobis,pers,2
+Kleomantes,pers,2
+Konopion,pers,2
+Kopais,work,2
+Atillius,pers,2
+Atlantic,work,2
+Athenophanes,pers,2
+Athens.,loc,2
+Atlantis,pers,2
+Atia,pers,2
+Assyria,loc,2
+Astenius,pers,2
+Kleora,pers,2
+Klymene,pers,2
+Knight,pers,2
+Kleophanes,pers,2
+Kleoptolemus,pers,2
+Klazomenae,pers,2
+Kissus,pers,2
+Kithæron,pers,2
+Klazomenæ,pers,2
+Kleaenetus,pers,2
+Attia,pers,2
+Attic,pers,2
+Attic,work,2
+"Kimon,",pers,2
+Keressus,pers,2
+Huesca,pers,2
+Hyacinthus,pers,2
+Hybla,pers,2
+Hybreas,pers,2
+Hydaspes,pers,2
+Hydaspes,work,2
+Hykkara,loc,2
+Hyllus,pers,2
+Hoplacus,pers,2
+Attis,pers,2
+Killes,pers,2
+Kirrha,loc,2
+King Numa,pers,2
+Kilikia,pers,2
+Kekrops,pers,2
+King Philip,pers,2
+King Philippus,pers,2
+Kephisus,loc,2
+Kent,loc,2
+Kephalon,pers,2
+Kephalus,pers,2
+Kephisodotus,pers,2
+Kerasunt,pers,2
+Kephissus,loc,2
+Kaphyæ,loc,2
+Autochthones,pers,2
+Aulis,pers,2
+Aulus Postumius Albinus,pers,2
+Hyrkani,work,2
+Hyrkanian,loc,2
+Hyperbates,pers,2
+Hystaspes,pers,2
+Hypsion,pers,2
+Hyrkanian,work,2
+Horse,work,2
+Hortalus,pers,2
+Hostilia,work,2
+Autoleon,pers,2
+Aurelius Victor,pers,2
+Kassandrea,pers,2
+Karmania,loc,2
+Karyatides,pers,2
+Kassandra,pers,2
+Kalliphon,pers,2
+Kalliades,pers,2
+Kallidromus,pers,2
+Kanethus,pers,2
+Juno Moneta,pers,2
+Junonia,pers,2
+B.C. 106,scope,2
+Aulis,loc,2
+Jupiter Capitolinus,pers,2
+August,work,2
+Julia,work,2
+Kadmus,pers,2
+Kalends,work,2
+B.C. 124,scope,2
+B.C. 134,scope,2
+B.C. 146,scope,2
+Avillius,pers,2
+Axiochus,pers,2
+B.C. 202,scope,2
+B,scope,2
+Aventine,pers,2
+Jun.,pers,2
+June,scope,2
+B.C. 56,work,2
+B.C. 35,scope,2
+B.C. 30,scope,2
+B.C. 34,scope,2
+Iberi,pers,2
+Iampsas,pers,2
+Junii,work,2
+Junii_,work,2
+Junia,pers,2
+Jubius,pers,2
+Josephus,pers,2
+Jove,pers,2
+Jugurtha,loc,2
+Italia,pers,2
+Ithome,loc,2
+Iulus,pers,2
+Isias,pers,2
+Island,work,2
+Isaeus,pers,2
+Ismenius,pers,2
+Isomantus,pers,2
+Iolas,pers,2
+Issus,pers,2
+Iope,pers,2
+B.C. 357,scope,2
+B.C. 36,scope,2
+B.C. 37,scope,2
+B.C. 39,scope,2
+B.C. 133,scope,2
+B.C. 117,scope,2
+B.C. 119,scope,2
+Iou,work,2
+Ionian,pers,2
+Ichnæ,pers,2
+Ida,work,2
+Ibykus,pers,2
+Idrilus,pers,2
+Idæus,pers,2
+Iktinus,pers,2
+II.,scope,2
+II.,work,2
+Iliad_,work,2
+B.C. 45,work,2
+I.T.,work,2
+II,scope,2
+Illyrians,work,2
+Ipsus,loc,2
+Iophon,pers,2
+Ios,pers,2
+Illyria,loc,2
+Imbros,loc,2
+Inora,pers,2
+Insteius,pers,2
+Æsion,pers,2
+xxiii.,scope,2
+xxiv.,scope,2
+Ælius,pers,2
+Ætolia,pers,2
+Ætolians,pers,2
+.,loc,2
+xvii.,scope,2
+", iv.",scope,2
+Ænaria,pers,2
+Æolis,loc,2
+Ælian,pers,2
+Ægospotami,loc,2
+Ænaria,loc,2
+&c.,scope,2
+',work,2
+Cermanus,pers,1
+&c. i. p. 248.,scope,1
+(37,scope,1
+(_Octav.,scope,1
+(xliv,scope,1
+Æmilii,pers,1
+Æmilii,work,1
+Æmilius Paulus--Acilius,pers,1
+Æmilius Scaurus,pers,1
+Æn.,pers,1
+Ægospotami,pers,1
+Ægyptiaca,work,1
+Æolia,loc,1
+Ægium,pers,1
+", 9, 10",scope,1
+", 9, 16",scope,1
+", c. 22",scope,1
+", ii",scope,1
+", ii.",scope,1
+", 4, 17",scope,1
+", 4-7",scope,1
+", 40",scope,1
+", 41",scope,1
+", 45, c. 18.",scope,1
+", 5",scope,1
+. 117,date,1
+. 118,scope,1
+. 120,scope,1
+. 138,scope,1
+. 148,date,1
+. 159,date,1
+Charillus,pers,1
+Chance,pers,1
+Chaonians,loc,1
+x. 32,scope,1
+x. 33,scope,1
+x. 34,scope,1
+Ædui,pers,1
+"Ædui,",pers,1
+Cevenna,work,1
+Chelidonian,loc,1
+Chelidonian,work,1
+Chelidoniæ,work,1
+Chersonese,pers,1
+Charmidas,pers,1
+Chartres,pers,1
+Charidenus,pers,1
+", 29",scope,1
+", 3",scope,1
+", 3,",scope,1
+Chaldæan,work,1
+Chaldæans,loc,1
+Ceressus,pers,1
+"Ælii,",pers,1
+Certa,work,1
+xenios,pers,1
+x. 15,scope,1
+x. 22,scope,1
+x. 3,scope,1
+", 56",scope,1
+", 6",scope,1
+", 23",scope,1
+", 25",scope,1
+Ida,pers,1
+Ides of March,work,1
+Iberians,work,1
+Ibiça,loc,1
+Infamis,pers,1
+Ioxids,pers,1
+Iphicrates,pers,1
+Iphigenia,loc,1
+Ilicium,pers,1
+Ilicium,work,1
+Ilicius,pers,1
+Ilium,pers,1
+Idrieus,pers,1
+Ignominia,pers,1
+Ichniæ,pers,1
+Ichnæ,loc,1
+Ios,loc,1
+B.C. 509,scope,1
+B.C. 46,work,1
+Iambics,pers,1
+Iamblichus,pers,1
+II,work,1
+INDEX,pers,1
+Ilians,work,1
+Ilium,work,1
+Illyrian,loc,1
+Illyrian,pers,1
+Illyrian,work,1
+Illyrians,pers,1
+Iphtha,pers,1
+Ipsus,pers,1
+Irby,pers,1
+Ionians,loc,1
+Intelligence,work,1
+Interdict,work,1
+Interreges,work,1
+Interrex,work,1
+Inventione,work,1
+Iolkos,loc,1
+Issorium,work,1
+B.C. 36,work,1
+B.C. 365,scope,1
+B.C. 366,scope,1
+B.C. 315,scope,1
+B.C. 321,scope,1
+B.C. 33,scope,1
+B.C. 333,scope,1
+B.C. 338,work,1
+"B.C. 121, iv",scope,1
+B.C. 368,scope,1
+B.C. 38,work,1
+B.C. 40,work,1
+B.C. 401,scope,1
+B.C. 354,scope,1
+B.C. 356,scope,1
+B.C. 358,scope,1
+Iolkus,pers,1
+Ionian,work,1
+B.C. 133,date,1
+B.C. 113,work,1
+B.C. 114,scope,1
+B.C. 115,scope,1
+B.C. 120,scope,1
+B.C. 121,work,1
+Ixion,pers,1
+J. Domitius,pers,1
+J. Hobhouse,pers,1
+J.C. Orelli,pers,1
+Ithagenes,pers,1
+Ithamitres,pers,1
+Ithome,pers,1
+Ithomé,loc,1
+James I.,scope,1
+Janiculum,work,1
+Janiculus,work,1
+Januarius,pers,1
+January,work,1
+Iulis,loc,1
+Iulis,pers,1
+Iulus Antonius,pers,1
+Island,loc,1
+Isles,work,1
+Iris,work,1
+Ischia,loc,1
+Ischia,pers,1
+Isidas,pers,1
+J.H. Elliott,pers,1
+Jakhjakhah,work,1
+Ister,work,1
+Isthmian,work,1
+Isthmus,loc,1
+Istor,pers,1
+Ismenus,pers,1
+Issorium,loc,1
+Issorium,pers,1
+Isis,loc,1
+Jew,work,1
+Jewish Wars,pers,1
+Jews,pers,1
+Jhelum,work,1
+Junii,scope,1
+"Junii,",scope,1
+Junii.,scope,1
+Junii_),work,1
+Jubet,work,1
+Jubilius,pers,1
+Jokes,pers,1
+Jotape,pers,1
+Jove,work,1
+Joy,work,1
+Juba,loc,1
+Jefferson,pers,1
+Judaism,pers,1
+Jugurth,pers,1
+Jugurth,work,1
+Juba,work,1
+Juba I.,pers,1
+Juba II.,pers,1
+Juba.,pers,1
+Jubellius,pers,1
+Itonia,loc,1
+Itri,loc,1
+Iulia,loc,1
+Istria,loc,1
+Isæus,pers,1
+Italiam,loc,1
+Italy,work,1
+Jubulus,pers,1
+B.C. 55,work,1
+B.C. 494,scope,1
+B.C. 50,work,1
+B.C. 509,date,1
+July 47,scope,1
+June,pers,1
+Julii,date,1
+Julii,pers,1
+B.C. 249,scope,1
+B.C. 26,scope,1
+B.C. 275,scope,1
+B.C. 28,scope,1
+B.C. 295,scope,1
+B.C. 300,scope,1
+B.C. 52,work,1
+B.C. 53,work,1
+Iapyia,pers,1
+Iber,loc,1
+Iber,work,1
+IV,scope,1
+IV.,scope,1
+IX,scope,1
+Iaccheum,pers,1
+B.C. 244,scope,1
+Julius Salinator,pers,1
+July,loc,1
+Iberia,work,1
+Iberian,loc,1
+Iberian,pers,1
+Iapygia,loc,1
+Iapygian,work,1
+Iapygium,loc,1
+Jugurthine War,work,1
+Julfa,loc,1
+Julian,pers,1
+Kaffa,loc,1
+Kale,pers,1
+Kalikratidas,pers,1
+K.O. Müller,work,1
+Kabeiri,work,1
+B.C. 141,scope,1
+B.C. 151,scope,1
+B.C. 163,scope,1
+B.C. 122,scope,1
+B.C. 125,scope,1
+B.C. 130,scope,1
+B.C. 131 (,scope,1
+Jugurtha.,pers,1
+B.C. 178,scope,1
+B.C. 183,scope,1
+B.C. 187,scope,1
+B.C. 2,scope,1
+B.C. 20,scope,1
+B.C. 212,scope,1
+B.C. 222,scope,1
+B.C. 138,scope,1
+Julii,scope,1
+Julii,work,1
+Julius,work,1
+Auvergne,loc,1
+Auximum,loc,1
+Auximum,pers,1
+Auxois,loc,1
+Aventine,work,1
+Jupiter,work,1
+Kalydonian,work,1
+Kamarina,loc,1
+Kampagne,work,1
+Kallisthones,pers,1
+Kallæschrus,pers,1
+Kalydonia,loc,1
+Kalydonia,pers,1
+B.C.     56,scope,1
+Axius,work,1
+Axona,work,1
+Azerbijan,loc,1
+Azof,loc,1
+Justitium,pers,1
+Junius Silanus,pers,1
+Juno,work,1
+B.C. 10,work,1
+B.C. 102,scope,1
+B.C. 102,work,1
+B.C. 105,scope,1
+B.C. 112,scope,1
+B.C. 112,work,1
+B.C 87,scope,1
+"B.C.     44, iii.",scope,1
+Jupiter Olympius,pers,1
+Jupiter Stator,pers,1
+Juppiter,pers,1
+Justinus,pers,1
+Aurelian,pers,1
+Augusta,pers,1
+Augustus Caesar,pers,1
+Auli filius,pers,1
+Autokleides,work,1
+Autokratôr,pers,1
+Automatia,loc,1
+Automatia,pers,1
+Autricum,work,1
+Aurelius Cotta,pers,1
+Aurunculeius,pers,1
+Horns,work,1
+Atropateni,work,1
+Atta Claudius,pers,1
+Attaleia,loc,1
+Attalus,loc,1
+Attalus Philadelphus,pers,1
+Atteis,pers,1
+Attes,pers,1
+Autokleides,pers,1
+Kaunus,loc,1
+Karneius,pers,1
+Karystus,pers,1
+Kassandrea.,pers,1
+Karanus,pers,1
+Kardia,loc,1
+Kardians,pers,1
+Attika,pers,1
+Kalydonian,pers,1
+Kallippides,pers,1
+Kallippus,work,1
+Kallaeschrus,pers,1
+Kassandreia,pers,1
+Kastor,pers,1
+Kataonia,work,1
+Kaulonia,loc,1
+Autocthones,pers,1
+Aulus Pompeius,pers,1
+Karmania,pers,1
+Karmania.,loc,1
+Kaphyæ,pers,1
+Kappadokia,loc,1
+Kappadokia,work,1
+Kar.,work,1
+Hyrcanian,loc,1
+Hypania,loc,1
+Hyperboreans,pers,1
+Hypsichidas,pers,1
+Hypsikrates,pers,1
+"Iber,",pers,1
+Autocrator,pers,1
+Autocrator,work,1
+"I., ii",scope,1
+"I., iv.",scope,1
+Hyrodes.,pers,1
+Hysiæ,loc,1
+Hythe,loc,1
+Hædui,pers,1
+Hypsikratia,pers,1
+Hyrcania,loc,1
+Hortensia,pers,1
+Hortensius.,pers,1
+Hæmus,pers,1
+Hêbê,pers,1
+"I, 45",scope,1
+I.,scope,1
+I.  [18,scope,1
+"I.,",scope,1
+Athonodorus,pers,1
+Athene Itonis,pers,1
+Athenian,loc,1
+Atheniensiumque,pers,1
+Aug.,pers,1
+Aug.,work,1
+"Aug. 16, 1746",scope,1
+Augarus,pers,1
+Kings,pers,1
+Kings',work,1
+Kind,pers,1
+King Archon,pers,1
+King Juba,work,1
+Kilikians,pers,1
+Killes,work,1
+Kimmerian,loc,1
+Kerameikus,work,1
+Keramicus,work,1
+Kepais,pers,1
+Kaunus,work,1
+Kelainæ,loc,1
+Kelænæ,loc,1
+Kelænæ,pers,1
+King Philip,loc,1
+Karamania,loc,1
+Karamania,work,1
+Karanus,loc,1
+Kerasunt,loc,1
+Kerasus,loc,1
+Keraunian,pers,1
+Keraunian,work,1
+Kerberus,pers,1
+Hyacinthia,work,1
+Horns,loc,1
+Aufidus,loc,1
+Aufidus,pers,1
+Atteus,pers,1
+Kerkina,loc,1
+Kerkina,pers,1
+Kerkinitis,pers,1
+Hymen,pers,1
+Hydras,pers,1
+Hydrea,loc,1
+Hydrea,pers,1
+Hostilii,pers,1
+House of Commons,work,1
+Humboldt,pers,1
+Hyacinthia,loc,1
+Hither,work,1
+Hoche,pers,1
+Holies,pers,1
+Hydrographique,work,1
+Hydrum,loc,1
+Hydrum,pers,1
+Hygieia,loc,1
+Hyle,loc,1
+August,pers,1
+Attiliis,pers,1
+Atys,work,1
+Holzmann,pers,1
+Hook-nosed,work,1
+Historia,work,1
+Historical Memoirs,work,1
+Historique,work,1
+Kleonides,pers,1
+Astyanax,pers,1
+Assus,loc,1
+Assus,pers,1
+Assyrians,loc,1
+Assyrians,pers,1
+Astakus,loc,1
+Astarte,pers,1
+Kius,loc,1
+Klion,pers,1
+Knacion,pers,1
+Knidus,loc,1
+Kleænetus,pers,1
+Klimax,loc,1
+Klimax,pers,1
+Kleomenes.,pers,1
+Kizil Ermak,pers,1
+Klarius,loc,1
+Klarius,pers,1
+Klaros,pers,1
+Klazomenae,loc,1
+Kissousa,pers,1
+Kithæron,work,1
+Kitium,pers,1
+Kerêssus,loc,1
+Key,pers,1
+Kleitoria,pers,1
+Kleitorians,pers,1
+Kleitorid,pers,1
+Klenze,pers,1
+"Kius,",pers,1
+Kiz,loc,1
+Kolchis,loc,1
+Kolchis,pers,1
+Kolias,loc,1
+Kollytus,pers,1
+B.C. 73,work,1
+B.C. 74,work,1
+B.C. 67,work,1
+B.C. 69,scope,1
+Kolophon,loc,1
+Kolophonians,work,1
+Komias,pers,1
+Komias',pers,1
+Komius,pers,1
+Konius,pers,1
+Koinus,pers,1
+Kolchi,work,1
+Atius Balbus,pers,1
+Athens',loc,1
+Athesis,work,1
+Kora,pers,1
+Kordylion,pers,1
+Kore,pers,1
+Korkyna,pers,1
+Korkyne,pers,1
+Atlantis,loc,1
+Atlantis,work,1
+Atlantis',work,1
+Atlas,pers,1
+Atreus,pers,1
+Atropatene,loc,1
+Athos,pers,1
+Atiso,pers,1
+"Knot,",work,1
+Knowledge,work,1
+Koenus,pers,1
+Kraneium,loc,1
+Kranium,pers,1
+Krannon,pers,1
+Krannon.,loc,1
+Kranon,loc,1
+Hoplite,work,1
+Hoplites.,work,1
+Horace Walpole,pers,1
+Holy,work,1
+Holy Mount,work,1
+Kolonis,pers,1
+Knossus,loc,1
+Knossus,pers,1
+Hippodromios,pers,1
+Horat,pers,1
+Horat,work,1
+Horatius Flaccus,pers,1
+Hordeonius Flaccus,pers,1
+Horeomosium,pers,1
+Hoplias,pers,1
+Hoplias,work,1
+B.C. 69,work,1
+B.C. 70,date,1
+B.C. 71,scope,1
+B.C. 63,work,1
+B.C. 64 or 63,scope,1
+Hippo Regius,pers,1
+Hippocoon,pers,1
+Hippocrates,pers,1
+Athamania,loc,1
+Athen,loc,1
+Athen.,pers,1
+Astypalæa,pers,1
+Asylum,loc,1
+Hierapolis,loc,1
+Hieron,pers,1
+Hierophant,pers,1
+Ktesium,pers,1
+Kronos,loc,1
+Ascoli,loc,1
+Asculani,work,1
+Asculum,pers,1
+Asculum,work,1
+Asculum.,loc,1
+Aternus,loc,1
+Korragus,pers,1
+Kur,loc,1
+Kur,pers,1
+Kurdistan,work,1
+Kybernesia,pers,1
+Kybernesia,work,1
+Krypteia,pers,1
+Ktesium,loc,1
+Krantor,pers,1
+Korrhæus,pers,1
+Kos,pers,1
+"Kos,",pers,1
+Kosis,pers,1
+Kossæans,pers,1
+Kossæi,pers,1
+Koroneia,loc,1
+Astronomers,pers,1
+Astura,pers,1
+Astyages,pers,1
+Krimesus,loc,1
+Kyrene,loc,1
+Kyrrhestis,loc,1
+Kyrrhestis,pers,1
+Kynoskephalae,loc,1
+Hippokrates',pers,1
+B.C. 486,scope,1
+B.C. 49,date,1
+B.C. 406,scope,1
+B.C. 43 (,scope,1
+B.C. 439,scope,1
+Atargatis,pers,1
+Atellius,pers,1
+Histoire des,work,1
+Hipponium,pers,1
+Hipposthenidas,pers,1
+Hipposthenides,pers,1
+Hippês,pers,1
+Hirrus,pers,1
+Hispalis,loc,1
+Hippokoon,pers,1
+Hestiæa,pers,1
+Hesychius,pers,1
+Hexapylon,work,1
+Hexapylon.,work,1
+Hidrieus,pers,1
+Hidrilus,pers,1
+Hispaniae,loc,1
+Hispaniensi,work,1
+Hiketas,pers,1
+Hill.,work,1
+Hiempsal,pers,1
+Kynosarges,work,1
+Kydnus,pers,1
+Kylarabis,loc,1
+Kyllarabis,pers,1
+Kyllarabis,work,1
+B.C. 84,work,1
+B.C. 86,scope,1
+Hermann,pers,1
+Hermes,loc,1
+Hippeis,pers,1
+Hieræ,pers,1
+Hietae,work,1
+Hietæ,pers,1
+Kyme,pers,1
+BRIBERY,pers,1
+Babuke,pers,1
+B.C. 92,scope,1
+B.C. 93,scope,1
+B.C. 94,scope,1
+B.C. 95,scope,1
+B.C. 83,work,1
+Kynoskephalæ,pers,1
+Kynoskephalæ,work,1
+Kynossema,pers,1
+Kynægyrus,pers,1
+Kynægyrus,work,1
+Kypselus,pers,1
+Kyllarabium,work,1
+Kylon,loc,1
+Asia Minor,pers,1
+Asia Minor,work,1
+Asiatics,pers,1
+Asiaticus,loc,1
+L. Cinna,pers,1
+L. Cornelius,pers,1
+Kænum,loc,1
+Kænum,pers,1
+Aspendus,pers,1
+Asphaltum,pers,1
+Aspis,pers,1
+Assia,pers,1
+Assia,work,1
+Asopus,loc,1
+Asopus,work,1
+Asia Minor,loc,1
+L. Crassus,pers,1
+L. Cæsar,pers,1
+L. Apuleius,pers,1
+L. Aurelius Cotta,pers,1
+L. Calpurnius,pers,1
+Article,work,1
+Artorius,pers,1
+Aspendus,loc,1
+L. Junius Paciacus,pers,1
+L. Licinius,pers,1
+L. Manilius,pers,1
+L. Marcius Censorinus,pers,1
+L. Mummius,pers,1
+L. Cornelius Scipio,pers,1
+L. Cornelius Sisenna,pers,1
+L. Cornelius Sulla,pers,1
+Lacinium,loc,1
+Lacinium,pers,1
+Laconian,loc,1
+Laconica,loc,1
+Lacedæmonium,pers,1
+Lacetani,pers,1
+Arpi,loc,1
+Arpino,loc,1
+L. Quintius',pers,1
+L. Scipio,pers,1
+L. Sergius Catilina,pers,1
+L. Statius,pers,1
+L. Statius Marcus,pers,1
+Ladder.,work,1
+Ladokea,pers,1
+Lagous,pers,1
+L. Varinus,pers,1
+L. consul,work,1
+LXIII.,scope,1
+LXXIV,scope,1
+LXXVI.,scope,1
+L. Munatius Plancus,pers,1
+L. Octavius,pers,1
+L. Philippus,pers,1
+Kænum,work,1
+Kôs,pers,1
+L.,work,1
+L. Afranius,pers,1
+LXXXII,scope,1
+La,loc,1
+La,work,1
+Laborde,pers,1
+B.C. 98,scope,1
+Asbolomeni,pers,1
+Ascalon,pers,1
+Artorius Marcus,pers,1
+Artäuktes,pers,1
+Aruveni,work,1
+"Aruveni,",pers,1
+Arvenni,pers,1
+Hermionians,loc,1
+Hermionic,pers,1
+B.C. 66,work,1
+"B.C. 57,",scope,1
+B.C. 61,work,1
+B.C. 96,scope,1
+B.C. 97,scope,1
+B.C. 97,work,1
+Heptachalkum,pers,1
+Heptastadion,pers,1
+Heracles,pers,1
+Heraea,pers,1
+Hestiaea,loc,1
+Hestiaea,pers,1
+Hermæ,pers,1
+Herod,pers,1
+Arpino,pers,1
+Arverni,work,1
+Asander,pers,1
+Bacchus',pers,1
+Bacchylides,pers,1
+Bacchylides,work,1
+Herakleium,work,1
+Heptachalkum,loc,1
+Laurium,pers,1
+Laurus,work,1
+Laverna,loc,1
+Lattamyas,pers,1
+Laughter,work,1
+Laurentum,loc,1
+Larissam,pers,1
+Lars,pers,1
+Lamia.,work,1
+Lakia,loc,1
+Lakiadas,work,1
+Lakiadæ,work,1
+Lakon,pers,1
+Lakrateides,pers,1
+Lauria,loc,1
+Laurians,pers,1
+Langon,loc,1
+Langon,pers,1
+Laodicea,pers,1
+Laodicea,work,1
+Lamakus,pers,1
+Lamartine,pers,1
+Lambinus,pers,1
+Lame,work,1
+Arvenni,work,1
+Artemius,pers,1
+Arthmiadas,pers,1
+Arthmiades,pers,1
+Lacinia,pers,1
+Lacedæmonians,work,1
+Langhorne,work,1
+Langobriga,pers,1
+Lege,work,1
+Leges,pers,1
+Laws,work,1
+Learning,pers,1
+Lebadea,pers,1
+Arimanios,pers,1
+Arimanius,pers,1
+Arimi,pers,1
+Legibus,work,1
+Legæ,work,1
+Leipzig,loc,1
+Lemnos,pers,1
+Lechæum,pers,1
+Lectures on the History of,work,1
+Leda,pers,1
+Legati,pers,1
+Arrianus,pers,1
+Arrius,pers,1
+Latins,pers,1
+Laodiceia,pers,1
+Laodikæa,pers,1
+Lapithæ,pers,1
+Leges,work,1
+Legg,work,1
+Larymna,loc,1
+Larymna,pers,1
+Arsis,pers,1
+Artauktes,pers,1
+Arsakidæ,work,1
+Arsian Grove,pers,1
+Arsinœ,pers,1
+Arsis,loc,1
+Armenians,pers,1
+Armilustrium,work,1
+Armilustrum,pers,1
+Aristænus,pers,1
+Aristæus,pers,1
+Arius,pers,1
+Ariæus,pers,1
+Aristotelian,pers,1
+Bakius,pers,1
+Bal,loc,1
+Bactria,pers,1
+Bactrians,pers,1
+Baebius,pers,1
+Baetica,pers,1
+Baetis,pers,1
+Bagdad,loc,1
+Herculeius,pers,1
+B.C. 87,work,1
+B.C. 78,date,1
+B.C. 79,date,1
+"B.C. 79, ii",scope,1
+B.C. 8,scope,1
+Bagradas,work,1
+Baiæ,pers,1
+Armenia,pers,1
+Hercynii,work,1
+Here,loc,1
+Herakles',pers,1
+Herakleum,pers,1
+Heraklês,pers,1
+Heralds,pers,1
+Herculaneum,loc,1
+Helplessness,loc,1
+Helvetian,pers,1
+Heliopolis,pers,1
+Helisson,pers,1
+Hell.,pers,1
+Hell.,work,1
+Herculeæ,pers,1
+Leon,loc,1
+Henares,work,1
+Hennas,work,1
+Henningsen,pers,1
+Helvetians,pers,1
+Helvidius Priscus,pers,1
+Hemathion,work,1
+Hellen.,loc,1
+Hellespontus,loc,1
+Leontini,loc,1
+Leontis,loc,1
+Leontokophalos,pers,1
+Hedylium,pers,1
+Hegesias,pers,1
+Hemsterhuis,pers,1
+Henarea,pers,1
+Henares,pers,1
+Aristoxenes,pers,1
+Lebadeia,pers,1
+Laverna,work,1
+Lavernalis,pers,1
+Lavici,pers,1
+Lavinius,pers,1
+Leopoldus,pers,1
+Leptis,pers,1
+Library,work,1
+Libræ,work,1
+Liburni,work,1
+Liburnian,pers,1
+Lexicon Rei Numariæ,work,1
+Liber,pers,1
+Liberator,work,1
+Libertini,pers,1
+Leucadian,work,1
+Lerna,pers,1
+Lesbos,work,1
+Lesché,pers,1
+Less,loc,1
+Liberty,loc,1
+Liberty,pers,1
+Libitina,pers,1
+Leucas,pers,1
+Leukadia,loc,1
+Leukadian,work,1
+Leukadians,pers,1
+Leukanis,pers,1
+Lesser,work,1
+Letter,work,1
+Letter to,work,1
+Lentulus Marcellinus,pers,1
+Lentulus Spinther.,pers,1
+Lentulus Sura,pers,1
+Leukaspids,pers,1
+Leukaspids,work,1
+Leukonoe,loc,1
+Leuktra,pers,1
+Leucas,loc,1
+Licinii Luculli,pers,1
+Licinii Luculli,work,1
+Licinius Cossus,pers,1
+Licinius Murena,pers,1
+Libyê,loc,1
+Libyôn,work,1
+Licinia,work,1
+Argyraspides,pers,1
+Leuktron,pers,1
+Level,loc,1
+Lex Annalis,work,1
+Licinius Philonicus,pers,1
+Liege,loc,1
+Lieut.-Col.,work,1
+Life,scope,1
+Licinii Crassi,pers,1
+Arethusa,pers,1
+Aristokrites,pers,1
+Aristokritus,pers,1
+Ariobarzanes.,pers,1
+Ariomardus,pers,1
+Lex Voconia,work,1
+Leuktra.,loc,1
+Leuktron,loc,1
+Libertinus,pers,1
+Libertus,work,1
+Lex Aurelia,work,1
+Lex Cornelia,work,1
+Lex Sacrata,work,1
+Lex Sempronia,work,1
+Arginusae,loc,1
+Aretas,pers,1
+Hebrus,work,1
+Ariadnes,pers,1
+Ariaeus,pers,1
+Arginusæ,pers,1
+Argives,work,1
+Arevaci,pers,1
+Argens,work,1
+Argenteus,work,1
+Hektor,pers,1
+Helen,loc,1
+Heidelberg,loc,1
+Heinrichs,pers,1
+Hekaline,pers,1
+Hekalus,pers,1
+Hekataeus,pers,1
+Hebrews,pers,1
+Halææ,pers,1
+Helena,loc,1
+Helepolis,pers,1
+Helikon,loc,1
+Helikus,loc,1
+Helikus,pers,1
+Hekatombæon,pers,1
+Hektemori,pers,1
+Hampden,pers,1
+Hampton,pers,1
+Hannibal.,pers,1
+Halykus,pers,1
+Halys,work,1
+Halæ,loc,1
+Halæae,loc,1
+Halæan,pers,1
+Longimanus,pers,1
+Longinus,scope,1
+Lokris,pers,1
+"Lokris,",work,1
+Lollius Marcus,pers,1
+London,work,1
+Locri,work,1
+Loibethra,pers,1
+Lindus,pers,1
+Lingones,pers,1
+Life of Cæsar,work,1
+Ligario,pers,1
+Ligustines,pers,1
+Ligustines,work,1
+Lilybaeum,loc,1
+Longhand,pers,1
+Lippe,work,1
+Lipsius,pers,1
+Liris,loc,1
+Liris,pers,1
+Lilybæum,pers,1
+Limnus,work,1
+Lincoln,pers,1
+Lindus,loc,1
+Licinia Gens,work,1
+Licinii,pers,1
+Libya,work,1
+Libys,pers,1
+Liternum,work,1
+Liv.,scope,1
+Livia,loc,1
+Liparian,pers,1
+Lucius Aurelius Cotta,pers,1
+Lucanis,loc,1
+Lucanis,pers,1
+Lucca,pers,1
+Lucerenses,pers,1
+Luceres,pers,1
+Lovers,pers,1
+Basternae,work,1
+Livius,work,1
+Livius Postumius,pers,1
+Livy (3,scope,1
+Lucinus,pers,1
+Lucius Albinus,pers,1
+Lucius Anicius,pers,1
+Lucius Antonius Saturninus,pers,1
+Lucius Aurelius,pers,1
+Arelate,loc,1
+Areopagites,work,1
+Archæologia,work,1
+Arcturus,pers,1
+Archidamus III,pers,1
+Archidamus V.,pers,1
+Archipelago,loc,1
+Lokrians,pers,1
+Loibethra,work,1
+Loire,loc,1
+Lokrian,pers,1
+Aradus,pers,1
+Ararat,loc,1
+Araterion,loc,1
+Ardeates,work,1
+Areios,pers,1
+Loosed,work,1
+Loquutius,pers,1
+Loreto,loc,1
+Lous,pers,1
+Lover,work,1
+Lucius Saturninus,pers,1
+Lucius Scipio,pers,1
+Lucius Sergius,pers,1
+Happy,work,1
+Haran,work,1
+Harmonia,loc,1
+Harp,work,1
+Harpagus,pers,1
+Hamilcar Barcas,pers,1
+Hamlet,pers,1
+Lower,work,1
+H.N._,work,1
+"H.N._ 33,",work,1
+Haruspicum,pers,1
+Hawk,work,1
+Heads,work,1
+Healer,work,1
+Heaven,pers,1
+Hebrews,loc,1
+Bardyæi,pers,1
+Basilica Pauli,work,1
+Bantia,loc,1
+Barbary,loc,1
+Hagnon of,pers,1
+Gythium,pers,1
+H. Meyer,pers,1
+H.N,work,1
+Lyceum,loc,1
+Lusitania,pers,1
+Lusitanians,loc,1
+Lusitanians,pers,1
+Lustra Romana,work,1
+Lupercalia,pers,1
+Luperci,pers,1
+Lupercus,pers,1
+Lucius Cornificius,pers,1
+Lucius Crassus,pers,1
+Lucius Domitius Germanicus,pers,1
+Luxu,work,1
+Ly,pers,1
+Lybis,pers,1
+Lycaonia,pers,1
+Lycaonians,loc,1
+Lucius Rufus,pers,1
+Lucius Gellius,pers,1
+Lucius Junius,pers,1
+Lucius Licinius,pers,1
+Lucius Licinius Murena,pers,1
+Lucius Lollius,pers,1
+Lucius Bacillus,pers,1
+Lucius Cinna,pers,1
+Lucius Sextius,pers,1
+Lucius Sulla,pers,1
+Lucius Terentius,pers,1
+Lucius Valerius Flaccus,pers,1
+Lucius Octavius,pers,1
+Lucius Paullus,pers,1
+Lucius Quintus,pers,1
+Lucius Roscius Otho,pers,1
+Lykurgids,pers,1
+Lykurgus,work,1
+Lydian,pers,1
+Lydians,pers,1
+Lykaeum,loc,1
+Lykaion,pers,1
+Lykia,loc,1
+Lykia,pers,1
+Aratus',pers,1
+Lusitani,work,1
+Lucullean,pers,1
+Luculli,work,1
+Lucullus.,pers,1
+Ludus Trojanus,pers,1
+Lykæum,loc,1
+Lyons,loc,1
+Arcathias,pers,1
+Arcathias,work,1
+Arcesilaus,pers,1
+Arbil,loc,1
+Araterion,pers,1
+Arateum,loc,1
+Arateum,work,1
+Aratus,loc,1
+Lupus,pers,1
+Luscus,pers,1
+Aquillius Gallius,pers,1
+Apsus,loc,1
+Apsus,work,1
+Aptera,pers,1
+Apulia,pers,1
+Arcadians,pers,1
+Lycian,work,1
+Lycurgus,pers,1
+Lycus,loc,1
+M. Acilius Glabrio,pers,1
+M. Antoninus,pers,1
+M. Brutus,pers,1
+M. Cæsonius,pers,1
+M. Helvius,pers,1
+Babyca,pers,1
+Babylonian,loc,1
+Babylonians,loc,1
+Basilicata,loc,1
+Basillus,pers,1
+Basque,work,1
+Bastarnæ,work,1
+Basternae,pers,1
+Hainault,pers,1
+Haje,work,1
+Half-God,work,1
+Hades,pers,1
+Hadrian,pers,1
+Haemon,pers,1
+Haemus,loc,1
+Bacon,pers,1
+Grythium,loc,1
+Græcia,pers,1
+Græcinus,pers,1
+Græv.,work,1
+Halicarnassus,work,1
+Halikarnassus,work,1
+Hagnus,pers,1
+Hainault,loc,1
+Lysandreia,pers,1
+Lysandreia,work,1
+Lysandrian,work,1
+Madden,pers,1
+Maedike,pers,1
+Magas,pers,1
+Magius,pers,1
+Macra,pers,1
+Aquæ,pers,1
+Aquæ Sulis,work,1
+Aquila,pers,1
+Aquilius Gallus,pers,1
+Aquillii,pers,1
+Lyra,pers,1
+Lysanders,pers,1
+Lysandor,pers,1
+Appian,loc,1
+Apollonias,loc,1
+Arabia,pers,1
+Arabians,loc,1
+Arabs,loc,1
+Arachosia,pers,1
+Aquinum,loc,1
+Aquinum,pers,1
+M. Lepidus,pers,1
+Lænus Flaccus,pers,1
+Lærtes,pers,1
+Lærtius,pers,1
+Lævinuses,pers,1
+M.,work,1
+Lysanorides,pers,1
+Appia,work,1
+Grote,work,1
+Gruber,pers,1
+M. Valerius,pers,1
+Maas,loc,1
+Maas,work,1
+Malkitas,pers,1
+Malle,work,1
+Mamercii,pers,1
+Gyarta,pers,1
+Gylippus,work,1
+Gymnopaedia,work,1
+Guadalaviar,work,1
+Guadalquiver,work,1
+Guadalquivir,loc,1
+Guadiana,work,1
+Guarini,pers,1
+Gortynians,loc,1
+Gymnosophists,pers,1
+Gymnosophistæ,pers,1
+Gynæceia,loc,1
+Gynæceia,work,1
+Gyrisoeni,pers,1
+Gythium,loc,1
+Gyarta,loc,1
+Macedonicus,loc,1
+M. Rufus,pers,1
+M. Titius,pers,1
+Bawling,pers,1
+Bearded,work,1
+Gorgons,pers,1
+Gorpiaeus,pers,1
+Gortyna,pers,1
+Appia,loc,1
+Malaca,pers,1
+Magnesians,pers,1
+Magnus Pompeius,pers,1
+Mago,loc,1
+Magæus,pers,1
+Manlii,work,1
+Manlius Maximus,pers,1
+April,loc,1
+April,work,1
+Appii,work,1
+Appius     Claudius,pers,1
+Appius Claudius Pulcher,pers,1
+Aponius,pers,1
+Apothetæ,loc,1
+Appendix,work,1
+Aphetai,loc,1
+Aous,pers,1
+Ap.,pers,1
+Apame,pers,1
+Apamea,pers,1
+Apellas,pers,1
+Appius Clausus,pers,1
+Appuleius Saturninus,pers,1
+Mamercinus,pers,1
+Malach,pers,1
+Malcolm,pers,1
+Malek,pers,1
+Malian,pers,1
+Maimakterion,pers,1
+Major,pers,1
+Makrae,pers,1
+Antistius Vetus,pers,1
+Antitaurus,pers,1
+Aphytæ,loc,1
+Aphytæ,work,1
+Apis,pers,1
+"Apis,",pers,1
+Apollinares,pers,1
+Aphidnæ,pers,1
+Marcus Appius,pers,1
+Marcus Atilius,pers,1
+Marcian,pers,1
+Marcii,work,1
+Marcius Censorinus,pers,1
+March,loc,1
+Antiquity,pers,1
+Antistius Veius,pers,1
+Mandyria,loc,1
+Mangles,pers,1
+Mamertini,pers,1
+Mamertini,work,1
+Mandonium,loc,1
+Mandonium,pers,1
+Marcus Aemilius,pers,1
+Marcus Agrippa,pers,1
+Manius Aquilius,pers,1
+Manius Curius Dentatus,pers,1
+Manius Glabrio.,pers,1
+Mandrokleides,pers,1
+Mandubii,work,1
+Manduria,loc,1
+Manduria,work,1
+Mandurium,loc,1
+Bauli,loc,1
+Apemantes,pers,1
+Apennines,loc,1
+Aperantia,loc,1
+Marcia Gens,work,1
+Map,work,1
+Marais Pontins,work,1
+Marbles,work,1
+Bell,pers,1
+Bell,work,1
+Bell.,pers,1
+Bedriacum,pers,1
+Belaeus,pers,1
+Belbina,pers,1
+Belejik,work,1
+Belgica,loc,1
+Granicus,work,1
+Bardiæi,pers,1
+Balte,pers,1
+Bambyce,loc,1
+Banquet,work,1
+Belias,pers,1
+Belitaras,pers,1
+Belitaris,pers,1
+Aphredisium,pers,1
+Aphrodite,loc,1
+Gronovius,pers,1
+Granius Petro,pers,1
+Gratidius,pers,1
+Graces,pers,1
+Graces,work,1
+Graecinus,pers,1
+Marshes,work,1
+Marius Gratidianus,pers,1
+Marmarica,loc,1
+Marmaridæ,pers,1
+Marmora,loc,1
+Marne,work,1
+Marii,pers,1
+Maritima,pers,1
+Marcus Livius,pers,1
+Marcus Manlius,pers,1
+Marcus Marcellus,pers,1
+Marcus Baebius,pers,1
+Marcus Cotta,pers,1
+Marcus Furius,pers,1
+Marseilles,pers,1
+Marsh,pers,1
+Marcus Pupius,pers,1
+Marcus Salvius,pers,1
+Marcus Silanus,pers,1
+Marcus Teius,pers,1
+Marcus Horatius,pers,1
+Marcus Insteius,pers,1
+Marcus Junius,pers,1
+Marcus Lepidus,pers,1
+Marcell.,pers,1
+Marcella,pers,1
+Marcus Tullius,pers,1
+Marcus Varius,pers,1
+Marcus Vipsanius,pers,1
+Marcus Æmilius,pers,1
+Marcus Æmilius Lepidus,pers,1
+Mardion,pers,1
+Matuta,work,1
+Mauricus,pers,1
+Maximi,pers,1
+May,loc,1
+May,pers,1
+Master,pers,1
+Matapan,pers,1
+Mathematicos,pers,1
+Mardus,pers,1
+Margian,pers,1
+Margiana,loc,1
+Margites,pers,1
+Margites.,pers,1
+Margus,loc,1
+Marian,pers,1
+Matthiæ,pers,1
+Antonii,work,1
+Antonious,pers,1
+Antonius Creticus,pers,1
+Antonius Felix,pers,1
+Antony and,work,1
+Antitaurus,work,1
+Antium,work,1
+Marius,work,1
+Maritza,work,1
+Antiocheia,loc,1
+Antigoneia,pers,1
+Antigonus,loc,1
+Anxur,loc,1
+Anytus',pers,1
+Anäitis,pers,1
+Aollius,pers,1
+Martius,loc,1
+Martius,pers,1
+Mary,pers,1
+Megabocchus,pers,1
+Megaboccus,pers,1
+Megalesia,pers,1
+Megaleus,pers,1
+Mediterranean,loc,1
+God,work,1
+Goddess,work,1
+Goddess',work,1
+Goettling,pers,1
+Greece,pers,1
+Gregory XIII.,pers,1
+Gripus,pers,1
+Gronov,pers,1
+Gordium,loc,1
+Gordium,pers,1
+Gordyene,work,1
+"Gomphi,",pers,1
+Good Counsel,work,1
+Good Luck,work,1
+Goats' Marsh,work,1
+God,pers,1
+Matronalia,work,1
+Matt.,work,1
+Masabates,work,1
+Massalia,pers,1
+Gorgias,work,1
+Gorgon,work,1
+Goodluck,pers,1
+Gordian,pers,1
+Mellaria,pers,1
+Melleirenes,pers,1
+Melians,pers,1
+Meliboea,pers,1
+Melibœa,loc,1
+Melas,loc,1
+Anicius,pers,1
+Androkleon,pers,1
+Antiocha,pers,1
+Mediolanum,work,1
+May,work,1
+Mayer,pers,1
+Mede.,loc,1
+Melite.,loc,1
+Melité,loc,1
+Mellaria,loc,1
+Antemna,loc,1
+Antiquities,pers,1
+Antiocheia.,pers,1
+Antiochia,loc,1
+Antiochis,loc,1
+Antiope,loc,1
+Antilibanus,pers,1
+Antilochus,pers,1
+Megabates,pers,1
+Megabates,work,1
+Media,pers,1
+Medimnus,work,1
+Anno,pers,1
+Ant.,work,1
+Antaeus,pers,1
+Antakia,loc,1
+Girondins,work,1
+Gerusia,work,1
+"Geschichte Roms_,",work,1
+Geshichte Roms,work,1
+Getæ,pers,1
+Antigenidas,pers,1
+Antigenides,pers,1
+Antigone,loc,1
+Gnossus,work,1
+Goat,pers,1
+Goat's Rivers,work,1
+Glabrio,work,1
+Glory,pers,1
+Ghuznee,loc,1
+Giants,work,1
+Gibson,pers,1
+Gellius Publicola,pers,1
+Gelo,pers,1
+Gelæ,work,1
+Gemellus,pers,1
+Gemicius,pers,1
+Gnathaina,pers,1
+Gnathæna,pers,1
+Gnatius,pers,1
+Andromache,work,1
+Anticatones,work,1
+Antient,loc,1
+Belus,pers,1
+Belæus,pers,1
+Bema,work,1
+Benefactor,work,1
+Genucius,pers,1
+Mestrius,pers,1
+Messapians,loc,1
+Mercedinus,pers,1
+Mercedonius,pers,1
+Merenda,pers,1
+Meriones,pers,1
+Anaxilas,pers,1
+Anaphlystian,work,1
+Memoirs',work,1
+Menageries,work,1
+Memmius Gemellus,pers,1
+Memmius Gemillus,pers,1
+Memoir,work,1
+Messenia,pers,1
+Messenian,loc,1
+Messenians,loc,1
+Megapolis,loc,1
+Megarians,pers,1
+Menestheos,pers,1
+Menesthes,pers,1
+Meninx,loc,1
+Mendes,loc,1
+Mendes,pers,1
+Mendesian,pers,1
+Antigonea,pers,1
+Anthesteria,work,1
+Anthesterion,work,1
+Antho,pers,1
+"Antho,",pers,1
+Antiates,work,1
+Antemna,pers,1
+Anthedon,loc,1
+Bible,work,1
+Berenikis,pers,1
+Bernhardy,pers,1
+Beroea,loc,1
+Beroea,pers,1
+Berytus,loc,1
+Annii_,work,1
+Annius,work,1
+Bede,pers,1
+Basternæ,work,1
+Bath,loc,1
+Batiates,pers,1
+Battiadæ,work,1
+Berytus,pers,1
+Besieger,work,1
+Bettius,pers,1
+Geomori,pers,1
+George Montague,pers,1
+Gephyra,loc,1
+Gephyrists,pers,1
+Genapum,work,1
+Genesis,pers,1
+Genoa,loc,1
+Gens,work,1
+Anaphlystus,pers,1
+Anapus,pers,1
+Anapus,work,1
+Anas,work,1
+Anatha,loc,1
+Annibas,pers,1
+Geog.,work,1
+Geographical Journal,work,1
+Miltas,work,1
+Millea,loc,1
+Milo,scope,1
+Milo,work,1
+Milo De Vi,pers,1
+Milesian,work,1
+Milesians,pers,1
+Milestone,work,1
+Metelli,work,1
+Metellus Creticus,pers,1
+Metageitnion,work,1
+Metamorph,work,1
+Metamorphoses,work,1
+Metaphys,work,1
+Metaphysics,pers,1
+Metapontum,loc,1
+Menækeus,pers,1
+Menœtius,pers,1
+Metullus,pers,1
+Michelet,pers,1
+Metellus Numidicus,pers,1
+Methydrium,loc,1
+Methydrium,pers,1
+Metapontum,pers,1
+Annius Luscus,pers,1
+Anio,pers,1
+Annah,loc,1
+Andros,loc,1
+Anecdotes,work,1
+Menoekeus,pers,1
+Menogenes,pers,1
+Mentor,pers,1
+Germans,pers,1
+Ancient,loc,1
+Anaxagorus,pers,1
+Anaxidamos,pers,1
+Miletopolitis,pers,1
+Mieza,loc,1
+Mieza,pers,1
+Milesian,loc,1
+Gaugamela,loc,1
+Gaugamela,pers,1
+Gaule,work,1
+Ganymedes,pers,1
+Garganus,loc,1
+Garigliano,pers,1
+Garrulity,work,1
+Gerba,loc,1
+Gades,work,1
+Gegania,loc,1
+Gegania,pers,1
+Gela,pers,1
+Gell.,pers,1
+Gaza,work,1
+Gedrosia,pers,1
+Gates,work,1
+Miletopolis,loc,1
+Amphictyons,pers,1
+Amphiktyons,pers,1
+Amphilochia,loc,1
+Andr,pers,1
+Androkleion,pers,1
+Anaxilos,pers,1
+Gadeira,pers,1
+Miseno,loc,1
+Minos',pers,1
+Minoses,pers,1
+Minotaur,pers,1
+Molossi,work,1
+Molossian,work,1
+Mola,pers,1
+Mola,work,1
+Anabasis_,work,1
+Anaitis,pers,1
+Anakas,pers,1
+Anaktes,pers,1
+Anabasis,pers,1
+Amphilochia,pers,1
+Amphitrope,loc,1
+Miscellaneous,work,1
+Minturnæ,work,1
+Minucius Thermus,pers,1
+Misanthropist,work,1
+Amicus,pers,1
+Ambition,pers,1
+Ambracia,loc,1
+Ambraciot,work,1
+Anabasis,work,1
+Mithrdates,pers,1
+Mithrid.,pers,1
+Mithrida,pers,1
+Mithridat,loc,1
+Mithridates,loc,1
+Mistresses,pers,1
+Mithr,pers,1
+Minturnæ,pers,1
+Mons,work,1
+Mucii,pers,1
+Bisanthe,loc,1
+Bisanthe,pers,1
+Biograph,work,1
+Biograph.,work,1
+Biographical,work,1
+Bion,pers,1
+Montaigne,pers,1
+Monteith,pers,1
+Monti Lepini,work,1
+Monumentum Ancyranum,work,1
+Molus,work,1
+Moneta,pers,1
+Moniyas,pers,1
+Monkshood,pers,1
+Moors,loc,1
+Moors,pers,1
+Mora,pers,1
+Moralia,work,1
+Morals,work,1
+Morbus,pers,1
+Mons Cathena,work,1
+Mont,loc,1
+Mnasitheus,pers,1
+Mithridutes,pers,1
+Mitto,work,1
+Morgantina,loc,1
+Moschic,pers,1
+Moschic,work,1
+Mosella,pers,1
+Moselle,loc,1
+Mucius Scævola,work,1
+Mount Kithæron,work,1
+Mount Taurus,work,1
+Mountainous,work,1
+Mountains,work,1
+Mounts,loc,1
+Mount,pers,1
+Mount Aventine,loc,1
+Gaius Caesar,pers,1
+Galatia,pers,1
+Galatia,work,1
+Galatia.,loc,1
+Galatians.,loc,1
+Galatôn,pers,1
+Gabs,loc,1
+Mucii,work,1
+Gallic,work,1
+Gallæci,pers,1
+Gallæcus,pers,1
+Games,work,1
+Gandaritans,pers,1
+Gandaritæ,work,1
+Galicia,loc,1
+Gallic,loc,1
+"Bion,",pers,1
+Furii,work,1
+Furina,loc,1
+Fulvia,loc,1
+Fulvian,pers,1
+Fulvii,work,1
+Fulvius Nobilior,pers,1
+Fulvius.,pers,1
+Mosula,pers,1
+Mosæ,loc,1
+Mothone,loc,1
+Mothone,pers,1
+Mygdonike,work,1
+Mygdonius,pers,1
+Mygdonius,work,1
+Mykalé,loc,1
+Ambustus,pers,1
+Ambustus,work,1
+Ameria,pers,1
+Amerinus,pers,1
+Mount Helikon,work,1
+Mount Hephæus,loc,1
+Moses,pers,1
+Moses du Soul,pers,1
+Alphenus,pers,1
+Ammonias,pers,1
+Ammonium,loc,1
+Ammonius,pers,1
+Amorgos,loc,1
+Amiot,pers,1
+Amisenes,pers,1
+Amm,pers,1
+Mount Aventine,work,1
+Mount Aventino,work,1
+Amanus,work,1
+Alopekae,pers,1
+Alopekai,loc,1
+Alopekus,pers,1
+Alopekæ,loc,1
+Alpheius,work,1
+Mysts,loc,1
+Mysts,work,1
+Alkidamas,pers,1
+Alexandropolis,loc,1
+Alexandropolis,pers,1
+Alfenus,pers,1
+Alfenus Varus,pers,1
+Amazoneum,loc,1
+Müller,pers,1
+N. 37,scope,1
+N. H.,work,1
+Mythus,work,1
+Mæander,work,1
+Mæcius,pers,1
+Mædi,work,1
+Mysia,loc,1
+Murad,work,1
+Murcus,pers,1
+Murg-aub,work,1
+Murænæ,pers,1
+Mundus,pers,1
+Mælius,pers,1
+Mæotis,pers,1
+Mæotis,work,1
+Mykenae,loc,1
+Mykenæ,work,1
+Mylae,loc,1
+Museum,work,1
+Mycenæ,loc,1
+Mycenæi,pers,1
+Mygdonia,loc,1
+Mygdonike,pers,1
+Bisaltæ,work,1
+Amardus,pers,1
+Amasia,loc,1
+Amat,work,1
+Amator,work,1
+Amazon,pers,1
+Alps,loc,1
+Amanus,loc,1
+Beneventum,pers,1
+Bellienus,pers,1
+Bello Alexandrino,work,1
+Bellum Catilin,work,1
+Bithynians,loc,1
+Bivona,loc,1
+Blakesley,pers,1
+Birkenna,pers,1
+Fury,pers,1
+G.,pers,1
+Fulvus Calenus,pers,1
+Fundi,loc,1
+Furculæ,work,1
+Furfidius,pers,1
+Furii,pers,1
+Beneventum,loc,1
+Amazonian,loc,1
+Amazonian,pers,1
+Gabiene,pers,1
+Gabii,pers,1
+"Gabii,",pers,1
+Gabinii_,loc,1
+Gabinius Aulus,pers,1
+Further,loc,1
+Nabathæan,work,1
+Nabathæans,work,1
+Nabathæi,work,1
+Naked,pers,1
+Namur,loc,1
+Neon,work,1
+Neoptolemus,loc,1
+Nemean,work,1
+Narnia,loc,1
+Narnia,pers,1
+Naphe kai,pers,1
+Naphtha,pers,1
+Nar,work,1
+Narbo Martius,pers,1
+Nabathea,work,1
+Nabathæa,loc,1
+Nasica Serapio,work,1
+Nat Hist.,work,1
+Nat.,work,1
+Naucrates,pers,1
+Narbonensis,work,1
+Narbonne,loc,1
+Narbonne,pers,1
+Nares,pers,1
+Mythi,loc,1
+Mythology,work,1
+Mylassa,pers,1
+Mylæ,loc,1
+Myndus,pers,1
+Myoparônes,pers,1
+Myous,loc,1
+Nasica,work,1
+Nicomedia,pers,1
+Nigidius,pers,1
+Nestor,work,1
+Neuwied,loc,1
+New Testament,work,1
+"New,",scope,1
+Newton,pers,1
+Nicom.,pers,1
+Alkibiaides,pers,1
+Necessity,loc,1
+Necyia,pers,1
+Naukrates,pers,1
+Naxians,pers,1
+Nikaea,loc,1
+Nikaea,pers,1
+Nicomache,pers,1
+Allia,loc,1
+Allies,loc,1
+Allies,pers,1
+Allobroges,pers,1
+Ally,work,1
+Alkimus,loc,1
+Alkmæonidæ,work,1
+Alise,pers,1
+Nemesis',pers,1
+Neanthes,pers,1
+Neapolitans,loc,1
+Ale,pers,1
+Alea,pers,1
+Alba Romulus,pers,1
+Albani,loc,1
+Albans,pers,1
+Alexandrians,loc,1
+Alexandrine,work,1
+Alexandrines,pers,1
+Flavius Fimbria,pers,1
+Flavius Gallus,pers,1
+Flavius Sabinus,pers,1
+Fleece,work,1
+Flight,work,1
+Akademeia,work,1
+Akamantis,loc,1
+Akamantis,pers,1
+Akarnanian,work,1
+Akarnanians,loc,1
+Alexandr.,pers,1
+Alexandreia,loc,1
+Alexandria,work,1
+Nio,loc,1
+Niphates,loc,1
+Niphates,pers,1
+Nisaea,loc,1
+Nikomedia,pers,1
+Akragas,loc,1
+Akrillæ,pers,1
+Akademeia,pers,1
+Nereids,pers,1
+Nero Claudius Cæsar Drusus,pers,1
+Nobili,work,1
+Nobilitas,pers,1
+Nola,loc,1
+Nonae,pers,1
+Nonae,work,1
+Nilus',loc,1
+Alesia.,loc,1
+Alexander,loc,1
+Alexander ch.,pers,1
+Albinius,pers,1
+Albinus Magnus,pers,1
+Albius Carinnas,pers,1
+Albus,work,1
+Alcalá,work,1
+Fossæ,work,1
+Fossæ Cluiliæ,work,1
+Fox,pers,1
+Fox-hill,pers,1
+Fox-hill,work,1
+Fr.,scope,1
+Gabiene,loc,1
+"Aleas,",pers,1
+Freinsheim,pers,1
+Frentani,pers,1
+Friendship,work,1
+Frontinus,work,1
+Frag_.,work,1
+Fragm.,work,1
+Frascati,loc,1
+Freedom,pers,1
+Frugi,work,1
+Frugi Magnus,work,1
+Frumenteriæ Leges,work,1
+Fufius,pers,1
+Fufius Calenus,pers,1
+Fulguritum,work,1
+Fregellæ,loc,1
+Fregellæ.,loc,1
+Nussa,loc,1
+Nussa,pers,1
+Numerius',pers,1
+Numidia,work,1
+Numidian,pers,1
+Ahala,work,1
+Agri,pers,1
+Agrigentum,work,1
+Norbani,work,1
+Nussa,work,1
+Nymphæum,loc,1
+Nysa,loc,1
+Numistro,loc,1
+Numistro,pers,1
+Nurscia,pers,1
+Nursia,pers,1
+Novocomum,work,1
+Norbanus,loc,1
+Norfolk,loc,1
+Nota Censoria,work,1
+Note H.,work,1
+Nonakris,loc,1
+Nonakris,pers,1
+Nora,pers,1
+Nile,pers,1
+Nikius,pers,1
+Nikomache,pers,1
+Novus Homo,work,1
+Nudus,pers,1
+Numa,scope,1
+November,work,1
+Novices,work,1
+Oceanus,pers,1
+Octav.,work,1
+Octavi,pers,1
+Octavian,pers,1
+OEdipus solved,work,1
+OEnarus,pers,1
+OEneadæ,pers,1
+OEnopion,pers,1
+Numidians,work,1
+"Numa,",work,1
+"Numa, ch.",work,1
+Numariæ,pers,1
+Octavii,work,1
+Octavius Gracimus,pers,1
+Octavius Nepos,pers,1
+October 48,scope,1
+Akrourian,pers,1
+Akrourium,loc,1
+Akræ,loc,1
+Akræ,pers,1
+Aktaion,pers,1
+Akontium,pers,1
+Akrae,pers,1
+Numidians,pers,1
+Agrionia,pers,1
+Ala,pers,1
+Alabanda,loc,1
+Alabanda,pers,1
+Alalkomenius,pers,1
+Alazonius,work,1
+Alba Longa,work,1
+Akrocorinthus,loc,1
+Oenarus,pers,1
+Oeneadae,pers,1
+Oenomaus,pers,1
+Ofella Lucretius,pers,1
+Od,work,1
+Ode,work,1
+Bola,loc,1
+Bolla,work,1
+Oia,loc,1
+Oinous,pers,1
+Olbia,loc,1
+Olbiani,loc,1
+Olbiani,pers,1
+Olbiopolis,loc,1
+Oedipus,pers,1
+Oenanthes,pers,1
+OEdipus,work,1
+OEdipus at Kolonus,work,1
+Old Castile,work,1
+Oligyrtus,pers,1
+Oligyrtus,work,1
+Olive,work,1
+Olkades,pers,1
+Olokrus,loc,1
+Oatlands,pers,1
+Oatlands,work,1
+Obsequens,pers,1
+Nysaeus,loc,1
+Nyssa,loc,1
+Nyssa,pers,1
+Nysæus,pers,1
+O.,pers,1
+Onatius Aurelius,pers,1
+Onea,loc,1
+Oneia,pers,1
+Oneirocritica,work,1
+Olynthian,loc,1
+Olynthians,loc,1
+Olynthus,loc,1
+Omphale,loc,1
+Formiæ,pers,1
+Florence,loc,1
+Florius,pers,1
+Fodii,pers,1
+Fondi,loc,1
+Odyssey_,work,1
+Oechalia,pers,1
+On Tombs',work,1
+Fortunate,work,1
+Forum,pers,1
+Forum Vocontiorum,work,1
+Fossae Cluiliae,work,1
+Forbes,pers,1
+Forchhammer,pers,1
+Forensic,pers,1
+Formentera,loc,1
+Bollae,pers,1
+Boeotarch,work,1
+Finmesino,loc,1
+Fiorent,pers,1
+Fidenates,pers,1
+Fidentia,loc,1
+Fidenæ,pers,1
+Fides,loc,1
+Orchinius,pers,1
+Orchomenes,loc,1
+Orchomenos,pers,1
+Orcini,pers,1
+Or.,work,1
+Oration Pro Cn.,work,1
+Orbitello,loc,1
+Opsigonus,work,1
+Agrippa,scope,1
+Agrippa,work,1
+Agræ.,loc,1
+Olympus',loc,1
+Olokrus,pers,1
+Olympiads,loc,1
+Orchalian,pers,1
+Orchalian,work,1
+Aix,work,1
+Aix-la-Chapelle,loc,1
+"Ahenobarbi,",pers,1
+Aiantis,pers,1
+Aida,pers,1
+Aigikoreis,pers,1
+Aipeia,loc,1
+Aipeia,pers,1
+Omphale,pers,1
+Olympic,pers,1
+Olympius,loc,1
+Africanus Minor,work,1
+Agatharchides,pers,1
+Aisne,work,1
+Aius,pers,1
+Aius Locutius,pers,1
+Big-belly,work,1
+Bilbao,loc,1
+Billarus,pers,1
+Bologna,pers,1
+Bona,work,1
+Bona Dea,work,1
+Bonn,loc,1
+Bononia,loc,1
+Fiumicino,work,1
+Flacco,work,1
+Field,work,1
+Fimbria,work,1
+Bipont,work,1
+Bir,pers,1
+Biblioth,work,1
+Biennium,loc,1
+Aegeis,pers,1
+Agnomen,pers,1
+Flaminiaus,pers,1
+Flamininius,pers,1
+Flathe,pers,1
+Flathe,work,1
+Firmum,loc,1
+Fiume,loc,1
+Optilitis,pers,1
+Optimates,pers,1
+Opuntian,pers,1
+Aemilian,pers,1
+Adrumetum,loc,1
+Adrumetum,work,1
+Advancement,work,1
+Aegae,loc,1
+Oreitæ,work,1
+Orelli,work,1
+Oreus,loc,1
+Oreus,pers,1
+Otys,work,1
+Ouibios,pers,1
+Ovicula,pers,1
+Ovid,pers,1
+Oromazes,pers,1
+Orfa,loc,1
+Oricum,pers,1
+Oricum,work,1
+Oricus,pers,1
+Orleans,pers,1
+Orcus,pers,1
+Oreitæ,pers,1
+Ager Publicus,pers,1
+Ages,work,1
+Opuntian,work,1
+Oneskritus,pers,1
+Onisus,pers,1
+Opera,work,1
+Oropus,loc,1
+Orphic rites,pers,1
+Bononia,pers,1
+Boeotians,work,1
+Agora,pers,1
+Agha,work,1
+Agiadæ,pers,1
+Agiadæ,work,1
+Agis III,pers,1
+Agenor,pers,1
+P. Vatinius,pers,1
+P. Volumnius,pers,1
+P.M.,scope,1
+P.W.,pers,1
+P. Manutius,pers,1
+P. Mucius Scævola,pers,1
+P. Quintio,work,1
+P. Scævola,work,1
+Aeson,pers,1
+Aegospotamoi,loc,1
+Aelii,pers,1
+Ossa,loc,1
+Ortalus,pers,1
+Orthia,pers,1
+Ortygia,loc,1
+P. Varinius,pers,1
+Ad Div.,work,1
+Ad Familiares,work,1
+Ad Quint,work,1
+Addison,pers,1
+African,loc,1
+Africanus Major,scope,1
+Aeolian,loc,1
+Aesculapius,pers,1
+Otho,work,1
+"Otho, chs.",pers,1
+Otryæ,loc,1
+Otryæ,pers,1
+Oschophoria,loc,1
+Osimo,pers,1
+Osrhoene,loc,1
+Adjutrix,pers,1
+Pannonia,pers,1
+Fabulus,pers,1
+Facciolati,work,1
+Fabius,work,1
+Fabius Fabulus,pers,1
+Fabius Maximus Rullus,pers,1
+Fabius Rullus,pers,1
+Ferentine,pers,1
+Pagasæ,pers,1
+Pagi,work,1
+Painted,work,1
+Pacificators,pers,1
+Padus,pers,1
+Pac.,pers,1
+Pachynus,pers,1
+Panemus,pers,1
+P,work,1
+Palaiskepsis,pers,1
+Palermo,loc,1
+Palestrina,loc,1
+Palilia,pers,1
+Paeon,pers,1
+Paeonians,pers,1
+Pagasae,loc,1
+P. Servilius Vatia,pers,1
+P. Servillus,pers,1
+P. Silius,pers,1
+P. Cyc._),work,1
+P. Licinius Crassus,pers,1
+Oxus,work,1
+Oyez,work,1
+Ozolæ,work,1
+Panaktum,work,1
+Panaktus,loc,1
+Panaktus,pers,1
+Panemos,pers,1
+Paludi,work,1
+Palæa,pers,1
+Pamphylia,work,1
+Achæan,work,1
+Fasti_),work,1
+Fat,work,1
+Fausta Cornelia,pers,1
+Flamens,pers,1
+Flaminian,pers,1
+Pannonians,loc,1
+Pannonians,work,1
+Panaktum,loc,1
+Feciales,pers,1
+Fellowes,pers,1
+Female,work,1
+Faustus Cornelius Sulla,pers,1
+Faz,work,1
+Fear,work,1
+Fasti Hellen,work,1
+Fasti Hellen.,work,1
+Fermo,pers,1
+Festival,work,1
+Festus,pers,1
+Few,work,1
+Fibrenus,work,1
+Febraté,work,1
+Februarius,pers,1
+February,scope,1
+Pappas,pers,1
+Parali,loc,1
+Panthoides,work,1
+Pantikapæum,loc,1
+Paphlagonia,work,1
+Panope,pers,1
+Bound,pers,1
+Bound,work,1
+Parallel,work,1
+Parallel Lives,pers,1
+Paralus,work,1
+Paranomon,pers,1
+Paranæa,loc,1
+Paphos.,loc,1
+Papinus,pers,1
+Papirius Pætus,pers,1
+Adranites,pers,1
+Adelphius,pers,1
+Adherbal,pers,1
+Adige,pers,1
+Pallantium,pers,1
+Pallas Athene,pers,1
+Pallene,loc,1
+Palm,work,1
+Aciarathes,pers,1
+Acidinus,pers,1
+Adrasteia,work,1
+Adria,pers,1
+Adjutrix,work,1
+Admiral,work,1
+Adonia,pers,1
+Adramyttium,pers,1
+Fabius',pers,1
+Fable,work,1
+Fabullus,pers,1
+Panormus,pers,1
+Pans,pers,1
+Pansaunias,pers,1
+Pantaleon,pers,1
+Parthica,work,1
+Fannius.,pers,1
+Fasti Consulares,work,1
+Fadia,pers,1
+Fahrenheit,work,1
+Fair,work,1
+Faith,work,1
+Falerians,pers,1
+Falernian,pers,1
+Euterpe,pers,1
+Euthippus,pers,1
+Euthippus,work,1
+Euthynus,pers,1
+Eutrapelus,pers,1
+Faliscans,pers,1
+Fannia,work,1
+Fannius Strabo,pers,1
+Bourbonnes-les-Bains,pers,1
+Bovillæ,work,1
+Brachia,pers,1
+Bormonis,work,1
+Bottiaeans,pers,1
+Evalkus,pers,1
+Evan,pers,1
+Euterpe,loc,1
+Academic,work,1
+Academic Novi.,work,1
+Academica,work,1
+Academica Priora,work,1
+Academies,work,1
+Academus,pers,1
+Actæon,pers,1
+Actæons,pers,1
+Pater,work,1
+Pater Patratus,work,1
+Paterc,pers,1
+Patercules,pers,1
+Pasitigris,pers,1
+Passaron,work,1
+Passow,pers,1
+Pat.,work,1
+Paros,loc,1
+Parsagarda,work,1
+Part,work,1
+Part 3,scope,1
+Paranæa,pers,1
+Patres,pers,1
+Patrocinium,work,1
+Patroclus,pers,1
+Parthus,pers,1
+Paryadres,work,1
+Parætonium,loc,1
+Parætonium,pers,1
+Pasakas,pers,1
+Part II.,scope,1
+Parthia,work,1
+Parnassus,pers,1
+Pediaei,work,1
+Pediculosus,pers,1
+Pedioei,work,1
+Paulinus,pers,1
+Paulus Aemilius,pers,1
+Pausa,pers,1
+Abolus,pers,1
+Aborigines,pers,1
+Pedum,pers,1
+Pegae,loc,1
+Pegæ,loc,1
+Peiraeus,work,1
+Peace,pers,1
+Peculatus,work,1
+Pecuniis,pers,1
+Pedalium,loc,1
+Acrillæ,loc,1
+Acrillæ,pers,1
+Acrocorinthus,pers,1
+Patara,pers,1
+Pasargadæ,loc,1
+Pasargadæ,pers,1
+Pasitigris,loc,1
+Pedum,loc,1
+Ad Attic,work,1
+Ad Attic_,work,1
+Ad Atticum_,work,1
+Act Prima,work,1
+Act iii.,scope,1
+Act iv.,scope,1
+Acouete,pers,1
+Acq,work,1
+Aachen,loc,1
+Abantes,work,1
+Acharna,loc,1
+Acharnae,loc,1
+Acharnai,loc,1
+Achelous,loc,1
+Achelous,pers,1
+Acca,pers,1
+Brachylles,pers,1
+Brachyllus,pers,1
+Brauron,loc,1
+Brauron,pers,1
+Brazen-face,work,1
+A.D. 9,work,1
+A.S.,work,1
+ASYLUM,work,1
+Evoes,pers,1
+Eutrapolus,pers,1
+Eutychus,pers,1
+Blind,work,1
+Blossius.,pers,1
+Board,work,1
+Boedromia,pers,1
+Boedromia,work,1
+A.D. 22,scope,1
+A.D. 3,work,1
+Eupolis,loc,1
+Exekestides,pers,1
+Exodium,pers,1
+Evenus,loc,1
+Evergetes,pers,1
+Evion,pers,1
+Peltasts,pers,1
+Peneius,pers,1
+Peneus,pers,1
+Perperua,pers,1
+Perrhaebae,pers,1
+Perrhæbia,pers,1
+Perrhæbians,loc,1
+Perrhæbæ,pers,1
+Pentapyla,pers,1
+Pentapyla,work,1
+Penteleum,loc,1
+Pentelic,pers,1
+People,work,1
+Peninsular,work,1
+Penny Cyclop,work,1
+Pentakosiomedimni,pers,1
+Pelignians,pers,1
+Peiræic,work,1
+Peisianakteum,work,1
+Peisiatratus,pers,1
+Peregrinus,pers,1
+Pergamia,loc,1
+Pergamia,pers,1
+Pentakosiomedimni,work,1
+Acca Laurentia,pers,1
+Account,work,1
+Paula Valeria,pers,1
+Peloponnese,loc,1
+Peloponnesian,pers,1
+Pelopennesus,loc,1
+Pelopidas,work,1
+Peisistratidae,work,1
+Euripides',pers,1
+Persae,work,1
+Persephassa,pers,1
+Persephassia,pers,1
+Periskylakismos,pers,1
+Periœki,pers,1
+Perkote,pers,1
+Period,work,1
+Britomart,pers,1
+Eumolpidæ,pers,1
+Eudæmon,pers,1
+Eudæus,pers,1
+Eufemia,pers,1
+Eurypontidae,pers,1
+Eurypontidæ,pers,1
+Euporus,pers,1
+Brutii,work,1
+Bruttii,pers,1
+Bruttium,loc,1
+Bruttium,pers,1
+Bruttium,work,1
+Brucca,work,1
+Britain,pers,1
+Britanni,pers,1
+Book,work,1
+Book 1,scope,1
+Book 41,scope,1
+Book ii.,scope,1
+Book xvii,scope,1
+Borgo San Donnino,work,1
+Bormo,work,1
+Bruti,work,1
+Petillii,pers,1
+Petillius,pers,1
+Pesaro,pers,1
+Pessinus,loc,1
+Petelia,loc,1
+Petelian,work,1
+Petelian     Grove,pers,1
+Persuasion,loc,1
+Abrotonon,loc,1
+Absolvo,pers,1
+Abullionte,pers,1
+Abullionte,work,1
+Abas,pers,1
+Abolus,loc,1
+Periplus,work,1
+Petilia,loc,1
+9-15,scope,1
+Abydos,loc,1
+Abydus,pers,1
+Ac,work,1
+Academ,work,1
+Academ.,pers,1
+Academia,loc,1
+Abra,pers,1
+Peripatetic,work,1
+93 P,scope,1
+"9, 17, 18,",scope,1
+"9, 19",scope,1
+"9, 20",scope,1
+"9, 21,     25",scope,1
+"9, 23",scope,1
+"9, 24",scope,1
+Eumenides,pers,1
+Boukation,pers,1
+Bontes,pers,1
+A,work,1
+A.,pers,1
+A.D,scope,1
+A.D.,scope,1
+A.D. 114,scope,1
+Eupatrids,pers,1
+Eupatridæ,work,1
+Euphratem,loc,1
+Euneon,pers,1
+Euneos,pers,1
+Eupatrid,work,1
+Eupatridae,pers,1
+Eulaeus,pers,1
+Etruscans,pers,1
+Essay on the Government of Dependencies,work,1
+Essay on the Gracchi,work,1
+Etchen-Chai,pers,1
+Eteokles,pers,1
+Eth.,work,1
+Ethics,loc,1
+Eupatridae,work,1
+Persæ,pers,1
+Persæ,work,1
+87 and 86,scope,1
+81.,scope,1
+"83, ii",scope,1
+834,scope,1
+Bubino,pers,1
+Bucephalus,pers,1
+Pheneus,pers,1
+Phasis,pers,1
+Phayllus,pers,1
+Phaÿllus,pers,1
+Phegaea,pers,1
+Phegæa,pers,1
+Pharsalians,work,1
+Pharsalus,work,1
+Phaestian,work,1
+Phaethon,pers,1
+Phagita,work,1
+Phainomerides,pers,1
+Phaedo,pers,1
+Phenes,pers,1
+Pheneum,pers,1
+Pheneus,loc,1
+Pharmacusa,loc,1
+Pharmacusa,pers,1
+Pharmakoussa,work,1
+Pharmouthi,work,1
+Pharnaces,pers,1
+Phanius,pers,1
+Phantasia,work,1
+Phaedrus,pers,1
+A,pers,1
+9-3/4,scope,1
+9-3/4d,scope,1
+Perusia,loc,1
+Persepolis,loc,1
+Persepolis,pers,1
+Persian,work,1
+Pharax,work,1
+Philhellen,pers,1
+Philaidæ,pers,1
+Philargyros,pers,1
+Philargyrus,pers,1
+"8, 10, 29",scope,1
+"8, 10, 34",scope,1
+78 to 72,scope,1
+Euangelos,pers,1
+Pharos,loc,1
+Pharsal,work,1
+Philip Titus,pers,1
+Philip V.,pers,1
+Philip of,pers,1
+Philipp,scope,1
+Philipp.,pers,1
+Philemon,pers,1
+"9, 15, 16, 28, 34",scope,1
+"9, 15, 17, 26, 27,     29",scope,1
+89-8,scope,1
+8th,scope,1
+8vo,scope,1
+8vo.,scope,1
+"9,     13",scope,1
+Pharnakos,pers,1
+"8, 62",scope,1
+"8, 18, 23",scope,1
+"8, 19",scope,1
+"8, 20, 27",scope,1
+"8, 20, 29, 30, 41",scope,1
+"8, 24",scope,1
+"9, 11",scope,1
+"9, 12",scope,1
+"8,     11,",scope,1
+"8, c. 26",scope,1
+"8,14",scope,1
+8-10,scope,1
+80 or 79,scope,1
+"80, ii.",scope,1
+80.,scope,1
+"8, 9,     13, 14, 15,",scope,1
+Byblis,loc,1
+Byllis,pers,1
+Byzan,loc,1
+Burmaun,pers,1
+Buthrotum,loc,1
+Brutus.,pers,1
+Bryan,pers,1
+"79, iii.",scope,1
+Brevitate Vitæ,work,1
+Briareus,pers,1
+Bridge-folk,work,1
+Bridgers,pers,1
+Brindisi,loc,1
+Buthrotum,pers,1
+Buthrotum.,loc,1
+Butrinto,pers,1
+Euboean,work,1
+Eubulus,pers,1
+Eubœa,pers,1
+Ethiopians,pers,1
+Etrurians,loc,1
+Etruscan,loc,1
+Britons,loc,1
+Britons,pers,1
+Phlya,loc,1
+Phlya,pers,1
+Phlyae,loc,1
+Phlyæ,loc,1
+Phlyæ,pers,1
+Philæus,pers,1
+Phlegæa,pers,1
+Philoromæus,pers,1
+Philis,pers,1
+Phobos,pers,1
+Phoebus',pers,1
+Phoenicia,loc,1
+Phoenicia,pers,1
+Phoenicia,work,1
+Phlogidas,pers,1
+Phlogidas,work,1
+Philon,pers,1
+Philoktetes',pers,1
+Phillipp.,work,1
+Philo,loc,1
+Philoboeotus,pers,1
+Philobœotus,pers,1
+Philippic,work,1
+Philippica,work,1
+"8, 9, 11",scope,1
+"8, 9, 13",scope,1
+"8, c. 14",scope,1
+"8, 25, 29",scope,1
+"8, 28, 32",scope,1
+"8, 29, 33",scope,1
+"8, 31",scope,1
+"8, 33",scope,1
+Phraates,work,1
+Phraortes,pers,1
+Phrates,pers,1
+Phraaspa,pers,1
+Phokians,loc,1
+Phokians,work,1
+"Phokion,",pers,1
+735,scope,1
+Erythra,work,1
+Erythræan,loc,1
+Eridanus,loc,1
+Erektheium,work,1
+Erfurtensi,loc,1
+Ergadeis,pers,1
+Eubœans,work,1
+Eudaemon,pers,1
+España,work,1
+Essay,work,1
+Essay on the,work,1
+Erinnyes,work,1
+Erivan,loc,1
+Ersch,pers,1
+Erycina,loc,1
+Erythra,pers,1
+Philosophiæ Græco-Romanæ,work,1
+Philosophy,pers,1
+Phraata,pers,1
+Epirot,loc,1
+Eryx,pers,1
+"Eryx,",pers,1
+Es-Geria,loc,1
+Esino,pers,1
+Epistle,work,1
+Epistolarum,work,1
+Epistolorum,work,1
+Epistolæ,work,1
+Epiphanes,pers,1
+Epipolae,pers,1
+"8, 12,",scope,1
+"8, 12, 29; ii",scope,1
+Epopts,work,1
+Epit.,pers,1
+Epitadeus,pers,1
+Epitom,work,1
+Epitragia,loc,1
+Epizephyrian,work,1
+Epirots,loc,1
+Epirots,work,1
+Bœotian,work,1
+Bœotians,loc,1
+Böedromion,loc,1
+Ephemerides,pers,1
+Ephesians,loc,1
+Ephesians,pers,1
+Epod.,work,1
+Epode,work,1
+"8, 13, 26, 36",scope,1
+"8, 14",scope,1
+"8, 15, 24",scope,1
+"8, 16",scope,1
+"8, 16, 32",scope,1
+"8, 17,",scope,1
+"8, 11,     19",scope,1
+"8, 11, 20",scope,1
+Phrygia,work,1
+Pictæ,pers,1
+Picus,pers,1
+Piemont,loc,1
+Pimply,work,1
+Piacenza,loc,1
+Picentines,pers,1
+Picenum,work,1
+Phyla,loc,1
+Phylakia,pers,1
+Phryne,pers,1
+Phthiot,work,1
+Phthiotis,loc,1
+Phrearri,loc,1
+Phrearri,work,1
+Phryges,pers,1
+Phoenicians,work,1
+Phoenix,pers,1
+Phokia,loc,1
+Phokian,pers,1
+Phytalid,pers,1
+Phytalidae,work,1
+Phytalidæ,pers,1
+Phæa,pers,1
+"8, 13, 18",scope,1
+"8,     15",scope,1
+"8,     9, 13",scope,1
+"8, 10,",scope,1
+"8, 10, 11,     13,",scope,1
+"8, 10, 21,",scope,1
+Phoenician,pers,1
+Phoenician,work,1
+Pitane,loc,1
+Pine-bender,work,1
+Piræus,loc,1
+Pisa,pers,1
+Pisaurum,loc,1
+Pisaurum,work,1
+Pisidia,loc,1
+Pinarii,work,1
+Pithoegia,pers,1
+Pitiones,pers,1
+Pittheus',pers,1
+Pityussa,loc,1
+Piso Frugi,work,1
+Pisonem,pers,1
+Pistoia,loc,1
+Pistoria,loc,1
+Phædo,pers,1
+Phædon,pers,1
+Phædon,work,1
+Phædra,pers,1
+Phædrus,pers,1
+Phædrus,work,1
+Phænomena,work,1
+Pitane.,loc,1
+Picinæ,loc,1
+Picinæ,pers,1
+Phæstus,pers,1
+Phæthon,pers,1
+Phœbus,pers,1
+Phœnice,loc,1
+Phœnicians,pers,1
+Phœnissæ,work,1
+C. Aurelius,pers,1
+C. Cassius,pers,1
+C. Claudius Marcellus,pers,1
+C. Cornelius,pers,1
+Bœotarchs,loc,1
+Bœotarchs,pers,1
+Bœotarchy,work,1
+Bœotian,loc,1
+Bulla,work,1
+Burckhardt,pers,1
+Bruttius Sura,pers,1
+Brutum,work,1
+Brutum Liber Singularis,work,1
+Brutus Marcus,pers,1
+Brutus',pers,1
+C. Antonius,pers,1
+Elysian,work,1
+Elæa,loc,1
+Elæa,pers,1
+Emathion,work,1
+Epidaurians,pers,1
+Epigethes,pers,1
+Epigethus,pers,1
+Ephorship,work,1
+Pinarius Carpus,pers,1
+Pinarus,pers,1
+Pind.,pers,1
+Pine,work,1
+Plautia,pers,1
+Plautius,pers,1
+Plautus,pers,1
+Plebeian,pers,1
+Enna,loc,1
+Emperor,pers,1
+Emperor Augustus,pers,1
+Empire,work,1
+Encyclop.,work,1
+Elymiotis,pers,1
+Elymæans,pers,1
+Pityussa,pers,1
+Ep.,pers,1
+Ep.,work,1
+Epameinondas,loc,1
+Epameinondus,pers,1
+Endeis,pers,1
+Engyion,pers,1
+Enipeus,loc,1
+Enipeus,pers,1
+756,scope,1
+757,scope,1
+"750,000",scope,1
+Elephants,work,1
+Eleusinia,pers,1
+Elder,work,1
+Elders,loc,1
+Eleans,pers,1
+Plebeian,work,1
+Plebiscitum,work,1
+Plato,work,1
+Platonis,pers,1
+Platæan,work,1
+Plains,work,1
+"72, iii",scope,1
+"71, 92",scope,1
+Polynices,pers,1
+"7, 9",scope,1
+"7, 9,",scope,1
+"7, 15",scope,1
+"7, 15, 18",scope,1
+"7, 19",scope,1
+"7, 20, 23",scope,1
+"7, 23, 24",scope,1
+Plutarah,pers,1
+Plutarch,work,1
+Pluturch,pers,1
+Plemmyrium,pers,1
+Polyphron,pers,1
+Polykratidas,pers,1
+Polykratidas,work,1
+Polymachus,pers,1
+Politics,work,1
+Politik,work,1
+Poet,work,1
+Polemarch,pers,1
+Polemo,pers,1
+Plotiüm,pers,1
+Plut.,pers,1
+Plut.,work,1
+Pityussæ,work,1
+Pius,pers,1
+Pius VI,date,1
+Placentia,pers,1
+Plain,work,1
+Polemon.,pers,1
+Political,work,1
+Political Dictionary,work,1
+Cabes,loc,1
+Cabira,loc,1
+Cabul,loc,1
+Cades,loc,1
+C. Matius,pers,1
+C. Octavius,pers,1
+C. Oppius,pers,1
+C. Rabirius,pers,1
+Pompeii,pers,1
+Pompeii,work,1
+Pompeiopolis,loc,1
+Polyïdus,pers,1
+Pomentium,loc,1
+Pomentium,pers,1
+Pometinæ,pers,1
+Pomoerium,pers,1
+Polus,work,1
+Polyb.,pers,1
+Pomponii,pers,1
+Pomponius Atticus,pers,1
+Pompeius,loc,1
+Pompeius,work,1
+Pompeians,pers,1
+Pompeianum,work,1
+"7, 25",scope,1
+"7, 27, 28",scope,1
+73-71,scope,1
+73-75,scope,1
+724,scope,1
+Polyidus,pers,1
+Pollio,scope,1
+Polus,pers,1
+Popicola,pers,1
+Poppæus,pers,1
+Pontius Glaucus,pers,1
+Pontius Telesinus,pers,1
+Poor Laws,work,1
+Pope,pers,1
+Pope Gregory,pers,1
+Pontifex     Maximus,pers,1
+Eleutheria,loc,1
+Eleutheria,pers,1
+Eleutheræ,pers,1
+Elektra,pers,1
+Elektra,work,1
+Eleleu,pers,1
+Elephant,work,1
+Pomp.,work,1
+Elimia,pers,1
+Elimiae,loc,1
+Elimiæ,pers,1
+"Elis,",work,1
+Eleusinian,loc,1
+Eleusinians,work,1
+Eleusis,pers,1
+Eleutherae,loc,1
+C. Trebonius,pers,1
+Eirenes,pers,1
+Eirenes,work,1
+Edward IV.,date,1
+Egesta,loc,1
+Egyptian,pers,1
+Egyptian,work,1
+Elicium,pers,1
+CORN TRADE,work,1
+Ca,pers,1
+Cabeiri,pers,1
+7/20,scope,1
+"7, 27, 30",scope,1
+"7, 30",scope,1
+"7, 34",scope,1
+"7, 35",scope,1
+Bæbia,scope,1
+Cadiz,pers,1
+Cadiz,work,1
+Cadmilus,pers,1
+Cadmus,pers,1
+Caecus,pers,1
+Caelius,pers,1
+Caepio,pers,1
+Eiresione,work,1
+"Eion,",pers,1
+Eiren,pers,1
+Byzantines,loc,1
+Byzantines,pers,1
+Byzantines,work,1
+Byzantium,pers,1
+Bæbia,pers,1
+Pontine,work,1
+706,scope,1
+7-10,scope,1
+7-13,scope,1
+7-9,scope,1
+7.1456,scope,1
+Elatea,work,1
+Elateia,pers,1
+Porch,work,1
+Praxagoras,pers,1
+Praxiteles,pers,1
+Preller,pers,1
+Preserver,work,1
+Prevesa,loc,1
+Poverty,work,1
+Pozzuolo,work,1
+Porcius Cato Censorius,pers,1
+Porsena,loc,1
+Port Peiræus,loc,1
+Popularis,pers,1
+Populi,work,1
+Populus,work,1
+Populus Romanus,work,1
+Populusque Romanus,work,1
+Posilipo,loc,1
+Possinus,pers,1
+Porta,work,1
+Portia,pers,1
+Portico,work,1
+Porto,pers,1
+Poseideon,pers,1
+Porcii,pers,1
+"7, 35, 62",scope,1
+Pontius Cominius,pers,1
+Pomptinæ Paludes,pers,1
+Pompædius Silo,pers,1
+Pons Sublicius,work,1
+Poseidon.,pers,1
+Poseidonia,pers,1
+Posidonius,pers,1
+Privatrecht,work,1
+Pro,pers,1
+Priapine,pers,1
+Priest,pers,1
+Prima,work,1
+Princeps,pers,1
+Princeps Senatus,pers,1
+Proprætors,work,1
+Pro Cn.,work,1
+Pro Domo,work,1
+Pro P. Sestio,work,1
+Pro P. Sestio_,work,1
+Pro Q. Roscio,work,1
+Princeps Senatus,work,1
+Principia,work,1
+Priora,work,1
+Postumius,work,1
+Postumius Tubertus,pers,1
+Pro Rege Deiotaro,work,1
+Pro Scauro,work,1
+Proclus,pers,1
+Proconnesus,loc,1
+Proconsuls,pers,1
+Pro Balbo,work,1
+Praaspa,pers,1
+Pota,pers,1
+Pota,work,1
+Potamus,loc,1
+Potamus,pers,1
+"Potheinus,who",pers,1
+Posthumius Tubertus,pers,1
+Posthumus,pers,1
+Dyrrhachium,work,1
+Ekprepus,pers,1
+El,work,1
+Elaius,loc,1
+Elaius,pers,1
+Promiser,work,1
+Prony,pers,1
+Propertius,pers,1
+Echemus,pers,1
+E.,work,1
+E.N.E.,work,1
+Ebro,pers,1
+Dyme,pers,1
+Dyrrachinm,pers,1
+Dyrrachium,work,1
+Dyrrhachium,pers,1
+Ecregma,pers,1
+Ed.,work,1
+Edessa,pers,1
+Edonians,pers,1
+Edward III,date,1
+"Ebro,",work,1
+Ebusus,pers,1
+Echedemus,pers,1
+Propylaea,work,1
+Propylæa,work,1
+Proquæstors,work,1
+Proser,pers,1
+Proserpina,pers,1
+Dr.,work,1
+Dr. Smith,pers,1
+Draco,pers,1
+Duumviri,pers,1
+Droysen,pers,1
+Drumanu,pers,1
+Drusilla,pers,1
+Dryad,work,1
+Drako,pers,1
+Dramann,pers,1
+Dreams,work,1
+Dolopes,pers,1
+Dolopes,work,1
+Dolopia,loc,1
+Dolopians,pers,1
+Dureau,work,1
+Duria,pers,1
+Durius,pers,1
+Dusia,pers,1
+"7, 12, 14",scope,1
+"7, 13",scope,1
+"7, 14",scope,1
+694,scope,1
+Caius Caligula,pers,1
+Caius Caninius,pers,1
+Caius Cannicius,pers,1
+Dolabellæ,pers,1
+Prophantus,pers,1
+Propitious,pers,1
+Prokonnesus,pers,1
+Prokrustes,pers,1
+Promathion,pers,1
+7 & 8,scope,1
+"7, 10",scope,1
+"7, 10,",scope,1
+Ptolemæus.,pers,1
+Pt.,work,1
+Pthiriasis,pers,1
+Ptoeodorus,pers,1
+Ptolemies,pers,1
+Ptolemy,loc,1
+Psyche,work,1
+Psylli,loc,1
+Provincia,loc,1
+Provinciis Consularibus,work,1
+Protector,work,1
+Protus,pers,1
+Ptolemæus,loc,1
+Ptolemæus,work,1
+Ptolemæus Dionysius,pers,1
+Ptolemæus Lagous,pers,1
+Præfectus Fabrorum,pers,1
+Prænestines,pers,1
+Prænomen,work,1
+Præsiæ,work,1
+Prussia,loc,1
+Prytanes,work,1
+Prytanies,work,1
+Province,loc,1
+Dromichætus,pers,1
+Dromokleides,pers,1
+Double-Gate,work,1
+Douro,loc,1
+Dr.,pers,1
+Proconsulship,work,1
+Prokonessus,loc,1
+Præfectus Annonæ,pers,1
+Caius Lælius,pers,1
+Caius Mancinus,pers,1
+Caius Marcellus,pers,1
+Caius Marcius,pers,1
+Caius Cornelius,pers,1
+Caius Crassianus,pers,1
+Caius Hostilius,pers,1
+Caius Annius,pers,1
+C. Cæsar,pers,1
+C. Julius Cæsar,work,1
+C. Lewis,work,1
+C. Licinius Macer,pers,1
+C. Marcellus,pers,1
+Caius Julius Cæsar Octavianus,pers,1
+Caius Junius,pers,1
+Caius Lusius,pers,1
+Dorian,pers,1
+Dorians,loc,1
+Dorians,pers,1
+Dolônes,pers,1
+Domain,work,1
+Domestic,pers,1
+Dominus,pers,1
+Domitianus,pers,1
+Psylli,pers,1
+Prætor Vetus,work,1
+Prætorian Guard,work,1
+Prætors,pers,1
+Domitius Calvisius,pers,1
+Domitius Nero,pers,1
+Domo,work,1
+Donatus,pers,1
+Publilia,work,1
+Pyramus,pers,1
+Pyramus,work,1
+Pyrrh.,pers,1
+Pylades,pers,1
+Pylos,pers,1
+Pyramia,loc,1
+Pyramia,pers,1
+Publius Casca,pers,1
+Publius Consta,pers,1
+625,scope,1
+67-73,scope,1
+Publius Cornelius Scipio,pers,1
+Ptoüm,work,1
+Publicani,pers,1
+Publicius,pers,1
+Publius Crassus,pers,1
+Publius Licinius,work,1
+Publius Licinius Crassus,pers,1
+Publius Nasica,pers,1
+Publius Nigidius,pers,1
+Publius Sextius,pers,1
+Publius Antonius,pers,1
+Publius Barinus,pers,1
+Publius Silo,pers,1
+Publius Valerius,pers,1
+Publius Valerius Publicola,pers,1
+Publius Varinius,pers,1
+Publius Venturius,pers,1
+Publius Villius,pers,1
+Publius Villius Tappulus,pers,1
+Publius Volumnius,pers,1
+Pyanepsion,work,1
+"61, 66",scope,1
+61-66,scope,1
+6000,scope,1
+64-69,scope,1
+Pydna Antigonus,loc,1
+Punic,work,1
+Punic War,work,1
+Discord,pers,1
+Diopolis,pers,1
+Dioscurias,pers,1
+Doris,pers,1
+Dos,pers,1
+Dos.,work,1
+Double,work,1
+Double Gate,work,1
+Dogs' Heads,work,1
+Dium,loc,1
+"Dium,",pers,1
+Dives,pers,1
+Divination,work,1
+Dipylum,work,1
+Dirke,pers,1
+Dirké,pers,1
+Pyramids,work,1
+Puteoli,work,1
+Pyanepsion,loc,1
+Diokleides,work,1
+Diyarbeker,pers,1
+Doctrines,pers,1
+Dog,work,1
+Dog's Heads,work,1
+Quinctius,pers,1
+Quinctius Cincinnatus,work,1
+Q. Oppius,pers,1
+Q. Servilius,pers,1
+Q. Servilius Cæpio,pers,1
+"Q., i.",work,1
+Quadranteria,work,1
+Q. Considius,work,1
+Pythium,work,1
+Pytho,pers,1
+Pythodoris,pers,1
+Pythagorean,pers,1
+Pythagoreans,pers,1
+Pythian,loc,1
+Quaestor,pers,1
+Queen,pers,1
+Pæstum,loc,1
+Pæstum,work,1
+Pythokleides,pers,1
+Pythokleides,work,1
+Pythonike,pers,1
+Pythian Apollo,work,1
+Pythionike,pers,1
+Pythium,pers,1
+Punjaub,work,1
+Punta,work,1
+Purification,pers,1
+Puteoli,loc,1
+Pæanian,pers,1
+Pæon,pers,1
+Pæonia,pers,1
+Pæonians,loc,1
+Quintus Arrius,pers,1
+Quintus Aurelius,pers,1
+Quintus Capitolinus,pers,1
+Quintus Cassius,pers,1
+"6, 21",scope,1
+"6, 21, 23",scope,1
+"6,     18, 31, 39; ii",scope,1
+"6, 10, 18, 19,",scope,1
+Quintus Hortensius,pers,1
+Quintus Ligarius,pers,1
+Quintus Marcius,pers,1
+Quintus Metellus Pius,pers,1
+Quintus Mucius Scævola,pers,1
+Quintus Mummius,pers,1
+Quintus Ambustus,pers,1
+Quintus Antyllius,pers,1
+Quintus Pompeius,pers,1
+Quintus Sertorius,pers,1
+Quintus Sulpicius,pers,1
+Quintus Titius,pers,1
+Quintus Valerius,pers,1
+Quintus Æmilius,pers,1
+Quintus',pers,1
+Quintus Fulvius,pers,1
+Q. Cæcilius Metellus Celer,pers,1
+Q. Cæpio Brutus,work,1
+Q. Fabius,work,1
+Q. Fufius,work,1
+Pætus,pers,1
+Pélates,pers,1
+Q. Catulus,pers,1
+Q. Cicero,pers,1
+Dion.,work,1
+Dion; ii,pers,1
+Dionassa,pers,1
+Dionassa,work,1
+Dion,loc,1
+Dion Cass.,work,1
+62-66,scope,1
+Quintus Fabius Maximus,pers,1
+Dexius,pers,1
+Deïoneus,pers,1
+Diadematus,work,1
+Dionys.,pers,1
+Dionysia,work,1
+Dionysius,work,1
+"Dion,",work,1
+Dion.,pers,1
+Calauria,pers,1
+Calendar,work,1
+Calenus.,pers,1
+Caius Sulpicius,pers,1
+Caius Trebonius,pers,1
+Caius Veturius,pers,1
+Caius Villius,pers,1
+Calabria,work,1
+"6, 10, 18, 22, 29",scope,1
+"6, 10, 19,",scope,1
+"6, 11, 13, 20",scope,1
+"6, 11, 27",scope,1
+618] LXIX,scope,1
+Calphurnia,loc,1
+Calamatius,pers,1
+Calatianus,pers,1
+Rhenus,loc,1
+Rhenus,pers,1
+Rhamnusian,work,1
+Rhegines,pers,1
+Rhegines,work,1
+Researches,work,1
+Responsis,work,1
+Results',work,1
+Raudii,pers,1
+Quirinalis,pers,1
+Quirites,work,1
+Rhegium,pers,1
+Rheinlande,work,1
+Rhenea,loc,1
+Rhenea,pers,1
+Rheni,loc,1
+Regent,pers,1
+Regia,work,1
+Regulators,pers,1
+ROMAN,loc,1
+Rabelais,pers,1
+Racca,loc,1
+Ranunculaceae,work,1
+Ratumena,pers,1
+Quinda,pers,1
+Quintius Capitolinus,pers,1
+Quintus,work,1
+Remonia,pers,1
+Remonium,work,1
+Remurium,work,1
+Red-haired,work,1
+Rees',pers,1
+Repose,work,1
+Republic,work,1
+Republican,work,1
+Rerum Natura,work,1
+Rhymitalkes,pers,1
+Rhyndakus,loc,1
+Rhyndakus,pers,1
+Rhyntakes,pers,1
+"6, 14",scope,1
+"6, 14,",scope,1
+"6, 18, 33",scope,1
+"6, 19",scope,1
+Reone,work,1
+Repetundis,work,1
+Repetundæ,pers,1
+Repetundæ,work,1
+6-15,scope,1
+"6-8, 31",scope,1
+"6, 22, 38",scope,1
+"6, 27",scope,1
+"6, 31,",scope,1
+"6, 5",scope,1
+"6, 7,",scope,1
+"6, 13",scope,1
+Retreat,work,1
+Revilius,pers,1
+Revillus,work,1
+"6, 7, 22",scope,1
+"6, 7, 9,",scope,1
+"6, 80",scope,1
+"6, 9",scope,1
+"6, 9, 12, 13,",scope,1
+Roman History,work,1
+Romans,loc,1
+Romans,work,1
+Riviera,work,1
+Rock,work,1
+Roemische,pers,1
+Rogatio,work,1
+Rogations,work,1
+Rhodanus,pers,1
+Romanus Ager,pers,1
+Romanæ,work,1
+Rome.,loc,1
+Romis,pers,1
+Romuli,work,1
+Roma,work,1
+Roman,work,1
+Rhodians,loc,1
+Rhodians,pers,1
+"52,",scope,1
+52-54,scope,1
+52-56,scope,1
+52-63,scope,1
+Rhetras,pers,1
+Rhodanus,loc,1
+Rhætian Alps,work,1
+Rhône,loc,1
+Rhodus,pers,1
+Rhoesakes,pers,1
+Rhossas,loc,1
+Rhossus,pers,1
+Rhodian,pers,1
+Rhodian,work,1
+"5-15, 25",scope,1
+5.46,scope,1
+5/6,scope,1
+53-58,scope,1
+Roma,loc,1
+Rignarium,pers,1
+Rignarium,work,1
+Rimini,loc,1
+Caius Cassius,pers,1
+Cagliari,loc,1
+Caieta,loc,1
+Caieta,work,1
+Callaici,pers,1
+Callaici,work,1
+Callisto,pers,1
+"5, c. 34",scope,1
+Dictionary of Antiquities,work,1
+Dicæarchia,loc,1
+Didyma,loc,1
+Diamperes,pers,1
+Diana,work,1
+Diary,work,1
+Dibolia,pers,1
+Caius Canuleius,pers,1
+"5, 8",scope,1
+"5, 9,",scope,1
+Didyma,pers,1
+Dieutychides,pers,1
+Dijon,loc,1
+Dikæarchia,pers,1
+Dikæarchia,work,1
+Dictator Cæsar,work,1
+Sacred Road,work,1
+Sacred Way,work,1
+Sacriportus,loc,1
+Saculio,pers,1
+Sabbath,work,1
+Sabine,work,1
+Sabines,loc,1
+Sabines,work,1
+Roth,pers,1
+Rough,work,1
+Roumilia,pers,1
+Romulus',pers,1
+Rone,loc,1
+Roscii,pers,1
+Sacred Hill,work,1
+Sacred Mount,work,1
+Roxanes,pers,1
+Rualdus,pers,1
+Rubico,pers,1
+Rubicon,pers,1
+Rubicon,work,1
+Rubino,pers,1
+Roscius Otho,pers,1
+Rosellini,pers,1
+Rimini,pers,1
+Ritter,pers,1
+River,work,1
+Rivers,work,1
+Ruhnken,pers,1
+Rullus Maximus,pers,1
+Rumilia,pers,1
+Ruminalis,pers,1
+Denarii,pers,1
+Denarius,pers,1
+Demophanes,pers,1
+Demophon,pers,1
+Demetrion,pers,1
+Demoi,work,1
+"5, 17",scope,1
+"5, 17, 25",scope,1
+Dekarchies,pers,1
+Deliciæ,pers,1
+Delium,pers,1
+Derkyllus,pers,1
+Descending,work,1
+Description,work,1
+Deucalion,pers,1
+Demænetus,pers,1
+"5, 16, 20",scope,1
+"5, 16, 26",scope,1
+Cambray,pers,1
+Cambridge,loc,1
+Delphi,pers,1
+Delphi.,loc,1
+Deioneus,pers,1
+Deirades,pers,1
+Sacco,work,1
+S.E.,scope,1
+Sa,loc,1
+"5, 27",scope,1
+"5, 27,     28",scope,1
+"5, 14, 23",scope,1
+"5, 15, 24",scope,1
+"5, 16",scope,1
+Saguntum,pers,1
+Saguntum,work,1
+Sapha,pers,1
+Samothrakia,loc,1
+Samsun,pers,1
+Samuel Gale,pers,1
+Sandgate,loc,1
+Sapha,loc,1
+Salatto,pers,1
+Salenæ,loc,1
+Salii,loc,1
+Salii,pers,1
+Sages,work,1
+Sagra,loc,1
+Sagra,pers,1
+Saguntini,work,1
+Salonæ,loc,1
+Saltus Pyrenæus,work,1
+Salinator,pers,1
+Salinæ,work,1
+Sallutio,pers,1
+Salo,work,1
+Saint-Martin,pers,1
+Sais,loc,1
+"5, 18",scope,1
+"51, iv",scope,1
+Ruminalius,pers,1
+Rumour,work,1
+Rupilius,pers,1
+Röm.,pers,1
+S.,pers,1
+Salonina,pers,1
+Schiraz,pers,1
+Schäfer,pers,1
+Scipio,work,1
+Savoy,loc,1
+Saxa,pers,1
+Scaevola,pers,1
+Scarpus,pers,1
+Scauri,pers,1
+Samothrace,work,1
+Saluvii,loc,1
+Salyes,loc,1
+Sambre,work,1
+Samians,loc,1
+Samnite,work,1
+Schiller,pers,1
+Schirach,pers,1
+"5, 31",scope,1
+"5, 33",scope,1
+"5, 34",scope,1
+"5, 35",scope,1
+"5, 22, 24",scope,1
+"5, 22, 25",scope,1
+"5, 25",scope,1
+Samothrace,pers,1
+"5, 37",scope,1
+"5, 46",scope,1
+"5, 53",scope,1
+"5, 6, 12,",scope,1
+"5, 7, 16",scope,1
+"5, 27, 28",scope,1
+"5, 28, 30",scope,1
+"5, 30",scope,1
+Cameria,pers,1
+Camerium,pers,1
+Camillus,loc,1
+Campagna di,work,1
+Calvinus Lucius,pers,1
+"5, 10, 18",scope,1
+"5, 11",scope,1
+"5, 14, 21, 23",scope,1
+Caius Paccianus,pers,1
+Caius Piso,pers,1
+Caius Popilius,pers,1
+Campania,pers,1
+Campanians,loc,1
+Campanus,work,1
+Campi Philippi,work,1
+Campus,loc,1
+Delphian,loc,1
+Delphic,loc,1
+Delius,pers,1
+Delius Tubero,pers,1
+Calaici,work,1
+Calamarcus,pers,1
+Caius Minucius,pers,1
+Caius Mummius,pers,1
+Saturnalia_,work,1
+Satyreius,pers,1
+Satyros,loc,1
+46-52,scope,1
+46-53,scope,1
+"5,     8",scope,1
+"5, 10,",scope,1
+"5, 10, 11",scope,1
+Scipio Metellus,pers,1
+Scipio Nasica,pers,1
+Scipio.,pers,1
+Scipiones,work,1
+Scribonia,loc,1
+Sempronius Asellio,pers,1
+Sempronius Densus,pers,1
+Semproniæ Leges,pers,1
+"41, c. 16",scope,1
+"41, c. 39",scope,1
+"41, c. 45",scope,1
+41-43,scope,1
+45-48,scope,1
+"45, c. 17",scope,1
+"44,",scope,1
+Scythes,pers,1
+Scythians,loc,1
+Scæva,loc,1
+Scribonius,pers,1
+Scrofas,pers,1
+Scylla,loc,1
+Scylla,pers,1
+40° 15' N.,scope,1
+"41, 45",scope,1
+4; iii,scope,1
+4th,scope,1
+"49, c. 15",scope,1
+48-50,scope,1
+"47,",scope,1
+Satureius,pers,1
+Sebaste,pers,1
+Scythia,work,1
+Seismatia,pers,1
+Selene,pers,1
+Seriphus,pers,1
+Sermons,work,1
+Sert,pers,1
+Seranus,pers,1
+Serbonian,pers,1
+Sergius Galba,pers,1
+"4, 32",scope,1
+"4, 38",scope,1
+"43, c. 31",scope,1
+"43, iv.",scope,1
+Secundus,pers,1
+Segni,pers,1
+Segontia,work,1
+Seine,work,1
+Seleukia,pers,1
+"4, c. 7",scope,1
+"4, 17",scope,1
+"4, 20",scope,1
+"4, 23",scope,1
+"4, 24",scope,1
+"4, 25",scope,1
+"4, 27",scope,1
+Senators,pers,1
+Selymbria,loc,1
+Semideus,pers,1
+Sempronia,loc,1
+Sempronia,pers,1
+Selenkus,pers,1
+Seleucus,pers,1
+Seleucus Nicator,pers,1
+Sextius Calvinus,pers,1
+Sextius Sulla,pers,1
+Sextus Julius,pers,1
+Sextus Lucinus,pers,1
+Sextus Pompeius,pers,1
+Sextus Ælius,pers,1
+Setia,pers,1
+Seventh Book,scope,1
+"4, 8",scope,1
+"4, 9, 12",scope,1
+"4, 9, 12,",scope,1
+Sequani,pers,1
+Senones,pers,1
+Senones,work,1
+Septa,work,1
+Septem,work,1
+"403, ii",scope,1
+"40, c. 48",scope,1
+"40, c. 53",scope,1
+40-43,scope,1
+4000,scope,1
+401 B.C.,date,1
+"4, 39",scope,1
+"4, 6, 12",scope,1
+Seriphian,pers,1
+Seriphos,pers,1
+September,loc,1
+September 21st,scope,1
+39° 47' N. lat.,scope,1
+38° 54' N. lat.,scope,1
+"39,",scope,1
+"39, iv.",scope,1
+Sibyls,work,1
+Sibyrtus,loc,1
+Sibystius,pers,1
+Sezza,loc,1
+Shades,work,1
+Damyrias,loc,1
+Damyrias,pers,1
+Dandamris,pers,1
+Siceliots,pers,1
+Sicilia,pers,1
+Sicilians,loc,1
+Sicilies,loc,1
+Sicily,pers,1
+Sibyl,pers,1
+Sibyl,work,1
+Sibyllini,pers,1
+Servilius Rullus,pers,1
+Servius Tullius,pers,1
+Sicinius Vellutus,pers,1
+Sicyon,loc,1
+Sidon,loc,1
+Sigambri,pers,1
+Sigeium,loc,1
+Sicanus,loc,1
+Seville,loc,1
+Servus,pers,1
+Sesia,work,1
+Sessorium,work,1
+Sestio,work,1
+Setia,loc,1
+Servilianus,pers,1
+Servilius Isauricus,pers,1
+Silvium,loc,1
+Simaetha,pers,1
+Simias,pers,1
+Sillakes,work,1
+Silli,work,1
+Silvia,loc,1
+Silvia,pers,1
+Sikyonian,pers,1
+Dead,work,1
+Deal,loc,1
+Demariste,pers,1
+Demeter,work,1
+Demetria,pers,1
+Demetrian,pers,1
+Shaw,pers,1
+Shore,work,1
+Decidius Saxa,work,1
+Decies,work,1
+Decies.,pers,1
+De Offic.,work,1
+De Officiis,work,1
+De Sera Numinis Vindicta,work,1
+De Viris Illustribus,work,1
+Dea,work,1
+Deidameia,loc,1
+Deinomache,pers,1
+Decimus Albinus,pers,1
+Decimus Junius,pers,1
+Decimus Junius Silanus,pers,1
+Dediticii,pers,1
+December,work,1
+Decidius,pers,1
+Signia,loc,1
+Signia,pers,1
+Sikelos,pers,1
+Siwah,pers,1
+Siwah,work,1
+Sixth,scope,1
+Sixth Book,scope,1
+Skambonidæ,work,1
+"4,     21",scope,1
+"4,     38",scope,1
+"4,     7",scope,1
+"4, 10",scope,1
+Silanus Junius,pers,1
+Silence,pers,1
+Sigliuria,loc,1
+Sigliuria,pers,1
+"4, 11",scope,1
+"4, 11, 31",scope,1
+"4, 13, 19",scope,1
+"4, 14,     18,",scope,1
+"4, 15, 17, 19",scope,1
+"4, 16, 40",scope,1
+3] XXIV,scope,1
+3rd,scope,1
+Sikyonians,pers,1
+37th,scope,1
+37° N.,scope,1
+"37, c. 35",scope,1
+"37, c. 40",scope,1
+"37, c. 41",scope,1
+"4, 10, 36",scope,1
+"4, 10, 65",scope,1
+Skottusa,loc,1
+Skythes,pers,1
+Skiathus,loc,1
+Skiathus,pers,1
+Skiradion,loc,1
+"36,",scope,1
+"36, c. 27",scope,1
+"35, c. 3",scope,1
+Slave,pers,1
+Social,work,1
+Socii,pers,1
+Socii,work,1
+Socius,pers,1
+Skirophorion,pers,1
+Skopads,work,1
+Skopas,pers,1
+Sinoria,loc,1
+Sinti,work,1
+Simætha,pers,1
+Sinab,loc,1
+Singularis,work,1
+Sinhorium,pers,1
+Sinnaca,loc,1
+Sinnaca,work,1
+Skapte,loc,1
+Sintonis,pers,1
+Sir,pers,1
+Siris,loc,1
+Siris,pers,1
+Sisymithres,loc,1
+Sinope.,loc,1
+Sinorega,pers,1
+Sophist,pers,1
+Sophists,pers,1
+Soloi,loc,1
+Soloi,pers,1
+31-34,scope,1
+349-348,scope,1
+"35,",scope,1
+"35, 37",scope,1
+Skapte Hyle,work,1
+Skeiron,loc,1
+Skenite,pers,1
+Skepsis,loc,1
+Sorix,pers,1
+Sosigenes,pers,1
+Sonchus,pers,1
+Sopheni,pers,1
+"34, 43",scope,1
+"34, c. 19",scope,1
+36° 12' N. lat,scope,1
+"37,",scope,1
+"37, 45",scope,1
+"36, c. 6, 7",scope,1
+36-40,scope,1
+Skiradion,pers,1
+"35, c. 5",scope,1
+35-39,scope,1
+382],scope,1
+37° N. Lat.,scope,1
+37° N. lat,scope,1
+"38, c. 1-7",scope,1
+"38, c. 17",scope,1
+38-40,scope,1
+Dardanus,loc,1
+34-44,scope,1
+338.,scope,1
+"34, 37",scope,1
+"34, 40",scope,1
+Sonchis,pers,1
+Solanus,pers,1
+Soldurii,pers,1
+De Bello,work,1
+Dardarii,pers,1
+Dassaretis,pers,1
+Dat.,work,1
+Datis,pers,1
+Danube,loc,1
+Daphne,loc,1
+Daphne,work,1
+Cææar,pers,1
+Cœlius Caldus,pers,1
+D,pers,1
+Datus,pers,1
+Day-book,work,1
+De,pers,1
+De,work,1
+De Bell,work,1
+"35, c. 2",scope,1
+Cantharus,pers,1
+Canuleia,loc,1
+"Canus,",pers,1
+Caninius Revilius,pers,1
+Canis,pers,1
+Cæsarians,pers,1
+Cæsars,pers,1
+Soul,pers,1
+Spurius Mælius,pers,1
+Spurius Postumius Albinus,pers,1
+Spurius Vettius,pers,1
+St. Angelo,work,1
+St. James,pers,1
+St. Martin,pers,1
+Spithridatos,pers,1
+"33, 62",scope,1
+33-36,scope,1
+33-46,scope,1
+31st chapter,scope,1
+"32, 48",scope,1
+Spain.,loc,1
+Soso,pers,1
+Sotion,pers,1
+"30,000",scope,1
+30-55,scope,1
+"3, 6,",scope,1
+"3, 74",scope,1
+"3, 8",scope,1
+"3, c. 4",scope,1
+"33, 2",scope,1
+"33, 40",scope,1
+Solis,pers,1
+Spartianus,pers,1
+Spalding,pers,1
+Spanish,loc,1
+Spartan,loc,1
+South,loc,1
+Southern,loc,1
+Southern,work,1
+Stiria,loc,1
+Stoic,pers,1
+Stoics,pers,1
+Steiris,loc,1
+Steiris,pers,1
+Stasikrates,pers,1
+Stator,work,1
+Stayer,work,1
+"30, 31",scope,1
+"30, 55",scope,1
+Spithridates,work,1
+Sphakteria,pers,1
+Sphettus,loc,1
+Sphines,pers,1
+Stettin,loc,1
+Stilbides,pers,1
+"3, 12, 13",scope,1
+"3, 12, 16",scope,1
+"31, 42",scope,1
+"31, c. 11.",scope,1
+"31, c. 14",scope,1
+"3, p. 695",scope,1
+"3,000,000",scope,1
+3-8,scope,1
+Sporus,work,1
+Spurinna,loc,1
+Spicilius,pers,1
+Spirit,work,1
+"3, 18",scope,1
+"3, 18, 21",scope,1
+"3,     14, 37, 74",scope,1
+"3,     18, 19",scope,1
+Stageira,loc,1
+Stageira,pers,1
+Stagnum Lucanum,work,1
+Stakes,work,1
+Suero,loc,1
+Suet.,pers,1
+Sueton.,pers,1
+Suetonius Paulinus,pers,1
+Canusium,pers,1
+Capaccio,pers,1
+Capaneus,pers,1
+Cape Miseno,work,1
+Canopus,work,1
+Canopus',loc,1
+Cantabri,work,1
+Stage,work,1
+Damagoras,pers,1
+Damascus,pers,1
+D'Anville,pers,1
+D.,pers,1
+Calphurnii,pers,1
+Calphurnius,pers,1
+Calpurnia,loc,1
+Calpurnius Piso Frugi,pers,1
+Sta,loc,1
+Stadium,work,1
+Cyrrhestica,loc,1
+Cyrtus,pers,1
+Damokleides,work,1
+Damokles,pers,1
+Daktyli,work,1
+Daldianus,pers,1
+"3, 16, 20",scope,1
+"3, 16, 25",scope,1
+Stroebus,pers,1
+Stone,work,1
+Strabo,loc,1
+Strangers',work,1
+Stratagem_,work,1
+Stratagemata,work,1
+"3, 2",scope,1
+"3, 27",scope,1
+"3, 28",scope,1
+"3, 29",scope,1
+"3, 30",scope,1
+"3, 13, 19, 32",scope,1
+"3, 14",scope,1
+"3, 15, 29",scope,1
+"29, 54",scope,1
+"3, 36",scope,1
+"3, 4, 14",scope,1
+"3, 4, 5,",scope,1
+"3, 4, 6",scope,1
+"3, 4, 6,",scope,1
+"3, 5",scope,1
+"3, 19",scope,1
+Strymon,pers,1
+Strœbus,pers,1
+Stymphæa,loc,1
+Stymphæa,pers,1
+Sucro,loc,1
+Stratagems,work,1
+Strategus,pers,1
+"29, 37",scope,1
+Suillii,pers,1
+Sula,pers,1
+Sulia,pers,1
+Sulis,pers,1
+Syriac,pers,1
+Syrian,pers,1
+Symphorium,work,1
+Synonyms,work,1
+28th,scope,1
+28th May,scope,1
+"29,",scope,1
+"29, 36",scope,1
+Sulpicius Galba,pers,1
+Suevi,work,1
+Sugambri,work,1
+Suidas,pers,1
+Sulla,work,1
+Sulla ch.,pers,1
+Sulla'a,pers,1
+27-35,scope,1
+29th,scope,1
+2nd,scope,1
+"29, c. 10",scope,1
+29-33,scope,1
+Sura,work,1
+Surena,loc,1
+Sumptuary,work,1
+Sun,work,1
+Sunium,loc,1
+Sunium,pers,1
+Suppliants',work,1
+Supplicatio,work,1
+Takt,pers,1
+Talamone,pers,1
+Talaura,loc,1
+Tac.,pers,1
+Taenarum,loc,1
+Tagonius,loc,1
+Tagonius,pers,1
+System,work,1
+Sutrium,pers,1
+Swallow,work,1
+Swallow Islands,work,1
+Swarthy,work,1
+Swift,pers,1
+Swift,work,1
+Switzerland,loc,1
+Tajo,work,1
+"25, 34",scope,1
+"28, c. 9",scope,1
+28-32,scope,1
+28-36,scope,1
+26th,scope,1
+"27, 30",scope,1
+27-29,scope,1
+Symphorium,pers,1
+Synorium,pers,1
+Syphax,pers,1
+Sybaris,loc,1
+Sybarite,work,1
+Sylla,pers,1
+24th,scope,1
+"25, 26, 27",scope,1
+"25, 28",scope,1
+"26,",scope,1
+"26,     50",scope,1
+"26, 27, 29",scope,1
+"26, 28",scope,1
+"26, 29",scope,1
+Cappadocians,pers,1
+Caprotinae,pers,1
+Caprotinae,work,1
+Tantalus,pers,1
+Tanusius Geminus,pers,1
+"23, 29",scope,1
+"23, 30",scope,1
+23-25,scope,1
+23-27,scope,1
+23-28,scope,1
+23-32,scope,1
+Syrus,loc,1
+Syrus,pers,1
+Tarquinii,work,1
+Tarentine,pers,1
+Tarentum.,loc,1
+Tanais,pers,1
+Tanais,work,1
+Tangier,work,1
+T.,work,1
+T. Quintius,pers,1
+T. Taylor,pers,1
+Tabriz,loc,1
+Tac,pers,1
+Tac,work,1
+Syrians,work,1
+Syrtis,pers,1
+"26, c. 48",scope,1
+25th,scope,1
+"25,000",scope,1
+25-29,scope,1
+25-31,scope,1
+251: Cn,scope,1
+"22, 26",scope,1
+"22, 27",scope,1
+Cædicius,pers,1
+Cælius Caldus,pers,1
+Cæninum,loc,1
+Cyzicenians,loc,1
+Cyzicus,pers,1
+Cæcilii,pers,1
+Cæcilii,work,1
+"26, 36",scope,1
+Curetes,pers,1
+Curiata,work,1
+Currus,pers,1
+Cæpio Brutus,work,1
+Cæsar Augustus,pers,1
+Cæcilius Metellus,pers,1
+Cæcus,pers,1
+Cæcus B.C. 312,date,1
+Caprotinæ,pers,1
+Caprotinæ,work,1
+Capitæ,loc,1
+Capitæ,work,1
+Capo delle Colonne,work,1
+Cyclades,loc,1
+Cures,loc,1
+Cures,pers,1
+Temple of,work,1
+Ten,work,1
+Ten Thousand,scope,1
+Temenites,pers,1
+Temenitid,pers,1
+Temenitid,work,1
+"Teles,",pers,1
+Telesides,pers,1
+Taurida,loc,1
+Tarragona,loc,1
+Taurea,pers,1
+Tarquinius Collatinus,pers,1
+Tarquinius Priscus,pers,1
+Tarracina,work,1
+Tarraco,loc,1
+Tempe,work,1
+Talaura,pers,1
+Talauria,pers,1
+Tales,work,1
+Talymenus,pers,1
+Tamynæ,loc,1
+Tamyæ,pers,1
+Tanagra,work,1
+Tearless,work,1
+21; ii,scope,1
+23rd,scope,1
+23rd of May,scope,1
+"24,",scope,1
+"24, 25",scope,1
+24-26,scope,1
+Tappulus,work,1
+Taranto,loc,1
+Testamentum,work,1
+Terentia.,pers,1
+Terentius Culeo,pers,1
+Terentius Varo Lucullus,pers,1
+Terentius Varro Lucullus,pers,1
+Tenetheri,pers,1
+Tenteritæ,work,1
+Cremona,pers,1
+Telamo,pers,1
+Teutobocus,pers,1
+Teverone,pers,1
+Teverone,work,1
+Terminus,pers,1
+Terminus,work,1
+Terracina,pers,1
+Terracina,work,1
+22-27,scope,1
+21st,scope,1
+"22,     24",scope,1
+"22,     26,",scope,1
+"22, 25",scope,1
+Tegyra,pers,1
+Teians,pers,1
+Telamo,loc,1
+"20,000",scope,1
+20-22,scope,1
+"20-24,",scope,1
+"20-24, 27",scope,1
+"200,000",scope,1
+"22_, c. 20",scope,1
+"22, 30",scope,1
+22-24,scope,1
+Teracina,loc,1
+Thasus,loc,1
+The,work,1
+Theagenes,pers,1
+Theban,work,1
+Thebans,pers,1
+Thargelion.,pers,1
+Thasians,pers,1
+Candavia,loc,1
+Canethus,pers,1
+Capua,pers,1
+Carales,pers,1
+Carbos,pers,1
+Carbos,work,1
+Carcathiocerta,pers,1
+Teos,loc,1
+Cyprian,loc,1
+Curtian,pers,1
+Curule,work,1
+Curulis,pers,1
+Cannæ,pers,1
+Cannæ,work,1
+Camulatus,pers,1
+Camulatus,work,1
+Cretan,loc,1
+Cyprians,loc,1
+Cyreneans,pers,1
+Cyrenæans,work,1
+Cyrneus,pers,1
+Cyrnus,loc,1
+Cyclades,pers,1
+Cyclops,work,1
+Thales,loc,1
+Theoris,pers,1
+Theramenes.,pers,1
+Therikles-ware,pers,1
+Theristerium,pers,1
+Therma,loc,1
+Theologus,pers,1
+Theolus,pers,1
+21-33,scope,1
+"21,",scope,1
+"21,     22",scope,1
+"21, 25",scope,1
+"204, ii",scope,1
+Thalaea,pers,1
+Thalamae,loc,1
+Thalamæ,pers,1
+"2, 46",scope,1
+"2, 49",scope,1
+"2, 5,",scope,1
+"2, 53",scope,1
+"2, 56",scope,1
+"21, 28",scope,1
+"21, 32",scope,1
+"21-24, 26, 28, 29",scope,1
+Thaso,loc,1
+Thamesis,work,1
+Thanksgiving,work,1
+Thapsakus,pers,1
+"2, c. 33",scope,1
+"2, 4,     24",scope,1
+"2, 4, 5, 8, 23,",scope,1
+"2, 40",scope,1
+Csasar,pers,1
+Cretans,loc,1
+Crassus Mucianus,pers,1
+Themistokles,loc,1
+Thessalonica,pers,1
+Thessalonicæ,loc,1
+Thessalonika,pers,1
+Thesmophoria,loc,1
+Cossutia,pers,1
+Cume,loc,1
+Cumæi,work,1
+Cumæi.,pers,1
+Cupid,work,1
+Cupids,work,1
+Crus,work,1
+Crustumerium,loc,1
+Carmania,pers,1
+Carmentalia,work,1
+Carmentan,work,1
+Carnival,work,1
+Council,work,1
+Counsel,work,1
+Cossa,loc,1
+Cossa,work,1
+Theophrastes,pers,1
+Thensa,pers,1
+Theogeiton,pers,1
+Thebæ,loc,1
+Themiscyra,loc,1
+Carnutes,pers,1
+Carpetani,work,1
+Cartagena,loc,1
+"2, 8, 13, 17, 19,",scope,1
+"2, 9",scope,1
+"2, c.",scope,1
+"2, c. 16",scope,1
+Thermeh,loc,1
+Thermopylae,loc,1
+Thracian Woman,work,1
+Thrakia,pers,1
+"2,300,000",scope,1
+"2,760,000",scope,1
+2-1/4_d,scope,1
+2-10,scope,1
+2-5,scope,1
+2-6,scope,1
+"2, 6,",scope,1
+"2, 8",scope,1
+"2, 13, 31, 32",scope,1
+"195, ii",scope,1
+"20,     23",scope,1
+"20, 22",scope,1
+"20, 23",scope,1
+"20, 24",scope,1
+"20, 28",scope,1
+"2, c. 6",scope,1
+Thesmothete,pers,1
+Thespia,loc,1
+Thespiæ,work,1
+Therukion,pers,1
+Thesaalia,loc,1
+Thesea,loc,1
+Theseid,pers,1
+"2, 13",scope,1
+1830,date,1
+1831,scope,1
+1834,scope,1
+1835,date,1
+"2, 3",scope,1
+"2, 3, 6,",scope,1
+"2, 30, 31",scope,1
+"2, 32",scope,1
+Thyateira,loc,1
+Thyateira,pers,1
+Thyatira,pers,1
+Throne,work,1
+Thunderbolt,work,1
+Thunderer,pers,1
+1825,scope,1
+1829,date,1
+Thetes,pers,1
+Thetis,pers,1
+Theudippus,pers,1
+Thymaitadae,work,1
+Thyrea,pers,1
+Thyreatis,pers,1
+Tiara,loc,1
+Thurium,pers,1
+Thrasea Pætus,pers,1
+Thorius,pers,1
+Thouth,work,1
+Thrace,work,1
+Third,work,1
+Third Book,scope,1
+Thomas Taylor,pers,1
+Thessaly,work,1
+Tidius Sextus,pers,1
+"18, 24, 31",scope,1
+"18, 27",scope,1
+1796,scope,1
+Cornelia,loc,1
+Crassu,pers,1
+Crassus,scope,1
+Crassus Dives,work,1
+Thrasymenus,pers,1
+Thriambos,pers,1
+Tilphosa,loc,1
+Tilphossium,loc,1
+Tigellinus.,pers,1
+Tigranocerta,work,1
+Tiberius Claudius Nero,pers,1
+Tidius Sextius,pers,1
+19th,scope,1
+"2,     18",scope,1
+"2,     6",scope,1
+"2,     7",scope,1
+Thrasydaeus,pers,1
+Thrasydæus,pers,1
+Thrasymene,loc,1
+Thrasymenus,loc,1
+"2, 33, 35",scope,1
+"2, 34, 45",scope,1
+"2, 16",scope,1
+"2, 17",scope,1
+"2, 24",scope,1
+"2, 25",scope,1
+"2, 26",scope,1
+"2, 29, 30",scope,1
+"19, 30",scope,1
+"19, 43",scope,1
+"19, c. 8",scope,1
+19-24,scope,1
+"191, ii",scope,1
+188,date,1
+"19,",scope,1
+"19, 21",scope,1
+Carthagena,loc,1
+Carthaginia,loc,1
+Carvilius,pers,1
+Caryatides,work,1
+Carystus,loc,1
+17th July,scope,1
+"18, 19,",scope,1
+"18, 19, 26",scope,1
+Cotta,scope,1
+Cotylon.,pers,1
+Capena,loc,1
+Capenates,pers,1
+Caphis,pers,1
+Capito,pers,1
+Capito Gallus,work,1
+Capitolian,work,1
+Crassus Junianus,pers,1
+Crassus Junianus,work,1
+Cowey,loc,1
+Crass.,pers,1
+Crassi,pers,1
+Crassi,work,1
+Crassipes,pers,1
+Cossyra,loc,1
+"17, 25",scope,1
+"17, 25, 29,",scope,1
+1675,scope,1
+16; iv,scope,1
+16th _,scope,1
+"17,     22",scope,1
+1804,scope,1
+"181, i. Numa",scope,1
+Timagenês,pers,1
+Titus Annius,pers,1
+Titus Annius Milo,pers,1
+Titus Didius,pers,1
+Tithora,work,1
+Titienses,pers,1
+Titilius,pers,1
+Titillius,pers,1
+Timoleonteum,work,1
+Time,pers,1
+Timesileon,pers,1
+Timesileus,pers,1
+Timesitheus,pers,1
+Tilphusa,loc,1
+Tilphussa,loc,1
+Tilphussa,pers,1
+"19, 28",scope,1
+1837,date,1
+1839,date,1
+"1842, ii.",scope,1
+1845,date,1
+Tibareni,loc,1
+Tiber,loc,1
+Timoneium,loc,1
+Topographie von,work,1
+Torch-bearer,work,1
+Toleria,pers,1
+Tolerium,loc,1
+Tolmaeus,pers,1
+Tolmæas,pers,1
+Tomb,work,1
+Tomb.,work,1
+Tingis,pers,1
+Tingis,work,1
+Tiridate,pers,1
+Tiridates,pers,1
+Topica,loc,1
+Topica,pers,1
+Topica,work,1
+"Topica_,",work,1
+18-22,scope,1
+18-24,scope,1
+"18, 20, 23",scope,1
+"18, 20, 24",scope,1
+"18, 22,",scope,1
+"18, 23",scope,1
+Tithora,loc,1
+Tinga,work,1
+1811,scope,1
+1812,scope,1
+1822,date,1
+"18, 34",scope,1
+"18, 45",scope,1
+"18, 53",scope,1
+"18, c. 3",scope,1
+"18-21, 27",scope,1
+Cornelii_,work,1
+Corn Laws,work,1
+Titus Veturius Calvinus,pers,1
+Titus Flaminius,pers,1
+Titus Flavius Domitianus,pers,1
+Titus Flavius Vespasianus,pers,1
+Titus Lartius,pers,1
+Titus Latinus,pers,1
+Corsica,pers,1
+Corvinus Valerius,pers,1
+Corvus,pers,1
+Cornelius Lentulus,pers,1
+Cornelius Rufinus,pers,1
+Cornelius Scipio,pers,1
+Cornelius Sisenna,pers,1
+Cornificii,work,1
+Consul Suffectus,pers,1
+Consule,work,1
+Consule Tullo,work,1
+Consulibus,work,1
+Consultum,work,1
+Consus,work,1
+Contra Rullum,work,1
+Cornificus,pers,1
+Titus Munatius,pers,1
+Titus Quinctius,pers,1
+Titus Quinctius Flamininus,pers,1
+Castalo,work,1
+Castella,pers,1
+Castiglione,work,1
+Caspian Sea,loc,1
+Coraës,pers,1
+Townships,work,1
+Trachis,loc,1
+Trachis,pers,1
+Tributa,work,1
+Triclinium,work,1
+Tridentum,loc,1
+Trireme,work,1
+Tribune,pers,1
+Tragiskus,pers,1
+Tralles,loc,1
+Tralles.,pers,1
+Torquatus,work,1
+Torune,loc,1
+Torune,pers,1
+Tournay,pers,1
+Tower,work,1
+Transalpine,loc,1
+Transalpine,pers,1
+Transalpine,work,1
+Transl,work,1
+Trapezus,pers,1
+Trapezus.,loc,1
+Tradition,pers,1
+Tragia,pers,1
+Titus Livius,pers,1
+Titus Lucretius,pers,1
+Titus Manlius,pers,1
+Travels,work,1
+Treasurer,work,1
+Treasury,work,1
+Treatise on,work,1
+Treatise on Nobility,work,1
+Trebia,pers,1
+Trebisond,pers,1
+Trebonius,loc,1
+Trebouius,pers,1
+Tronto,work,1
+Trophonius,loc,1
+True Philosopher,work,1
+Tubertus,work,1
+1789,date,1
+17-20,scope,1
+1735,scope,1
+"17, 19,",scope,1
+"17, 20",scope,1
+"17, 21",scope,1
+Triballi,loc,1
+Triballi,work,1
+Trento,loc,1
+Trerus,work,1
+Treviri,work,1
+1582,date,1
+15·2,scope,1
+"16,     18",scope,1
+1773,scope,1
+1775,scope,1
+Tribune Titus,work,1
+Tribunes,pers,1
+Tribunes,work,1
+Tribuni,work,1
+Tribuni Ærarii,work,1
+Tribunus Militum,work,1
+Trendelenburg,pers,1
+Trent,loc,1
+"146, ii",scope,1
+1460,scope,1
+1461,scope,1
+14; iv.,scope,1
+1618,scope,1
+"162, ii.",scope,1
+"16, 27",scope,1
+Cordoba,pers,1
+Tumuli,pers,1
+Turia,work,1
+Tuscan,loc,1
+Tuscan,work,1
+Tullius Cicero Imperator,pers,1
+Tullius Cimber,pers,1
+"15, 31,",scope,1
+"15, 41",scope,1
+Tritymallus,work,1
+Tritæa,pers,1
+Triumph,work,1
+Triumphus,work,1
+Triumphus Curulis,work,1
+Tusculan,work,1
+Tusculanæ,work,1
+Tutia,pers,1
+Troezenian,loc,1
+Troglodytes,loc,1
+Troia,loc,1
+Trojanis,loc,1
+Triumvirate,work,1
+Troades,work,1
+Troas,pers,1
+Tritymallus,pers,1
+16-21,scope,1
+1614,scope,1
+"16, 17",scope,1
+"16, 18",scope,1
+"16, 20",scope,1
+"16, 21",scope,1
+"16, 23",scope,1
+Tullus Attius,pers,1
+Catalonia,loc,1
+Cataonia,loc,1
+Cataonia,pers,1
+Cassius',pers,1
+Cassius.,pers,1
+"16, 35",scope,1
+"16-18,     23",scope,1
+16-19,scope,1
+Coracesium,pers,1
+Carnunteni,work,1
+Carnuntini,work,1
+Carcer,pers,1
+Cardia,pers,1
+Caria,pers,1
+Carians,pers,1
+Carinæ,work,1
+Cordova,loc,1
+Cordova,pers,1
+Corduba,loc,1
+Corduba,pers,1
+Cordus,pers,1
+Cordylio,pers,1
+Contubernales,work,1
+Coracesium,loc,1
+Unit,work,1
+Unterholzner,pers,1
+Urbe Roma,work,1
+Ulterior,work,1
+Ultra,work,1
+Ulysses,work,1
+Umbri,work,1
+"14, 16,",scope,1
+Twenty-eight,scope,1
+Tyche,loc,1
+Tyche,pers,1
+Uti Rogas,work,1
+Uxama,loc,1
+Uxellodunum,pers,1
+V.,scope,1
+V. 166,scope,1
+Tyros,loc,1
+Tyrrheni,work,1
+Tyrrhenian,work,1
+Tyrrhenians,loc,1
+Tyrtaeus,pers,1
+Typhons,work,1
+Tutula,work,1
+Twelve,work,1
+Tucker,pers,1
+Tullia.,pers,1
+Tullianum,work,1
+Täygetus,loc,1
+Täygetus,pers,1
+Tænaros,loc,1
+Tænarus.,pers,1
+U.R.,work,1
+VOLUME 3 (OF 4,scope,1
+VOLUME 4 (OF 4,scope,1
+Vaccæi,pers,1
+Vacoa,work,1
+Vaga,pers,1
+Vaga,work,1
+Vagises,pers,1
+V. Sc.,scope,1
+Valerius Corvinus,pers,1
+Valerius Corvus,pers,1
+Valerius Leo,pers,1
+Valerius Messalla,pers,1
+Valerius Potitus,pers,1
+Vale,work,1
+Valens,loc,1
+Valentia,pers,1
+"15, 18",scope,1
+"15, 19",scope,1
+"15, 20",scope,1
+Umbria,pers,1
+Umbria,work,1
+Uliades,pers,1
+Ulterior,pers,1
+Valerius Asiaticus,pers,1
+"137, iv.",scope,1
+"138, iv",scope,1
+"14,",scope,1
+"14,     21",scope,1
+"15, 46",scope,1
+"15,000",scope,1
+15-20,scope,1
+"15, 16",scope,1
+"13, 19, 22",scope,1
+14-21,scope,1
+"14, 18",scope,1
+"14, 19",scope,1
+"14, 2, 7, 4",scope,1
+Cneius Magius,pers,1
+Cneius Octavius,pers,1
+Cneius Pompeius,pers,1
+Varius,work,1
+Variæ Lectiones,work,1
+"13, 27",scope,1
+"13, 27, 29",scope,1
+"13, 14,",scope,1
+"13, 15, 18,",scope,1
+"13, 16",scope,1
+"13, 16, 23,     24, 26, 33,",scope,1
+Velian,work,1
+Vatinium,loc,1
+Veientani,loc,1
+Veientani,pers,1
+Veientes,loc,1
+Veientines,loc,1
+Veientines,pers,1
+Veientines,work,1
+VI,scope,1
+VI.,scope,1
+VII,scope,1
+VIII,scope,1
+VOLUME 1 (OF 4,scope,1
+VOLUME 2 (OF 4,scope,1
+Velabrum,pers,1
+Velabrum,work,1
+14-18,scope,1
+14-19,scope,1
+"14, 15, 16,",scope,1
+"14, 15, 16, 18,",scope,1
+"14, 15, 16, 20, 27",scope,1
+"14, 15, 16, 21",scope,1
+"14, 15, 37",scope,1
+Vatinio,loc,1
+Colonia,work,1
+Columns,work,1
+Comitia Tributa,work,1
+Corfinium,pers,1
+Corfinium.,loc,1
+"14, 34",scope,1
+14-16,scope,1
+"14-17, 29",scope,1
+Concilium,work,1
+Condemno,pers,1
+Comius,pers,1
+Commagene,work,1
+Commander,work,1
+Commercium,pers,1
+Colonia,loc,1
+Colonia,pers,1
+Cnidus,pers,1
+Connubium,pers,1
+Conqueror,work,1
+Consa,work,1
+Considius Gallus,work,1
+Comparison,work,1
+Complutum,work,1
+Comœdus,pers,1
+Vibullius Rufus,pers,1
+Vica,pers,1
+Vetus,pers,1
+Vexilla,work,1
+Vexillum,work,1
+Via Egnatia,work,1
+Via Sacra,work,1
+Vibillius Rufus,pers,1
+Velitrae,pers,1
+Velitræ,pers,1
+Vell,pers,1
+Venice,loc,1
+Ventidii,pers,1
+Vibius Pacianus,pers,1
+Vibius Pansa,pers,1
+Vibius Rufus,pers,1
+Verenia,pers,1
+Verginius,pers,1
+Venus.,pers,1
+Venusia,pers,1
+Vercellæ,pers,1
+Vento,work,1
+Venus,work,1
+Venus Victrix,pers,1
+Valeus,pers,1
+Valour,pers,1
+Van,work,1
+Var.,work,1
+Varguntinus,pers,1
+Varinus,work,1
+Various History,work,1
+Verenia,loc,1
+Vienna,loc,1
+Vienne,loc,1
+Villain Casca,pers,1
+Villia,scope,1
+Villius,pers,1
+Vica,work,1
+Victor,pers,1
+Victor,work,1
+Vesal,work,1
+Vesontio,loc,1
+Vesta,pers,1
+Vestae,pers,1
+Viridomarus,pers,1
+Vitellii,pers,1
+Vinius.,pers,1
+Virgilius,pers,1
+13-15,scope,1
+13-19,scope,1
+13-23,scope,1
+"13, 20",scope,1
+"13, 22",scope,1
+"13, 23",scope,1
+"13, 25, 26",scope,1
+Veturium Mamurium,pers,1
+Vesuvius,loc,1
+Vetch,work,1
+11th Book,scope,1
+"12,     17",scope,1
+"12, 13,",scope,1
+"13, 29,",scope,1
+"13, c. 16",scope,1
+"13,000",scope,1
+Codice,work,1
+Victories,pers,1
+Victorious,pers,1
+Victorious,work,1
+Victory,loc,1
+War,loc,1
+War_,pers,1
+"War_,",pers,1
+Colonel,pers,1
+Codomannus,work,1
+Cognomen,work,1
+Colchi,work,1
+Cnæus Fulvius,pers,1
+Cnæus Papirius,pers,1
+Co,loc,1
+Cocceianus,pers,1
+Clinton's,pers,1
+Clitomachus,pers,1
+CloDius Glaber,work,1
+Colchis,work,1
+Colchis.,loc,1
+Collection,work,1
+Colline Gate,work,1
+Cologne,loc,1
+Cato Uticensis,pers,1
+"Cato, chs.",pers,1
+Cattle Market,work,1
+Catuli,pers,1
+"Catuli,",pers,1
+Cato     Minor,work,1
+Cloelian,pers,1
+Client,work,1
+Vitioso Pudore,work,1
+Volcatius,pers,1
+Volcatius Tullus,pers,1
+Volsci,pers,1
+Xanthus,loc,1
+Xen.,pers,1
+XLII.,scope,1
+XV,scope,1
+12th July,scope,1
+"120,000",scope,1
+1250,scope,1
+"12, 29",scope,1
+"12, 31",scope,1
+"12, 33",scope,1
+Vosges,work,1
+Vossius,pers,1
+"110, ii",scope,1
+"11, 28, 30",scope,1
+"11, 30",scope,1
+"11, 31",scope,1
+"11, 33",scope,1
+"11, 36",scope,1
+"126, iv.",scope,1
+12: Il,scope,1
+Waters,work,1
+Voyage de l'Arabie Pétrée,work,1
+Vulcan,loc,1
+W. Humboldt,pers,1
+W. Smith,pers,1
+Wady Musa,work,1
+Volturcius,pers,1
+Volume,scope,1
+Yond' Cassius,pers,1
+Yviça,loc,1
+Yviça,pers,1
+Zab,work,1
+Zakynthian,loc,1
+Xiphares,pers,1
+"11, 12, 18,",scope,1
+10th,scope,1
+William,pers,1
+Wilson,pers,1
+Wolfsbane,pers,1
+Work,pers,1
+Zakynthians,pers,1
+Zante,loc,1
+Zaretra,loc,1
+Yenikalé,loc,1
+Wunder,pers,1
+XII,scope,1
+XIII,scope,1
+XIV,scope,1
+XIX,scope,1
+Western,work,1
+Wey,work,1
+White,work,1
+XXVI,scope,1
+XXXIII,scope,1
+XXXIX,scope,1
+Xalon,loc,1
+Xanthas,loc,1
+Xanthians,pers,1
+Works and,work,1
+Workshop of War,work,1
+Casinatum,loc,1
+Caudinæ,work,1
+Caulonia,loc,1
+Causes,work,1
+Causia,work,1
+Caæsar,pers,1
+11:,scope,1
+"111, ii",scope,1
+Cluiliæ,work,1
+Clunia,pers,1
+Clodius Celsus,pers,1
+Clodones,pers,1
+Cassius Quintus,pers,1
+Cassius Scæva,pers,1
+Casilinum,loc,1
+Casilinum,pers,1
+Clastidium,loc,1
+Clusium,pers,1
+Cluvius Rufus,pers,1
+Clœlia,pers,1
+Clough well,pers,1
+Clough.,pers,1
+Cluentio,pers,1
+Cluilian,work,1
+11 gallons,scope,1
+"11,     22",scope,1
+"115,000",scope,1
+116th Book,scope,1
+"119, ii",scope,1
+Civil Wars_,work,1
+Classical,work,1
+Classical Dict.,work,1
+Zengue,loc,1
+"_, xii",scope,1
+"_Augustus_,",scope,1
+_Civil War,work,1
+_Civil War_,work,1
+"_Claudii_,",scope,1
+_Cæsar,work,1
+_Cæsar_,work,1
+Zenodotia,work,1
+Zenodotia.,loc,1
+Zeugma,loc,1
+Zaretra,pers,1
+Zea,pers,1
+Zeitschrift,work,1
+Zela,loc,1
+Zelitis,loc,1
+Xenokratos,pers,1
+Xenokrilus,pers,1
+Xenophanes,pers,1
+_,pers,1
+Zeus,work,1
+Zilleh,loc,1
+Zenodotia,loc,1
+Zenodotia,pers,1
+111th,scope,1
+"11, 37,",scope,1
+"11, 41",scope,1
+"11, 47",scope,1
+11-13,scope,1
+11-14,scope,1
+11-27,scope,1
+Yechil Ermak,pers,1
+"c. 104, 5",scope,1
+c. 105,scope,1
+"c. 105, 106",scope,1
+book v. p. 56,scope,1
+book vii.,scope,1
+by S.,scope,1
+c.,work,1
+c. 1.,scope,1
+"_, c. 10",scope,1
+"_ 33, c. 14",scope,1
+_ 89,scope,1
+"_, 10",scope,1
+"_, 18",scope,1
+"_, 197",scope,1
+c. 10.,scope,1
+c. 102,scope,1
+"_, xi.",scope,1
+"_, 28",scope,1
+"_, 3",scope,1
+"_, 4",scope,1
+"_, 4, c. 4",scope,1
+"_, 53",scope,1
+"_, 56",scope,1
+"_, 82",scope,1
+"_Junii_,",scope,1
+"_, c. 17",scope,1
+"_, c. 55",scope,1
+"_, ii",scope,1
+"_, ii.",scope,1
+"_, iv.",scope,1
+"_, ix",scope,1
+"_, vii.",scope,1
+biremes,pers,1
+book iii.,scope,1
+_On the Soul_,work,1
+_Philipp.,scope,1
+_Porcii_,work,1
+act ii,scope,1
+ager,work,1
+akesis,pers,1
+"11, 14,     16",scope,1
+"11, 15, 24",scope,1
+"11, 16, 26",scope,1
+"11, 17",scope,1
+"11,     24",scope,1
+"11,     27",scope,1
+"11, 12,",scope,1
+"11, 12, 13",scope,1
+"11, 17, 19",scope,1
+"11, 17; ii",scope,1
+"11, 18",scope,1
+"11, 21",scope,1
+"11, 21, 53",scope,1
+"11, 22",scope,1
+"11, 13,",scope,1
+"11, 13, 17",scope,1
+akoniton,pers,1
+anakos,pers,1
+and,scope,1
+at,loc,1
+b. vi.,scope,1
+"10, 16; ii",scope,1
+"10,     11",scope,1
+"10, 11,",scope,1
+"10, 12",scope,1
+"10, 13, 21",scope,1
+"10, 15,     22",scope,1
+c. 107,scope,1
+c. 111,scope,1
+c. 113,scope,1
+"c. 12, 22",scope,1
+c. 127,scope,1
+"1, 55",scope,1
+105 Cn.,scope,1
+"10, 18, 34",scope,1
+"10, 25, 30",scope,1
+"10, 27",scope,1
+"10, 42",scope,1
+"10,000",scope,1
+"10, 11, 13, 18",scope,1
+"1, 8.",scope,1
+"1, 4, 7, 8,",scope,1
+"1, 4, 8",scope,1
+"1, 44",scope,1
+"1, 5,",scope,1
+"1, 5, 15",scope,1
+"1, 50",scope,1
+"1, 53",scope,1
+"c. 24, 25",scope,1
+"c. 24, 26",scope,1
+"c. 26, 27",scope,1
+"c. 19, 33",scope,1
+"c. 13, 14",scope,1
+"c. 13, 53",scope,1
+c. 14 notes.,scope,1
+"c. 14, 15",scope,1
+"1, c. 37",scope,1
+"1,000,000",scope,1
+"1,600",scope,1
+"1-13,     17",scope,1
+1-3,scope,1
+"1-3,",scope,1
+Centesimæ,work,1
+Celtorii,pers,1
+"1, 16, 21; ii",scope,1
+"1, 16, 28",scope,1
+"1, 17",scope,1
+"1, 17, 23",scope,1
+"1, 18",scope,1
+"1, 18, 20, 22",scope,1
+"1, 19",scope,1
+"1, 19, 28",scope,1
+c. 70,scope,1
+c. 73,scope,1
+c. 74,scope,1
+"c. 65,",scope,1
+c. 69,scope,1
+c. 6 notes,scope,1
+"1, 25",scope,1
+"1, 25,     27",scope,1
+c. 5.)],scope,1
+c. 40 (ed,scope,1
+"c. 42, 43",scope,1
+"c. 34, 38",scope,1
+"c. 34, 56",scope,1
+"c. 34, Notes",scope,1
+c. 36-49,scope,1
+c. 30 and 31,scope,1
+Claudii,pers,1
+Claudii,scope,1
+Claudii,work,1
+1-6,scope,1
+"1, 6, 7",scope,1
+"1, 68",scope,1
+"1, 74",scope,1
+"1, 8, 22",scope,1
+Cliens,pers,1
+Claudius Cicero,pers,1
+Claudius Cæsar,pers,1
+Claudius Rufus,pers,1
+Claudius Æsopus,pers,1
+Claudus,pers,1
+Clastidium,pers,1
+Claudia Gens,work,1
+Cinnas,work,1
+Cinnæ,work,1
+Circeii.,loc,1
+Clemency,pers,1
+Cleopatra,loc,1
+Cleopatra,work,1
+Clepsydra,loc,1
+Clepsydra,work,1
+Celtoscythians,pers,1
+Celts,pers,1
+Celtæ,work,1
+Cenchreae,loc,1
+Ceninenses,pers,1
+Circus Maximus,work,1
+Circus.,work,1
+Cinna and,work,1
+ed.,work,1
+eight days,scope,1
+chs.,scope,1
+chs.,work,1
+circus,work,1
+citadel,loc,1
+city,loc,1
+d,scope,1
+c. 87,scope,1
+c. 89,scope,1
+c. 79,scope,1
+c. 8 &c,scope,1
+d'Anzo,work,1
+designatus,pers,1
+dæmon,pers,1
+dæmons,pers,1
+"ch, 1",scope,1
+c. 94,scope,1
+c. 96,scope,1
+c. 97,scope,1
+c. 99,scope,1
+ch 21,scope,1
+c. 84,scope,1
+c. 85,scope,1
+"c. 51, 52",scope,1
+ch 28,scope,1
+ch 34,scope,1
+ch 36,scope,1
+ch 3; iii,scope,1
+ch 4,scope,1
+"ch,",scope,1
+"ch,",work,1
+eighty-six,scope,1
+eight hundred and thirty,scope,1
+eighteen,scope,1
+eighteenth day,scope,1
+eighth book,scope,1
+eighth century,scope,1
+hillock,work,1
+hills,work,1
+"favourite,",work,1
+fifteenth,scope,1
+fifteenth chapters,scope,1
+"eighth,",scope,1
+eightieth,scope,1
+eighty-five,scope,1
+eighty-fourth,scope,1
+eighty-seven,scope,1
+"ch, 26",scope,1
+"ch, 38",scope,1
+"ch, 45",scope,1
+fifth line,scope,1
+fifty-eight,scope,1
+fifty-fourth,scope,1
+fifty-three,scope,1
+erythros,pers,1
+chap.,scope,1
+chapter,scope,1
+chapter 14,scope,1
+chapter 47,scope,1
+chapter lx.,scope,1
+"ch, 12",scope,1
+"ch, 2",scope,1
+"ch, 23",scope,1
+i. 121,scope,1
+i. 130,scope,1
+i. 14,scope,1
+i. 145,scope,1
+i. 15,scope,1
+"i. 11, 13",scope,1
+i. 112,scope,1
+Cic,work,1
+fountain,work,1
+first Philippic,scope,1
+five hundred and twenty-seven,scope,1
+fort,work,1
+fortieth,scope,1
+forty,scope,1
+forty-eight,scope,1
+"i. 12, 53",scope,1
+fourteenth year,scope,1
+gulf,work,1
+hill,work,1
+forty-five,scope,1
+forty-four,scope,1
+forty-ninth,scope,1
+forty-one,scope,1
+forty-sixth,scope,1
+hines,pers,1
+his,scope,1
+hundred and seventy-sixth,scope,1
+"i, 32",scope,1
+four,scope,1
+four-and-thirty,scope,1
+fourteenth,scope,1
+fourteenth and,scope,1
+i. 117,scope,1
+i. 1-7,scope,1
+i. 100,scope,1
+i. 105,scope,1
+i. 107,scope,1
+i. 109,scope,1
+"i, 55",scope,1
+i.     Fabius,scope,1
+Cercina,loc,1
+Cercyra,loc,1
+Cereate,work,1
+Ceres,loc,1
+Censors,pers,1
+Census,pers,1
+i. 113,scope,1
+i. 114,scope,1
+Circello,loc,1
+Circeum,work,1
+Circus,pers,1
+Cathena,work,1
+Catil.,pers,1
+Central,loc,1
+Cerasus,pers,1
+Cerberus,pers,1
+Citerior Gallia,work,1
+Cities,loc,1
+Cirrha,pers,1
+Cirrheato,work,1
+Cirrheatæ,work,1
+Cirrhæans,pers,1
+Cirrhæato,work,1
+Cirta,work,1
+. Mucius Scævola,pers,1
+"1, 3, 6",scope,1
+"1, 30",scope,1
+"1, 32",scope,1
+"1, 33",scope,1
+"1, 37",scope,1
+"1, 4, 19,",scope,1
+"1, 25, 39",scope,1
+i. 203,scope,1
+i. 213,scope,1
+i. 23,scope,1
+1 _Epist_.,work,1
+. Clodius,work,1
+. Junius Brutus,pers,1
+. Junius Silanus,pers,1
+. Marius,pers,1
+i. 40,scope,1
+i. 250,scope,1
+i. 259,scope,1
+i. 26,scope,1
+i. 262,scope,1
+i. 290,scope,1
+i. 190,scope,1
+i. 2-29,scope,1
+i.     Theseus,scope,1
+i. 1),scope,1
+"i. 1, § 2",scope,1
+i. 306,scope,1
+i. 31,scope,1
+i. 33,scope,1
+i. 361,scope,1
+i. 39,scope,1
+i. 54,scope,1
+i. 55,scope,1
+i. 552,scope,1
+i. 57,scope,1
+i. 59,scope,1
+i. 5; v. 7,scope,1
+i. 41,scope,1
+i. 41-81,scope,1
+i. 79,scope,1
+i. 82,scope,1
+"i. 6, and",scope,1
+i. 62,scope,1
+i. 63,scope,1
+"i. 63, 64",scope,1
+i. 7,scope,1
+i. 7  [608,scope,1
+"i. 15, 23",scope,1
+i. 152,scope,1
+i. 16-23,scope,1
+i. 176,scope,1
+"i. 18, ii",scope,1
+i. 72,scope,1
+i. 74,scope,1
+i. 78,scope,1
+"1, 26",scope,1
+"1, 27",scope,1
+"1, 29",scope,1
+"1, 3, 24, 25",scope,1
+"1, 22, 31",scope,1
+"1, 23",scope,1
+"1, 24",scope,1
+"1, 24,",scope,1
+ninety-four,scope,1
+ninth month,scope,1
+Chalkideus,pers,1
+Chalkidians,pers,1
+Chaborras,work,1
+Chairon,pers,1
+Chalastra,pers,1
+Choerilus,pers,1
+"i. 83, 84",scope,1
+i. 85,scope,1
+i. 86.,scope,1
+i. 88,scope,1
+i. 92,scope,1
+ninety-eight,scope,1
+ninety-eighth,scope,1
+ninety-five,scope,1
+ica,loc,1
+"ii, 26",scope,1
+ii. &,scope,1
+i. 94,scope,1
+i. 98,scope,1
+i. Ep.,work,1
+i. Sc,scope,1
+i. Æmilius,scope,1
+i. 49,scope,1
+i. 50,scope,1
+i. 51,scope,1
+i. 516,scope,1
+island,loc,1
+"iv, 113",scope,1
+"iv, 22, 23",scope,1
+ibidem,pers,1
+mountains,work,1
+mpeius,pers,1
+mule,pers,1
+n. 84,scope,1
+nine,scope,1
+nineteen,scope,1
+ninety,scope,1
+l.c,scope,1
+Ciceronis,pers,1
+Ciceros,pers,1
+Cidaris,pers,1
+Chæroneans,work,1
+Chœrilus,pers,1
+"ninth, tenth",scope,1
+note 83,scope,1
+midnight,scope,1
+Ciecro,pers,1
+Cilicians,loc,1
+Cilicians,work,1
+Cimber,loc,1
+Cimber,pers,1
+Cic.,pers,1
+Cicer,pers,1
+Cicero,work,1
+Choes,loc,1
+Chersonese.,work,1
+Chersonnesians,pers,1
+Chiliarchus,pers,1
+Cimmerian,work,1
+Cimmerii,work,1
+Cingonius Varro,pers,1
+Cingulum,loc,1
+p. 193,scope,1
+p. 198,scope,1
+p.,scope,1
+p. 1,scope,1
+"p. 121, n. 80",scope,1
+p. 125,scope,1
+p. 13,scope,1
+p. 139,scope,1
+p. 216,scope,1
+p. 223,scope,1
+p. 225,scope,1
+p. 162,scope,1
+p. 168,scope,1
+p. 174.,scope,1
+"p. 175, note",scope,1
+p. 192,scope,1
+l. 317,scope,1
+l. 387,scope,1
+l. 4,scope,1
+p. 2,scope,1
+p. 20,scope,1
+p. 204,scope,1
+p. 213,scope,1
+"p. 214, note",scope,1
+legatus,pers,1
+luomenos,pers,1
+lusiodos,pers,1
+koloneia,pers,1
+konak,work,1
+krypteia,pers,1
+l. 10,scope,1
+l. 31,scope,1
+p. 306,scope,1
+p. 31,scope,1
+"p. 320,",scope,1
+p. 328,scope,1
+p. 335,scope,1
+p. 34,scope,1
+p. 237.,scope,1
+p. 246,scope,1
+p. 345,scope,1
+"p. 350, &c.",scope,1
+p. 353,scope,1
+p. 375,scope,1
+p. 376,scope,1
+p. 382,scope,1
+p. 385,scope,1
+p. 287,scope,1
+"p. 39, ed",scope,1
+p. 395,scope,1
+p. 396,scope,1
+p. 400,scope,1
+p. 405,scope,1
+p. 416.,scope,1
+p. 439,scope,1
+p. 451,scope,1
+p. 152.,scope,1
+p. 16,scope,1
+of March,date,1
+on Piety,work,1
+one hundred,scope,1
+one hundred and forty-four,scope,1
+one hundred and three,scope,1
+or three,scope,1
+. 46,scope,1
+. 47,scope,1
+. 50,scope,1
+. 53,scope,1
+. 55,scope,1
+. 56,scope,1
+"1, 12, 14",scope,1
+"1, 12, 15",scope,1
+p. 530,scope,1
+p. 485,scope,1
+p. 491,scope,1
+p. 495,scope,1
+p. 503,scope,1
+p. 512,scope,1
+. 69,scope,1
+. 70,scope,1
+p. 575,scope,1
+p. 587,scope,1
+p. 591,scope,1
+p. 521,scope,1
+p. 523,scope,1
+p. 524,scope,1
+p. 528,scope,1
+p. 53,scope,1
+p. 251,scope,1
+p. 254,scope,1
+"p. 26, note 91",scope,1
+p. 263,scope,1
+p. 279.,scope,1
+p. 547,scope,1
+p. 557,scope,1
+p. 561,scope,1
+p. 48,scope,1
+p. 482,scope,1
+parthenos,pers,1
+philosophy,pers,1
+politikôteron,work,1
+p. 825,scope,1
+p. 829,scope,1
+p. 833,scope,1
+1 _Ep.,scope,1
+p. 516,scope,1
+p. 519,scope,1
+p. 452.,scope,1
+p. 457,scope,1
+p. 46,scope,1
+p. 464,scope,1
+p. 472.,scope,1
+"1,     19, 28",scope,1
+"1,     4, 9",scope,1
+"1, &c.",scope,1
+"1, 10",scope,1
+"1, 12,",scope,1
+. Sextius,pers,1
+1 _,scope,1
+1 _Ep,scope,1
+"1, 13 and 16",scope,1
+"1, 13,",scope,1
+"1, 13, 17",scope,1
+"1, 14",scope,1
+"1, 14, 15",scope,1
+"1, 16, 20",scope,1
+"1,     13, 22",scope,1
+"1,     13, 22, 33",scope,1
+seventy-eight,scope,1
+seventy-seventh,scope,1
+seventy-third,scope,1
+six,scope,1
+second,scope,1
+seven hundred,scope,1
+seven hundred and fifty,scope,1
+seventh century,scope,1
+six or eight,scope,1
+sixteenth and seventeenth letters,scope,1
+sixteenth book,scope,1
+sixteenth chapter,scope,1
+sixteenth month,scope,1
+"seventh,",scope,1
+seventieth,scope,1
+seventy,scope,1
+"p. 79, 4to",scope,1
+p. 795,scope,1
+p. 608,scope,1
+p. 620,scope,1
+p. 622,scope,1
+p. 641,scope,1
+p. 651,scope,1
+six hundred and eighty-three,scope,1
+p. 882,scope,1
+p. 94,scope,1
+p. 97,scope,1
+p. 674,scope,1
+p. 728,scope,1
+p. 749,scope,1
+p. 758,scope,1
+p. 779,scope,1
+sixth day,scope,1
+"sixth,",scope,1
+sixtieth,scope,1
+sixty-fifth,scope,1
+Chaonians,pers,1
+Chara,pers,1
+Charax,pers,1
+Chares,work,1
+sixty-sixth,scope,1
+sixty-two,scope,1
+stadia,loc,1
+stadium,work,1
+tabellæ,work,1
+tellus,pers,1
+sixth century,scope,1
+sixth chapter,scope,1
+third and fourth,scope,1
+thirteenth book,scope,1
+thirtieth,scope,1
+the Fourth,scope,1
+the first chapter,scope,1
+the fourth book,scope,1
+the next chapter,scope,1
+sixty-fourth,scope,1
+seventh day,scope,1
+porticoes,work,1
+prætor,pers,1
+prætor,work,1
+s. 2,scope,1
+the second book,scope,1
+the tenth book,scope,1
+the twenty-fifth,scope,1
+twenty-seven days,scope,1
+twenty-seventh,scope,1
+three or,scope,1
+three thousand five hundred and five,scope,1
+tonius,pers,1
+twelfth year,scope,1
+twelve,scope,1
+twenty Roman miles,scope,1
+Chalkodous,pers,1
+Chalkodus,pers,1
+Chalybes,loc,1
+Chaldæans,work,1
+Chaldæi,loc,1
+twenty-first,scope,1
+twenty-fourth,scope,1
+twenty-second,scope,1
+Chrysantes,pers,1
+Chimeras,pers,1
+Chios,pers,1
+Celtiberi,work,1
+Celtica,loc,1
+Celto-Scythians,pers,1
+Celtorii,loc,1
+Chalkodon,pers,1
+Chthonia,loc,1
+Chærondas,pers,1
+Chærondas,work,1
+Choes,pers,1
+Cholargos,loc,1
+Cholargos,pers,1
+Cholargus,pers,1
+Chrysantas,pers,1
+v.,scope,1
+v. 1,scope,1
+v. 1002,scope,1
+v. 1168,scope,1
+v. 126,scope,1
+v. 13,scope,1
+v. 14,scope,1
+twenty-third,scope,1
+v. 357,scope,1
+v. 157,scope,1
+v. 163,scope,1
+v. 173,scope,1
+v. 18 and 21,scope,1
+v. 189,scope,1
+v. 190,scope,1
+v. 2,scope,1
+thirty-nine,scope,1
+thirty-one,scope,1
+v. 20,scope,1
+"v. 21,",scope,1
+v. 211,scope,1
+v. 22,scope,1
+v. 23,scope,1
+v. 332,scope,1
+thirty-two,scope,1
+thousand seven hundred,scope,1
+three days,scope,1
+three hundred and sixty-five,scope,1
+thirty thousand,scope,1
+thirty-eighth,scope,1
+thirty-first,scope,1
+thirty-fourth book,scope,1
+", liv.",scope,1
+", p. xiv.",scope,1
+", xi.",scope,1
+", xiii",scope,1
+", xiv.",scope,1
+. 81,scope,1
+. 87,scope,1
+. 91,scope,1
+v. 553,scope,1
+v. 563,scope,1
+v. 59,scope,1
+v. 6,scope,1
+v. 67,scope,1
+. 107,scope,1
+. 109,scope,1
+", ix.",scope,1
+x. 11,scope,1
+v. 93,scope,1
+v. 97-121,scope,1
+v. c. 39,scope,1
+v. chap.,scope,1
+vexillarius,pers,1
+vii,scope,1
+v. 531,scope,1
+twenty-two books,scope,1
+two hundred,scope,1
+two hundred and thirty,scope,1
+two-and-thirty,scope,1
+two-and-twenty,scope,1
+"vii,",scope,1
+viii 467.,scope,1
+village,work,1
+v. 52-55,scope,1
+xlvi,scope,1
+xlvi.,scope,1
+xlviii.,scope,1
+xlii,scope,1
+x. 35,scope,1
+x. 36,scope,1
+x. Kal.,scope,1
+v. 79,scope,1
+v. 39,scope,1
+v. 392,scope,1
+v. 4,scope,1
+v. 443,scope,1
+v. 47,scope,1
+v. 5,scope,1
+v. 50,scope,1
+. 78,scope,1
+. 79,scope,1
+. 80,date,1
+. 57,scope,1
+. 60,date,1
+. 61,date,1
+. 62,scope,1
+. 67,scope,1
+. 94,scope,1
+. Cassius,pers,1
+. Cassius Longinus,pers,1
+. Clodius,pers,1
+. 72,scope,1
+. 73,scope,1
+. 74,date,1
+. 74,scope,1
+", 2, c. 35",scope,1
+", 6, 9, 11, 14,",scope,1
+",     11,",scope,1
+", 12-30",scope,1
+", 14-17",scope,1
+§ 44,scope,1
+", 16",scope,1
+. 182,scope,1
+. 366,scope,1
+. 39,scope,1
+. 44,scope,1
+". 45,",scope,1
+Ærarium,pers,1
+Ærolites,pers,1
+", 37",scope,1
+&c,scope,1
+Ælanitic,work,1
+Ælianus,pers,1
+Ægialia,pers,1
+Æginetans,pers,1
+Ægisthus,pers,1
+. 3,scope,1
+. 338,scope,1
+. 346,scope,1
+Ægeste,pers,1
+Æas,pers,1
+Ædepsus,loc,1
+Ædile,work,1
+xxxiv,scope,1
+xxxix,scope,1
+xxxvii,scope,1
+"§ 40, p. 531.",scope,1
+Index Legum,work,1
+Indian Sea,work,1
+Infamia,pers,1
+Illyricum,pers,1
+Imagines,work,1
+Imbros,pers,1
+Imperator,work,1
+Imperator.,pers,1
+Æolus,pers,1
+Initiates,work,1
+Initiation,work,1
+Inora,work,1
+Insubrian,work,1
+Insubrians,work,1
+Imperatores,pers,1
+Imperators,pers,1
+Æthra,work,1
+ædiles,pers,1
+êcheiois,pers,1
+Æsis,pers,1
+Æsis,work,1
+Æson,pers,1
+Æteokles,pers,1
+Æthiopia,loc,1
+. 2,scope,1
+. 10,scope,1
+. 100,date,1
+Æmathia,pers,1
+xvi.,scope,1
+xvii,scope,1
+xx.,scope,1
+xxii.,scope,1
